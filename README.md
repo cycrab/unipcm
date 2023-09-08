@@ -1,4 +1,4 @@
-# SPACE-X
+# SPACE-X (Semi-supervused PertrAined ConvErsation model)
 <!--This repository contains code and data for the **SIGIR'2022** paper "**UniPCM: Universal Pre-trained Conversation Model with Task-based Automatic Prompt**".
 -->
 
