@@ -1,0 +1,18 @@
+{
+  "context_answer_to_question": 0.1012637016432607,
+  "context_description_question_answer_id": 0.019597787578026535,
+  "context_description_question_answer_text": 0.15214227343103975,
+  "context_description_question_text": 0.10025874287300607,
+  "context_question_description_answer_id": 0.039294596908912106,
+  "context_question_description_answer_text": 0.15766800184292545,
+  "context_question_description_text": 0.021967033861304736,
+  "description_context_question_answer_id": 0.022072901949969945,
+  "description_context_question_answer_text": 0.14362482244545183,
+  "description_context_question_text": 0.021843149117942193,
+  "no_prompt_id": 0.030984544395045294,
+  "no_prompt_text": 0.13638249307420228,
+  "only_question_answer": 0.09301339116512604,
+  "task description": 0.12650551612697997,
+  "no prompt": 0.15043633842658133,
+  "task description ahead": 0.15258506177125333
+}

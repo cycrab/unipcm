@@ -1,0 +1,29 @@
+[
+  [
+    "",
+    " The user intention is to "
+  ],
+  [
+    "",
+    "What is the user intent ?"
+  ],
+  "What is the user intent ? Is there a",
+  "What is the user intent ? User intent:",
+  [
+    "Intent of the",
+    "The user intent is to"
+  ],
+  [
+    "user: ",
+    "The user intent of this sentence is: "
+  ],
+  [
+      "user: ",
+      "Is it user intent to "
+  ],
+  [
+      "user: ",
+      "The user intent is to "
+  ],
+  "based on the user intent :"
+]

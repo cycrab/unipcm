@@ -1,0 +1,1127 @@
+{
+    "generation": [
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: remind me to take my pills Assistant: User: remind me to take my pills"
+                ],
+                [
+                    "Dialogue: Dialogue: User: i need to take my pills at 7pm Assistant: what time do you need to take your pills?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: set reminder for dinner at 11am with mom on friday Assistant: set reminder for dinner at 11am with mom on friday Assistant: set reminder for dinner at 11am with mom on friday Assistant"
+                ],
+                [
+                    "KB: Dialogue: User: set reminder for dinner at 11am with mom on friday Assistant: okay, scheduling friday dinner with mom at 11am User: thank you, we are done for now, we are"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "tennis_activity time 3pm tennis_activity date monday football_activity time 3pm football_activity date monday football_activity time 3pm football_activity date monday Dialogue: User: what time is dinner tonight Assistant:"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    ": Dialogue: User: i need a reminder for dinner KB: Dialogue: User: i need a reminder for dinner Assistant: i need a reminder for dinner"
+                ],
+                [
+                    "KB: Dialogue: User: what time shall i set a dinner reminder? Dialogue: User: what time shall i set a dinner reminder?"
+                ],
+                [
+                    ":, for the_6th of this month with marie, for the_6th of this month with marie. Dialogue: User: thanks Assistant: what time shall i set a"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: set me a reminder for football_activity at 1pm, this month on the_11th, with marie Assistant: user: set me a reminder for football_activity at 1"
+                ],
+                [
+                    "1pm with marie Assistant: reminder for football on the_11th of this month at 1pm with marie is set User: thanks buddy Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: set an appointment for swimming"
+                ],
+                [
+                    "User: at 3pm on saturday please Assistant: what time would like me to set the appointment? User: at 3pm on saturday please Assistant: what time would like me to set the appointment?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: schedule conference with sales_team on the_11th of this month 9am Assistant: User: schedule conference with sales_team on the_11th of this month 9am Assistant: User: schedule"
+                ],
+                [
+                    "KB: Dialogue: User: okay, scheduling a conference with the sales_team at 9am on the_11th of this month 9am Assistant: okay, scheduling a conference with the sales_team at 9"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "jon doctor_appointment time 6pm doctor_appointment date the_5th swimming_activity party sister doctor_appointment time 7pm doctor_appointment date the_13th swimming"
+                ],
+                [
+                    "_the_3rd meeting party management meeting room 100_conference_room meeting agenda discuss_the_company_picnic dentist_appointment time 6pm doctor_appointment date the_5th doctor_"
+                ],
+                [
+                    "_the_3rd meeting party management meeting room 100_conference_room meeting agenda discuss_the_company_picnic dentist_appointment time 6pm dentist_appointment date the_5th doctor_"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "2pm optometrist_appointment date thursday optometrist_appointment date thursday optometrist_appointment party sister yoga_activity time"
+                ],
+                [
+                    "thursday optometrist_appointment time 2pm optometrist_appointment date the_10th yoga_activity party martha doctor_appointment time 3pm"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "Dialogue: User: schedule meeting KB: Dialogue: User: schedule meeting KB: KB: KB: KB: KB: KB: KB: KB: KB: KB: KB"
+                ],
+                [
+                    "User: schedule meeting for what time and day? Dialogue: User: schedule meeting for what time and day?"
+                ],
+                [
+                    "User: setting meeting for saturday at 1pm with sales_team to go_over_budget User: okay nice, thank you Assistant: setting meeting for saturday at 1pm with sales_team to go"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: make an appointment for the doctor on the_12th Assistant: make an appointment for the doctor on the_12th Assistant: make an appointment for the doctor on the_12th Assistant: make an"
+                ],
+                [
+                    "KB: Dialogue: User: make an appointment for the doctor on the_12th Assistant: at what time should i set the appointment? User: set it at 7pm please Assistant: at what time should i set"
+                ],
+                [
+                    "KB: Dialogue: User: make an appointment for the doctor on the_12th Assistant: at what time should i set the appointment? User: set it at 7pm please Assistant: i have made an appointment"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: remind me about my yoga_activity with mother on the_15th of this month, it is at 3pm Assistant: User: remind me about my yoga_activity with mother on the_15"
+                ],
+                [
+                    ", it is at 3pm Assistant: kb: Dialogue: User: i will remind you about my yoga_activity with mother scheduled on the_15th of this month, it is at 3pm,"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "_13th tennis_activity party jon tennis_activity time 5pm tennis_activity date the_4th tennis_activity party mother dinner time 6pm dinner date the_17th dinner party aunt tennis_activity time 5pm tennis"
+                ],
+                [
+                    "_13th tennis_activity party jon tennis_activity time 5pm tennis_activity date the_4th tennis_activity party jon tennis_activity time 5pm tennis_activity date the_13th tennis_activity party"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    ": ad: user: schedule a swimming_activity on monday the_1st with my father at 4pm. : ad: user: schedule a swimming_activity on monday the_"
+                ],
+                [
+                    "KB: Dialogue: User: i will promptly schedule a swimming_activity on monday the_1st with your father at 4pm"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "taking_medicine time 2pm taking_medicine date monday taking_medicine date jeff doctor_appointment time 11am doctor_appointment date the_12th doctor_appointment party ana"
+                ],
+                [
+                    "_appointment_date meeting room conference_room_100 meeting agenda discuss_dress_code_appointment_date KB: User: find out the parties joining me and date for my doctor_"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: conference time 3pm conference date thursday conference party sales_team conference room conference_room_100 conference agenda discuss_the_company_picnic tennis_activity time 11am tennis_activity date tue"
+                ],
+                [
+                    "meeting date wednesday meeting time 1pm meeting date wednesday meeting time 1pm meeting date tuesday meeting party sales_team conference room conference_room_100 meeting agenda discuss_the_company_"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "saturday taking_medicine time 1pm taking_medicine date saturday taking_medicine party brother swimming_activity time 2pm swimming_activity date the_7th swimming_activity party alex dentist_appointment"
+                ],
+                [
+                    "saturday taking_medicine time 1pm taking_medicine date saturday taking_medicine party brother swimming_activity time 2pm swimming_activity date the_7th swimming_activity party alex dentist_appointment"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "tennis_activity time 3pm tennis_activity date friday meeting time 7pm meeting date tuesday meeting party hr meeting agenda discuss_the_merger yoga_activity time 1pm yoga_activity date mon"
+                ],
+                [
+                    "tennis_activity time 3pm tennis_activity time friday meeting time 7pm meeting date tuesday meeting party hr meeting room 100_conference_room meeting agenda discuss_the_merger yoga_activity time"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: schedule a conference with the vice_president on the_5th at 11am Assistant: schedule a conference with the vice_president on the_5th at 11am Assistant: schedule"
+                ],
+                [
+                    "KB: Dialogue: Dialogue: User: perfect Assistant: perfect Assistant: perfect Assistant: perfect Assistant: perfect Assistant: perfect Assistant: perfect Assistant: perfect Assistant: perfect Assistant: perfect Assistant: perfect Assistant: perfect Assistant: perfect"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: yoga_activity time 10am yoga_activity date monday Lab_appointment time 11am lab_appointment date thursday dentist time 7pm dentist date tuesday dentist_"
+                ],
+                [
+                    "conference_room_50 conference agenda hr conference_room_50 conference agenda hr conference_room_50 conference agenda hr conference_room_50 conference agenda hr conference_room_50 conference agenda"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: set reminder for doctor_appointment on the_12th at 4 : 50 Assistant: set reminder for doctor_appointment on the_12th at 4 : 50"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    ":: Dialogue: User: Dialogue: Dialogue: Dialogue: Dialogue: User: schedule a football_activity with ana for today at 11am Assistant: Dialogue: User: schedule a football_"
+                ],
+                [
+                    "Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue:"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    ": : : : : : : : : : : : : : : : : : : : : : :"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "5pm dinner date thursday dentist time 7pm dentist date monday yoga_activity time 7pm yoga_activity date thursday yoga_activity time 7pm yoga_activity date thursday yoga_activity"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "conference_room_50 conference agenda onboard_new_members conference time 3pm conference date monday conference party management conference_room conference_room_102 conference agenda onboard_new_members conference time 3pm conference date"
+                ],
+                [
+                    "3pm conference date monday conference party management conference room conference_room_102 conference agenda onboard_new_members conference time 3pm conference date monday conference party management conference_room conference_room_102 conference agenda onboard"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "_appointment time 11am tuesday football_activity time 2pm football_activity date monday dentist time 2pm dentist date tuesday football_activity time 2pm football_activity"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "_the_company_picnic jon meeting time 4pm meeting date monday meeting party vice_president meeting room conference_room_102 meeting agenda discuss_the_company_picnic dentist_appointment time"
+                ],
+                [
+                    "optometrist_appointment time 1pm optometrist_appointment date the_8th optometrist_appointment party jon meeting time 4pm meeting date mon"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "yoga_activity time 2pm yoga_activity date wednesday doctor_appointment time 2pm doctor_appointment date wednesday meeting time 7pm meeting date monday meeting party infrastructure_team meeting"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "jon::::::: jon: jon: jon: jon: jon: jon: jon: jon: jon: jon: jon:"
+                ],
+                [
+                    "KB: Dialogue: User: thank you Assistant: your swimming_activity with jon has been scheduled for dec 10th at 3pm User: thank you Assistant: your swimming_activity with jon has been scheduled for de"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "date monday meeting party boss meeting room conference_room_50 meeting agenda discuss_dress_code meeting time 1pm meeting date monday meeting party boss meeting room conference_room_50 meeting agenda go_over_budget football_"
+                ],
+                [
+                    "_dress_code meeting time 1pm meeting date monday meeting party boss meeting room conference_room_50 meeting agenda go_over_budget football_activity time 7pm football_activity date the_3rd football_activity"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dia"
+                ],
+                [
+                    "Dialogue: User: it s at 1pm today Assistant: when? User: it s at 1pm today Assistant: when?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: dinner time 5pm dinner date tuesday dinner party sister tennis_activity time 3pm tennis_activity date the_4th tennis_activity party tom doctor_appointment time 7pm doctor_"
+                ],
+                [
+                    "_13th doctor_appointment party mother football_activity time 7pm football_activity date wednesday football_activity date aunt swimming_activity time 1pm swimming_activity date wednesday swimming_activity date"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "meeting agenda go_over_budget conference time 2pm conference date the_19th conference party sales_team conference_room_102 conference agenda discuss_the_company_picnic optometrist_appointment"
+                ],
+                [
+                    "_over_budget conference time 2pm conference date the_19th conference party sales_team conference_room_102 conference agenda discuss_the_company_picnic sales_team conference_room_102 conference agenda discuss_the"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "........................"
+                ],
+                [
+                    "KB: Dialogue: User: at 2pm please Assistant: at 2pm please Assistant: at 2pm please Assistant: at 2pm please Assistant: at 2pm please Assistant: at 2pm please Assistant: at 2pm please Assistant"
+                ],
+                [
+                    "User: at 2pm please Assistant: at 2pm please Assistant: at 2pm please Assistant: at 2pm please Assistant: at 2pm please Assistant: at 2pm please Assistant: at 2pm please Assistant: at 2pm please Assistant"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: optometrist_appointment time 11am optometrist_appointment date tuesday yoga_activity time 10am tennis_activity time 3pm tennis_activity date"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "_10th dentist_appointment party mother tennis_activity time 10am tennis_activity date the_10th tennis_activity party aunt dentist_appointment time 1pm dentist_appointment date the_"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: schedule taking_medicine at 6pm on the_13th of next month with my brother."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "10th taking_medicine date the_10th taking_medicine party father football_activity time 9am football_activity date sunday football_activity party brother meeting time 4pm meeting date sunday meeting party executive_team meeting room conference"
+                ],
+                [
+                    "medicine party father football_activity time 9am football_activity date sunday football_activity party brother meeting time 4pm meeting date sunday meeting party executive_team meeting room conference_room_50 meeting agenda go_over_budget"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: Dialogue: Dialogue: Dialogue: User: Dialogue: Dialogue: Dialogue: User: Dialogue: Dialogue: User: Dialogue: Dialogue: User: Dialogue"
+                ],
+                [
+                    "frank Assistant: okay, setting a reminder for me to take my medicine at 9am on sunday User: thank you Assistant: okay, setting a reminder for me to take my medicine at 9am on sun"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "dinner time 7pm dinner date martha optometrist_appointment time 5pm optometrist_appointment date the_5th optometrist_appointment party"
+                ],
+                [
+                    "martha optometrist_appointment time 5pm optometrist_appointment date the_5th optometrist_appointment party brother dinner time 7pm dinner"
+                ],
+                [
+                    "KB: conference time 7pm conference date monday conference party boss conference_room_102 conference agenda go_over_budget lab_appointment time 9am lab_appointment date tuesday"
+                ],
+                [
+                    "martha optometrist_appointment time 5pm optometrist_appointment date the_5th optometrist_appointment party brother tennis_activity time 9"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "football_activity time 2pm football_activity date monday conference time 3pm conference date thursday conference party infrastructure_team conference room 100_conference_room conference agenda discuss_the_company_picnic dinner time 5pm"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "jon dinner time 6pm dinner date the_11th dinner party jon lab_appointment time 2pm lab_appointment date the_7th lab_appointment party mother football_activity time 10"
+                ],
+                [
+                    "jon dinner time 6pm dinner date the_11th dinner party jon lab_appointment time 2pm lab_appointment date the_7th lab_appointment party mother football_activity time 10"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "Dialogue: User: schedule swimming time KB: Dialogue: User: schedule swimming time Assistant: user: schedule swimming time Assistant: user: schedule swimming time Assistant: user: schedule swimming time Assistant: user: schedule swimming time Assistant:"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: remind me to watch football on sunday Assistant: User: remind me to watch football on sunday Assistant: User: remind me to watch football on sunday Assistant: User: remind me to watch football"
+                ],
+                [
+                    "Dialogue: User: what time would like the reminder? User: 2pm Assistant: what time would like the reminder?"
+                ],
+                [
+                    "KB: Dialogue: User: 2pm Assistant: what time would like the reminder? User: 2pm Assistant: what time would like the reminder?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    ": Dialogue: User: Dialogue: User: Dialogue: User: schedule a dentist_appointment at 3 next month on the_12th Assistant: User: Dialogue: User: schedule a dentist_"
+                ],
+                [
+                    "?? Assistant: i ve scheduled a dentist_appointment for 3pm on the_12th, anything else? Dialogue: User: can you confirm you set the dentist_a"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "tuesday conference party executive_team conference room conference_room_102 conference agenda discuss_dress_code doctor_appointment time 4pm doctor_appointment date monday doctor_appointment"
+                ],
+                [
+                    "jon swimming_activity time 5pm swimming_activity date the_5th tennis_activity party jeff tennis_activity time 1pm tennis_activity date the_8th tennis_activity party jon swimming_activity time 5pm"
+                ],
+                [
+                    "jon swimming_activity time 5pm swimming_activity date the_5th swimming_activity party jon swimming_activity time 5pm swimming_activity date the_8th tennis_activity party jeff tennis_activity time 1pm"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "sales_team conference room sales_team conference_room_102 conference agenda discuss_the_merger doctor_appointment time 11am doctor_appointment date wednesday football_activity time 2pm football"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "tennis_activity time 1pm tennis_activity date monday conference time 3pm conference date tuesday conference_party infrastructure_team conference_room conference_room_50 conference agenda discuss_the_merger football_"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "lab_appointment time 3pm lab_appointment date tuesday dinner time 5pm dinner date friday meeting time 3pm meeting date wednesday meeting party sales_team meeting room 100"
+                ],
+                [
+                    "lab_appointment time 3pm lab_appointment date wednesday meeting party sales_team meeting room 100_conference_room meeting agenda discuss_the_merger optometrist_ap"
+                ],
+                [
+                    "lab_appointment time 3pm lab_appointment date tuesday dinner time 5pm dinner date friday meeting time 3pm meeting date wednesday meeting party sales_team meeting room 100"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "meeting time 6pm meeting date the_10th meeting party executive_team meeting room conference_room_100 meeting agenda onboard_new_members meeting time 6pm meeting date the_10th meeting party executive_team meeting room"
+                ],
+                [
+                    "meeting time 6pm meeting date the_10th meeting party executive_team meeting room conference_room_100 meeting agenda onboard_new_members meeting time 6pm meeting date the_10th meeting party executive_team meeting room"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    ":: kb: kb: Dialogue: User: schedule a swimming_activity with marie on sunday at 6pm Assistant: user: schedule a swimming_activity with marie on sunday at"
+                ],
+                [
+                    "KB: Dialogue: User: okay, i will set a schedule for a swimming_activity with marie on sunday at 6pm Assistant: okay, i will set a schedule for a"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "conference_room_50 meeting agenda discuss_the_company_picnic optometrist_appointment time 7pm optometrist_appointment date friday optometrist_a"
+                ],
+                [
+                    "conference_room_50 meeting agenda discuss_the_company_picnic optometrist_appointment time 7pm optometrist_appointment date friday conference_room_50 meeting agenda"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "Dialogue: User: assistant schedule an appointment at the dentist, 9am of the_12th of current month bring martha with me."
+                ],
+                [
+                    "KB: Dialogue: User: assistant schedule an appointment at the dentist on the_12th of current month at 9am bring martha with me Assistant: i am setting an appointment at the dentist on the_12th of"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: Dialogue: User: set a reminder for my swimming plans Assistant: set a reminder for my swimming plans Assistant: set a reminder for my swimming plans Assistant: set a reminder for my swimming plans"
+                ],
+                [
+                    "KB: Dialogue: User: at 11am on friday Assistant: swimming plans User: at 11am on friday Assistant: swimming plans User: at 11am on friday Assistant: swimming plans User: at 11am on fri"
+                ],
+                [
+                    "KB: Dialogue: Dialogue: User: Dialogue: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "_the_merger lab_appointment time 3pm lab_appointment date thursday meeting time 2pm meeting date friday meeting party sales_team meeting room conference_room_50 meeting agenda go"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "party jon football_activity time 6pm football_activity date the_4th doctor_appointment party marie doctor_appointment time 9am doctor_appointment date the_4th doctor_"
+                ],
+                [
+                    "hr conference room conference_room_100 conference agenda discuss_the_company_picnic KB: taking_medicine time 7pm taking_medicine time 7pm taking_medicine time 7pm taking_medicine party martha opt"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: user_appointment_time 3pm dentist_appointment date friday meeting time 11am meeting date wednesday meeting party hr meeting room 100_conference_room meeting agenda go_over"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue:"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: set an appointment to swim next_week Assistant: User: set an appointment to swim next_week KB: Dialogue: User: set an appointment to swim next_week KB: Dialogue"
+                ],
+                [
+                    "KB: Dialogue: User: thursday at 10am please Assistant: what date and time is your swim appointment? User: thursday at 10am please Assistant: what date and time is your swim appointment"
+                ],
+                [
+                    "KB: Dialogue: User: Dialogue: User: thursday at 10am please Assistant: what date and time is your swim appointment? User: thanks Assistant: what date and time is your swim appointment?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "11am party marie lab_appointment time 2pm lab_appointment date the_5th lab_appointment party marie tennis_activity time 2pm tennis_activity date the_10"
+                ],
+                [
+                    "11am party marie_5th lab_appointment party aunt tennis_activity time 2pm tennis_activity date the_10th tennis_activity party alex Assistant: thanks! User: great,"
+                ],
+                [
+                    "11am marie_10th tennis_activity party alex yoga_activity time 4pm yoga_activity date the_10th tennis_activity party alex yoga_activity time 4pm yoga_activity date the_5"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    ":_7th at 11am_7th at 11am:_7th at 11am_7th at 11am: User: schedule a swimming_activity with my brother for the_7"
+                ],
+                [
+                    "KB: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue: Dialogue:"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "tennis_activity party marie conference time 6pm conference date sunday conference party management conference room conference_room_102 conference agenda discuss_the_company_picnic football_activity time 7pm football_activity date the_15th"
+                ],
+                [
+                    "_the_company_picnic football_activity time 7pm football_activity date the_15th football_activity party ana conference time 3pm conference date the_20th conference party management conference room conference_room_102 conference"
+                ],
+                [
+                    "_10am tennis_activity date the_19th football_activity party aunt tennis_activity time 7pm tennis_activity date the_20th tennis_activity party ana conference time 3pm conference date the_20th conference party"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: doctor_appointment time 9am doctor_appointment date friday doctor_appointment party aunt tennis_activity time 2pm tennis_activity date the_10th tennis_activity party sister taking"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "meeting time 1pm doctor_appointment date tuesday tuesday tuesday KB: tuesday who will be at"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "lab_appointment time 2pm lab_appointment date monday yoga_activity time 7pm yoga_activity date monday lab_appointment time 2pm lab_appointment date monday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    ": Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue"
+                ],
+                [
+                    "KB: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User:"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "the_merger conference time 10am conference date friday conference party executive_team conference room conference_room_100 conference agenda discuss_the_company_picnic doctor_appointment time 2pm doctor_appoint"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: tennis_activity time 3pm tennis_activity date sunday tennis_activity party alex tennis_activity time 6pm tennis_activity date the_7th tennis_activity party martha dentist_appointment time"
+                ],
+                [
+                    "tennis_activity time 3pm tennis_activity date sunday tennis_activity party alex tennis_activity time 6pm tennis_activity date the_7th tennis_activity party martha dentist_appointment time 7pm dentist"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "saturday conference party infrastructure_team conference room 100_conference_room conference agenda go_over_budget yoga_activity time 3pm yoga_activity date friday yoga_activity party sister conference time 2pm conference date"
+                ],
+                [
+                    "KB: yoga_activity time 4pm yoga_activity date the_17th yoga_activity party martha, one on monday with alex, two on friday with sister and one with marie, and"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: schedule taking_medicine with martha at 5pm next wednesday Assistant: User: schedule taking_medicine with martha at 5pm next wednesday Assistant: User: schedule"
+                ],
+                [
+                    "KB: Dialogue: User: okay scheduling taking_medicine with martha at 5pm next wednesday Assistant: okay scheduling taking_medicine with martha at 5pm next wednesday User: thank you"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: schedule a conference at 6pm on the tenth with sales_team Assistant: User: schedule a conference at 6pm on the tenth with sales_team."
+                ],
+                [
+                    "KB: Dialogue: User: thank you Assistant: i will schedule a conference at 6pm on the tenth with sales_team User: thank you Dialogue: User: thank you Dialogue: User: thank"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    ": Dialogue: Dialogue: User: please set a reminder to take medicine at 7pm tuesday with ana."
+                ],
+                [
+                    "KB: Dialogue: Dialogue: User: thanks, setting a reminder to take your medicine at 7pm tuesday with ana Dialogue: User: thanks, setting a reminder"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "saturday at 2pm at 2pm at 2pm at 2pm::: saturday at 2pm saturday at 2pm:: saturday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: remind me to go swimming at 4 : 50 Assistant: user: remind me to go swimming at 4 : 50"
+                ],
+                [
+                    "KB: Dialogue: User: at 4 : 50pm the_12th of this month Assistant: am or pm? User: at 4 : 50pm the_12th of this month Assistant: am or pm"
+                ],
+                [
+                    ": : KB: Dialogue: User: at 4 : 50pm the_12th of this month Assistant: am or pm? User: at 4 : 50pm the_12th of this month"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "medicine party jon swimming_activity time 2pm swimming_activity date sunday swimming_activity party jon dinner time 7pm dinner date the_5th dinner party alex lab_appointment time 5pm lab_a"
+                ],
+                [
+                    "swimming_activity time 2pm swimming_activity date sunday swimming_activity date jon dinner time 7pm dinner date the_5th dinner party alex lab_appointment time 5pm lab_appointment date"
+                ],
+                [
+                    "jon dinner time 7pm dinner date the_5th dinner party alex lab_appointment time 5pm lab_appointment date tuesday lab_appointment date tu"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: doctor_appointment time 2pm doctor_appointment date monday doctor_appointment party jeff doctor_appointment time 3pm doctor_appointment date the_"
+                ],
+                [
+                    "KB: doctor_appointment time 2pm doctor_appointment date monday doctor_appointment party jeff doctor_appointment time 3pm doctor_appointment date monday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: set a reminder for the conference KB: Dialogue: User: set a reminder for the conference KB: Dialogue: User: set a reminder for the conference KB: Dia"
+                ],
+                [
+                    "Dialogue: User: set a reminder for the conference Assistant: what day and time is the conference User: it is on august 14th at 4pm Assistant: what day and time is the conference User: it is on august 14"
+                ],
+                [
+                    "KB: Dialogue: User: i have that conference set up for you to be reminded of is there anything else you need? User: what day and time is the conference User: it is on august 14th at"
+                ],
+                [
+                    "KB: Dialogue: User: Dialogue: User: KB: Dialogue: User: KB: Dialogue: User: KB: Dialogue: User: KB: Dialogue: User: KB:"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "_dress_code meeting time 1pm meeting date friday meeting party hr meeting room 100_conference_room meeting agenda discuss_dress_code meeting time 1pm meeting date friday meeting party hr meeting room 100_"
+                ],
+                [
+                    "_dress_code meeting time 1pm meeting date friday meeting party hr meeting room conference_room_50 conference agenda discuss_dress_code meeting time 1pm meeting date friday meeting party hr meeting room 100_"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "_the_company_picnic 3pm optometrist_appointment date friday medicine time 1pm medicine date friday meeting time 1pm medicine date friday meeting time 1pm medicine date thurs"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: schedule a conference with the boss for this month on the_5th at 1pm Assistant: KB: Dialogue: User: schedule a conference with the boss for this month on the_"
+                ],
+                [
+                    "KB: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User:"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    ":: kb: Dialogue: User: schedule a tennis_activity with martha for friday at 4pm Assistant: kb: Dialogue: User: schedule a tennis_activity with marth"
+                ],
+                [
+                    "KB: Dialogue: Dialogue: User: okay, scheduling a tennis_activity with martha for friday at 4pm Assistant: okay, scheduling a tennis_activity with martha for friday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "jon  : : Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dia"
+                ],
+                [
+                    "jon Assistant: jon Assistant: jon, scheduling a reminder for my tennis_activity at 5pm on the_10th with jon Assistant: jon, i would like to schedule a reminder"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "meeting_room_100 meeting agenda go_over_quarterly_report dinner time 6pm dinner date the_9th dinner party ana optometrist_appointment time 9am optometrist"
+                ],
+                [
+                    "i need to find out some info for my optometrist_appointment, the date and time please Assistant: okay, which one?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "medicine time 2pm medicine date tuesday meeting time 3pm meeting date monday meeting party sales_team meeting room conference_room_50 meeting agenda go_over_budget tennis_activity time 3pm tennis_"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    ":: a_dialogue: User: Dialogue: User: a_dialogue: User: a_dialogue: user: a_dialogue: user:"
+                ],
+                [
+                    "KB: Dialogue: User: okay, i am scheduling a swimming_activity with tom on the_6th of this month at 2pm Assistant: okay, i am scheduling a swimming event with"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "Dialogue: User: i have an eye doctor_appointment on the_12th at 5pm Assistant: i have an eye doctor_appointment on the_12th at 5pm Assistant: i"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "conference date friday conference_party infrastructure_team conference_room_100 conference agenda discuss_the_merger football_activity time 10am football_activity date wednesday doctor_appointment time 7pm doctor_"
+                ],
+                [
+                    "_room_100 conference agenda discuss_the_merger football_activity time 10am football_activity date wednesday doctor_appointment time 7pm doctor_appointment date tuesday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: schedule an appointment for yoga KB: Dialogue: User: schedule an appointment for yoga KB: Dialogue: User: schedule an appointment for yoga KB: Dialogue: User: schedule an"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "swimming_activity time 2pm swimming_activity date the_8th swimming_activity party mother conference time 9am conference date the_13th conference party hr conference room 100_conference_room conference agenda discuss_dress_code"
+                ],
+                [
+                    "swimming_activity time 2pm swimming_activity date the_8th swimming_activity party k: k: k: k: k: k: k: k: k: k:"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "5pm dinner date thursday conference party hr conference room conference_room_100 conference agenda discuss_the_merger dinner time 5pm dinner date wednesday conference party hr conference room conference_room"
+                ],
+                [
+                    "11am conference date wednesday conference party hr conference room conference_room_100 conference agenda discuss_the_company_picnic lab_appointment time 7pm lab_appointment date wed"
+                ],
+                [
+                    "thursday conference party hr conference room conference_room_100 conference agenda discuss_the_company_picnic dinner time 5pm dinner date wednesday conference party hr conference room conference_room_100"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: KB: Dialogue: User: schedule a lab_appointment at 6pm on august 3 alex is coming along Assistant: KB: Dialogue: User: schedule"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "tuesday doctor_appointment time 10am doctor_appointment date thursday football_activity time 2pm football_activity date thursday dentist time 3pm dentist date tu"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: meeting time 6pm meeting date friday meeting party executive_team meeting room conference_room_50 meeting agenda discuss_dress_code doctor_appointment time 4pm doctor_appointment date wednes"
+                ],
+                [
+                    "KB: meeting time 6pm meeting date friday meeting party executive_team meeting room conference_room_50 meeting agenda discuss_dress_code doctor_appointment time 4pm doctor_appointment date wednes"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: set a reminder for a football_activity at 10am, on friday, with tom Assistant: set a reminder for a football_activity at 10am, on"
+                ],
+                [
+                    "KB: Dialogue: Dialogue: User: Dialogue: Dialogue: User: Dialogue: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dialogue: User: Dia"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: set reminder for doctor_appointment for the tenth Assistant: User: set reminder for doctor_appointment for the tenth Assistant: user: set reminder for doctor_"
+                ],
+                [
+                    "KB: Dialogue: User: yes, would you like me to include a time? Dialogue: User: okay setting reminder for doctor_appointment for the tenth Assistant: okay setting reminder for"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "6pm dinner date discuss_dress_code dinner time 6pm dinner date discuss_dress_code dinner time 6pm dinner date tuesday dinner party marie football_activity time 11am football_activity date the_"
+                ],
+                [
+                    "6pm dinner date discuss_dress_code dinner time 6pm dinner date discuss_dress_code dinner time 6pm dinner date discuss_dress_code dinner time 6pm dinner date tuesday dinner party marie football"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "lab_appointment time 2pm lab_appointment date the_20th lab_appointment party alex swimming_activity time 7pm swimming_activity date the_16th swimming_activity party mar"
+                ],
+                [
+                    "KB: taking_medicine time 4pm taking_medicine date wednesday taking_medicine party tom lab_appointment time 2pm lab_appointment date the_20th lab_appointment"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: optometrist_appointment time 11am optometrist_appointment date sunday optometrist_appointment party jon meeting time 1pm optometri"
+                ],
+                [
+                    "KB: optometrist_appointment time 11am optometrist_appointment party jon meeting time 1pm optometrist_appointment date sunday jon meeting"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "_18th football_activity party martha doctor_appointment time 7pm doctor_appointment date the_12th swimming_activity party sister taking_medicine time 10am taking_medicine date 10am taking"
+                ],
+                [
+                    "_12th swimming_activity party sister taking_medicine time 10am taking_medicine date 10am taking_medicine date 10am taking_medicine date 10am taking_medicine date 10am taking_medicine date 10am taking_medicine date"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "_5th of this month with boss to go_over_quarterly_report KB: Dialogue: User: schedule a meeting at 6pm on the_5th of this month with boss to go_over_"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: remind me about my lab_appointment Assistant: User: remind me about my lab_appointment"
+                ],
+                [
+                    "KB: Dialogue: User: remind me about my lab_appointment Assistant: what date is your appointment? User: my doctor_appointment is at 7pm on monday the_1st Assistant"
+                ],
+                [
+                    "KB: Dialogue: User: ok, thanks Assistant: what date is your appointment?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "20th taking_medicine date the_14th taking_medicine party marie yoga_activity time 7pm football_activity date the_14th football_activity party marie yoga_activity time 5pm football_activity date the_"
+                ],
+                [
+                    "_20th taking_medicine time 3pm taking_medicine date the_14th taking_medicine date marie yoga_activity time 5pm football_activity date the_17th football_activity party jeff yoga_activity time"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: remind me about tennis at 10am at the end of march with martha Assistant: User: remind me about tennis at 10am at the end of march with martha"
+                ],
+                [
+                    "Assistant:? User: user: a reminder is set for tennis with martha at 10am at the end of march with martha what is the date for the scheduled tennis event? Dialogue: User"
+                ],
+                [
+                    "KB: Dialogue: User: thanks Assistant: ok setting reminder for tennis with martha at 10am for the last week of march User: thanks Assistant: ok setting reminder for tennis with martha at 10am"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: Dialogue: User: schedule a conference with the executive_team for the_15th of this month at 9am Assistant: schedule a conference with the executive_team for the_15th of this month at 9"
+                ],
+                [
+                    "KB: Dialogue: Dialogue: User: okay, scheduling a conference with the executive_team for the_15th of this month at 9am User: thanks Assistant: okay, scheduling a conference with the"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1127 @@
+{
+    "generation": [
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " When would you like to take your pills?"
+                ],
+                [
+                    "user: ok, i will remind you at 7pm"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Okay, setting a reminder for dinner with mom on Friday at 11am."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What time is dinner tonight?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What time and date would you like the reminder for?"
+                ],
+                [
+                    " Okay, setting a dinner reminder for the 6th of this month at 7pm with your beloved marie."
+                ],
+                [
+                    "i will set a reminder for dinner at 7pm, for the_6th of this month with marie"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Okay, setting a reminder for football activity on the 11th at 1 pm with marie."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What day and time would you like to set the appointment for?"
+                ],
+                [
+                    " what is the name of the appointment?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What is the name of the conference?"
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your doctor apartment is at 2pm with Tom and your father."
+                ],
+                [
+                    " your appointment is at 2pm with Dr. Tom"
+                ],
+                [
+                    " your doctor appointment on the 5th is at 7pm with your father"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You have two tennis activities scheduled. One at 5pm on sunday and one at 10am on thursday."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What day and time would you like to schedule your meeting?"
+                ],
+                [
+                    " ok i have set a meeting for saturday at 1pm with sales team to go over budget"
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " what time?"
+                ],
+                [
+                    " what day should i set the appointment for?"
+                ],
+                [
+                    "appointment set"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Okay, I will remind you about your yoga activity with your mother on the 15th of this month at 3 pm."
+                ],
+                [
+                    " okay, i will remind you of your yoga activity with your mother scheduled on the_15th of this month at 3pm"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your next tennis activity is on Thursday at 3pm with your aunt."
+                ],
+                [
+                    "jon and tom are attending"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I have scheduled a swimming activity on Monday the 1st at 4pm with your father."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You have two doctor appointments scheduled. One at 6pm on the 20th and one at 9am on the 14th."
+                ],
+                [
+                    "ok"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your tennis match is at 11am on Tuesday"
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your dentist appointment is at 10am on saturday."
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You have a dinner at 5pm on Tuesday, a tennis activity at 3pm on Friday, a meeting at 7pm on Friday, and a meeting at 10am on Wednesday."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I can do that. What is the name of the conference?"
+                ],
+                [
+                    " you are all set"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your dentist appointment is at 11am on Monday."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Okay, setting reminder for doctor appointment on the 12th at 4:50 pm."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I can schedule a football activity with ana for today at 11am."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Okay, I will make a note for you on the 12th at 5pm."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your doctor appointment is at 11am on Monday."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "user: I am going to the yoga activity party on thursday at 5pm with my aunt"
+                ],
+                [
+                    "assistant: you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your doctor appointment is at 11am on Tuesday."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What is the name of the meeting?"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your next meeting is on Thursday at 10am with your boss."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I have scheduled a swimming activity with Jon for December 10th at 3pm."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You have two meetings scheduled. One for Tom and the other for Marie."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What day and time would you like to schedule your appointment?"
+                ],
+                [
+                    " what doctor?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your dinner is on Tuesday at 5pm with your sister and your father."
+                ],
+                [
+                    "tuesday with your sister"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What is the name of the meeting?"
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What time?"
+                ],
+                [
+                    " Okay, setting a reminder for the football game on the 1st at 2pm"
+                ],
+                [
+                    "i have set a reminder for the football game at 2pm on the_1st"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What is the name of the doctor appointment?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your dentist appointment is set for Friday at 9am."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I will schedule you taking medicine at 6 pm on the 13th of next month with your brother."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What would you like to know?"
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Setting a reminder for you to take medicine on Sunday at 9am with brother Frank."
+                ],
+                [
+                    "frank"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You have two meetings scheduled on Monday at 7pm."
+                ],
+                [
+                    " you have a group of people including tom, martha and alex"
+                ],
+                [
+                    "i am not able to find the conference agenda"
+                ],
+                [
+                    "i am going to ask you to check the schedule"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your optometrist appointment is on Wednesday at 1pm."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your next dinner event is on Tuesday at 5pm with your sister."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What day would you like to schedule your swimming time for?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What time would you like to set the reminder for?"
+                ],
+                [
+                    " What is the name of the football team?"
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What is the name of the dentist appointment?"
+                ],
+                [
+                    " yes, you have a dentist appointment scheduled for next month on the 12th at 3pm"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "user: i dont know, i just know that i am going to the tennis game with my friends"
+                ],
+                [
+                    " jon and jeff will be there at 1pm"
+                ],
+                [
+                    "jon and jeff will be there at 1pm"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The football game is on Thursday at 2pm"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You have swimming, tennis, and a merger."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You have two meetings scheduled. One at 11am and the other at 3pm. Which one do you want me to check?"
+                ],
+                [
+                    " your meeting is at 11am on wednesday at the 100 conference room"
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You are going swimming on wednesday."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I have scheduled a swimming activity with marie on Sunday at 6pm."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your doctor appointment is at 2pm and you are going with your aunt."
+                ],
+                [
+                    "ok"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I will schedule an appointment for you on March 12th at 9 am with martha."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What time would you like to set a reminder for?"
+                ],
+                [
+                    " Setting a reminder for swimming plans at 11am on Friday"
+                ],
+                [
+                    " have a good day"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your meeting is scheduled for today at 11am."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You have two optometrist appointments scheduled on Saturday."
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What time is your dinner reservation?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Okay, setting a reminder for your dentist appointment with your dad on the first at 2pm."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What time would you like to set the appointment for?"
+                ],
+                [
+                    " what is the name of the appointment?"
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You are welcome."
+                ],
+                [
+                    "i am not able to find the party you are attending"
+                ],
+                [
+                    "i need to know the date for my lab appointment"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I can schedule a swimming activity with your brother for the 7th at 11 am."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your conference is on sunday at 7pm in the conference room 102."
+                ],
+                [
+                    " ok, you are all set for the 6pm meeting"
+                ],
+                [
+                    "ok"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You have two doctors attending."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You have two meetings scheduled on Friday."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your lab appointment is at 10am on Monday."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I have scheduled your dentist appointment for the 8th at 1 pm with Ana."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You are playing tennis at 11am on Thursday."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your dentist appointment is on Monday at 10am with your sister and your brother."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your yoga activity is on the 17th at 4pm with your aunt."
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I have scheduled a meeting with martha at 5 pm next wednesday."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I have scheduled a conference for 6pm on the 10th with sales_team."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I have set a reminder for medicine at 7pm on Tuesday with Ana."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I have set a reminder for medicine with martha on Saturday at 2pm."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Okay, setting a reminder for swimming at 4:50."
+                ],
+                [
+                    " Setting reminder for swimming at 4 pm on the 12th of this month."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You have two meetings scheduled. One at 11am on friday and one at 10am on tuesday."
+                ],
+                [
+                    " you are welcome"
+                ],
+                [
+                    "i am glad i could help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The doctor appointment is at 2pm on Monday with the party of tom and the party of marie."
+                ],
+                [
+                    "i have two on the_9th"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What time and date should I set the reminder for?"
+                ],
+                [
+                    " Okay, I have set a reminder for the conference on August 14th at 4pm."
+                ],
+                [
+                    " ok i have added the executive team to the reminder"
+                ],
+                [
+                    "i am glad i could help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You have two tennis activities scheduled. One for the 8th and the 3rd. One for the 4th and the 10th."
+                ],
+                [
+                    "jon is attending the 3rd and 4th tennis_activity"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your next conference is Monday at 5pm."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What is the name of the conference?"
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I have scheduled a tennis activity with martha for Friday at 4pm."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Okay, I have set a reminder for your tennis activity with Jon at 5pm on the 10th."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What information do you need?"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your next meeting is on Thursday at 11am."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I have scheduled a swimming activity with Tom on the 6th at 2 pm."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Could you please provide your name and number?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The football game is at 10am on Wednesday"
+                ],
+                [
+                    "ok"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What day and time would you like to schedule your yoga appointment?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What is the name of the conference?"
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You have two meetings tomorrow. One at 2pm, one at 11am, and one at 2pm."
+                ],
+                [
+                    "ok"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Okay, scheduling a lab appointment for August 3 at 6pm with Alex."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " You have an appointment with the eye doctor on Tuesday at 11am."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The meeting is on friday at 6pm with the executive team and the attendees are jeff, alex, marie, and tom."
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Okay, I've set a reminder for football activity on Friday at 10am with Tom."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What time would you like the reminder set for?"
+                ],
+                [
+                    " okay setting reminder for doctor appointment on the tenth at 1pm"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The swimming party is on Tuesday at 9am with the host and the other host."
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your lab appointment is at 4pm with tom and the party is martha"
+                ],
+                [
+                    "jon and alex"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Your next meeting is on sunday at 1pm with your boss and your vice president."
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What is your swimming activity?"
+                ],
+                [
+                    "i have one for the 14th at 6pm and one for the_12th at 7pm"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Okay, scheduling a meeting with your boss on the 5th of this month at 6pm"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What day and time would you like to set a reminder for?"
+                ],
+                [
+                    " What time is your appointment?"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What is the date and time for your yoga activity?"
+                ],
+                [
+                    "yw"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Okay, setting a reminder for tennis at 10 am on March 1st with martha."
+                ],
+                [
+                    " okay a reminder is set for tennis with martha at 10am on the end of march"
+                ],
+                [
+                    "kb"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I can do that. What is the name of the conference?"
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        }
+    ]
+}

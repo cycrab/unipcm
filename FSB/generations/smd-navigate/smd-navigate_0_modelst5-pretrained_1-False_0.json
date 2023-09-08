@@ -1,0 +1,1509 @@
+{
+    "generation": [
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "chevron is 5_miles away at 783_arcadia_pl"
+                ],
+                [
+                    "user: thank you"
+                ],
+                [
+                    "chevron is at 783 arcadia pl"
+                ],
+                [
+                    "chevron is located at 783_arcadia_pl"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The closest grocery store is 638 Amherst St and is 4_miles away at 329 El Camino Real"
+                ],
+                [
+                    " Whole Foods is 2_miles away at 819 Alma St and there is moderate traffic on our way"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "145 Amherst St is 3_miles away"
+                ],
+                [
+                    " 56_cadwell_street is 3_miles away"
+                ],
+                [
+                    "you are welcome"
+                ],
+                [
+                    "i am sorry i did not get the information you needed"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "113 Arlington St is the closest grocery store"
+                ],
+                [
+                    "ok i sent the info on your screen"
+                ],
+                [
+                    " I sent the info on your screen, drive carefully"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "91 El Camino Real is the closest grocery store"
+                ],
+                [
+                    " the next closest is 91 El Camino Real"
+                ],
+                [
+                    "i sent the info on your screen drive carefully"
+                ],
+                [
+                    "i m glad to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have no traffic on my way to friends house"
+                ],
+                [
+                    " you are welcome driver, you should be able to reach there in few minutes"
+                ],
+                [
+                    "jill s house is located at 347_alta_mesa_ave"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The closest parking garage is 434 Arastradero Rd 4_miles away at 270 Altaire_walk"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The nearest shopping center is 773 Alger Dr."
+                ],
+                [
+                    "i m here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "214_el_camino_real is a hospital located at 394 Van Ness Avenue"
+                ],
+                [
+                    "stanford_express_care is at 214_el_camino_real"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have a gas station 200_alester_ave"
+                ],
+                [
+                    "214 El Camino Real is at 214_el_camino_real"
+                ],
+                [
+                    " There is moderate traffic on our way but you should be able to reach there in few minutes"
+                ],
+                [
+                    "i m here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "ok"
+                ],
+                [
+                    "home is at 5677_cadwell_street"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have a shopping center called the Midtown Shopping Center at 338 Alester Avenue"
+                ],
+                [
+                    "setting gps to 5671 barrel street"
+                ],
+                [
+                    "gps set"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have found a few options for you"
+                ],
+                [
+                    " I have found a Starbucks 5_miles away"
+                ],
+                [
+                    " 792 Bedoin Street is the fastest route"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The nearest shopping mall is 580 Van Ness Avenue"
+                ],
+                [
+                    " Setting GPS to 704 El Camino Real"
+                ],
+                [
+                    "gps set to 740_el_camino_real"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "quickest route to hacienda grocery store"
+                ],
+                [
+                    " hacienda_market is located at 1313 Chester Ave"
+                ],
+                [
+                    "navigating to 1313_chester_ave"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The nearest parking garage is 481 Amaranta Avenue"
+                ],
+                [
+                    "ok"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "214 El Camino Real is at 776 Arastradero Rd"
+                ],
+                [
+                    "610 Amarillo Avenue"
+                ],
+                [
+                    " you re welcome driver, drive carefully"
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The hospital is located at 774 Alger Dr"
+                ],
+                [
+                    " you re welcome"
+                ],
+                [
+                    "ok"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I found a Chinese restaurant called Chef Chu's at 593 Arrowhead Way"
+                ],
+                [
+                    "i sent the info on your screen"
+                ],
+                [
+                    " You're welcome"
+                ],
+                [
+                    "ok"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I found a Chinese restaurant 5_miles away at 593 Arrowhead Way"
+                ],
+                [
+                    " there is moderate traffic to the restaurant"
+                ],
+                [
+                    "gps set for chef_chu_s"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "113 Arlington St is 4_miles away"
+                ],
+                [
+                    "user: ok, i'll go to panda_express and i'll be there"
+                ],
+                [
+                    "gps set for panda_express at 842 Arrowhead Way"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "91 El Camino Real is located at 583 Arbol Dr."
+                ],
+                [
+                    "user: ok, please set the GPS to the fastest route"
+                ],
+                [
+                    "i sent the info on your screen, drive carefully"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "5672 Barringer Street is located at 481 Amaranta Avenue"
+                ],
+                [
+                    " Setting navigation now"
+                ],
+                [
+                    " you re welcome, drive carefully"
+                ],
+                [
+                    "i sent the info on your screen"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I sent the info on your screen drive carefully"
+                ],
+                [
+                    " 5671 barreler street"
+                ],
+                [
+                    "setting gps for home with zero to no traffic"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have found a few places that serve tea"
+                ],
+                [
+                    " The address is 436 Alger Dr, 436 Alger Dr, 212 Arbol Dr, and there is moderate traffic on our way"
+                ],
+                [
+                    "ok you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "145_amherst_st is a shopping_center 3_miles away"
+                ],
+                [
+                    " Setting navigation now"
+                ],
+                [
+                    " ok, you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " There is a parking garage 1 mile away at 481 Amaranta Ave"
+                ],
+                [
+                    "i sent the info on your screen and you re welcome"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i found a starbucks 3_miles away"
+                ],
+                [
+                    " 792 Bedoin Street is the quickest coffee or tea place"
+                ],
+                [
+                    "the starbucks is 3_miles away"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have the address to philz coffee or tea"
+                ],
+                [
+                    " I sent the info on your screen, drive carefully!"
+                ],
+                [
+                    "113 Alger Ave"
+                ],
+                [
+                    "i sent the info on your screen"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The nearest gas station is 776 Arastradero Rd."
+                ],
+                [
+                    " valero is located at 776 Arastradero Rd"
+                ],
+                [
+                    " i sent on your screen the fastest route to reach the gas station"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The closest parking garage is 481 Amaranta Avenue"
+                ],
+                [
+                    " you re welcome, drive carefully"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The nearest shopping mall is Topanga Mall at 792 Bedoin Street"
+                ],
+                [
+                    "610 Amarillo Ave"
+                ],
+                [
+                    " I sent the info on your screen, drive carefully"
+                ],
+                [
+                    "navigation set, you are welcome"
+                ],
+                [
+                    "navigation set"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " There is a moderate traffic on the way to the rest stop at 704 El Camino Real"
+                ],
+                [
+                    " The address is 329 El Camino Real at 329_el_camino_real_home and the address is 271 Springer Street"
+                ],
+                [
+                    " navigation set to 329 El Camino Real"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i do not know the name of your friend"
+                ],
+                [
+                    "tom lives at 580_van_ness_ave"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have the closest hospital at 611 Adams Ave"
+                ],
+                [
+                    " I sent the info on your screen drive carefully"
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "user: I need the address to Safeway"
+                ],
+                [
+                    "ok"
+                ],
+                [
+                    " you re welcome"
+                ],
+                [
+                    " there is a grocery store 2_miles away at 452 Arcadia Pl"
+                ],
+                [
+                    " gps set for safeway at 452 Arcadia Pl"
+                ],
+                [
+                    "gps set for safeway at 452 arcadia pl"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "jacks_house is at 864 Almanor Lane"
+                ],
+                [
+                    "jack lives at 864_almanor_ln"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "145 Amherst St is the nearest Starbucks"
+                ],
+                [
+                    " There is a Starbucks nearby"
+                ],
+                [
+                    "user: ok i will go there"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " There are two parking garages nearby which one do you prefer"
+                ],
+                [
+                    " Yes it is the quickest route"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "navigating to 819 Alma St"
+                ],
+                [
+                    " I sent the info on your screen, drive carefully"
+                ],
+                [
+                    "i sent the info on your screen drive carefully"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I found a hotel called the Clement Hotel 8_miles away from your current location"
+                ],
+                [
+                    " I sent the info on your screen, drive carefully"
+                ],
+                [
+                    "navigating to 657_ames_ave"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The closest tea house is Peets Coffee at 842 Arrowhead Way"
+                ],
+                [
+                    " there is moderate traffic on the way to the restaurant"
+                ],
+                [
+                    "i sent the info on your screen"
+                ],
+                [
+                    "navigating to 9981 Archuleta Avenue"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "user: I would like to go to the 465 Arcadia Pl"
+                ],
+                [
+                    " You're welcome!"
+                ],
+                [
+                    "navigation set"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "navigating to 214 El Camino Real"
+                ],
+                [
+                    " Yes, there is moderate traffic on our way"
+                ],
+                [
+                    "ok"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "Located at 583 Alester Ave, there is moderate traffic to the coffee or tea place."
+                ],
+                [
+                    " It is located at 578 Arbol Dr"
+                ],
+                [
+                    " Setting gps to 578 Arbol Dr"
+                ],
+                [
+                    "i m here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "113 Arbol Dr is 1_miles away"
+                ],
+                [
+                    "user: ok i will go to chef_chu_s"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "214 El Camino Real is a parking garage"
+                ],
+                [
+                    " I sent the info on your screen, drive carefully"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "145_Amherst St is a coffee or tea place located 4_miles away"
+                ],
+                [
+                    " there is moderate traffic to both places but it is the fastest one"
+                ],
+                [
+                    " I sent the info on your screen drive carefully"
+                ],
+                [
+                    "145 amherst street"
+                ],
+                [
+                    "ok you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "user: I would like to go to the Starbucks at 434 Arastradero Rd"
+                ],
+                [
+                    " the nearest coffee shop is 465 Arcadia Pl"
+                ],
+                [
+                    "i sent the info on your screen"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i sent the info on your screen drive carefully"
+                ],
+                [
+                    " There is moderate traffic on the way to the shopping_center"
+                ],
+                [
+                    " you re welcome"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I found a coffee shop called philz at 583 Alester Avenue"
+                ],
+                [
+                    " Setting navigation to 583 amarillo avenue"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "user: I would like to go to a pizza place near town and country"
+                ],
+                [
+                    "user: ok great, thank you"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " There are no chinese restaurants around"
+                ],
+                [
+                    " chef_chu_s is 6_miles away and tai_pan is 5_miles away"
+                ],
+                [
+                    "5677 arrowhead_way"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The rest_stop is located at 776 Arastradero Rd"
+                ],
+                [
+                    "91 El Camino Real"
+                ],
+                [
+                    " there is a car collision nearby but you should be able to reach it in a few minutes"
+                ],
+                [
+                    "i am here to help"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "113 Anton Ave"
+                ],
+                [
+                    "113 Antony ct is 3_miles away and there is moderate traffic on our way"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "145 Amherst St is the nearest coffee shop at 408 Arcadia Pl"
+                ],
+                [
+                    "setting gps to 56_cadwell_street"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "214 El Camino Real is located at 792 Almanor Ln"
+                ],
+                [
+                    "navigating to 611 Adams Avenue"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i found a gas station at 123 Alester Ave it is 5_miles away and there is no traffic"
+                ],
+                [
+                    " i sent the info on your screen, you're welcome"
+                ],
+                [
+                    "gps set for valero gas station"
+                ],
+                [
+                    "gps set for quickest route to valero"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "quickest route to home is 9981 Archuleta Ave"
+                ],
+                [
+                    "610 Amarillo Ave, San Jose, CA 94101"
+                ],
+                [
+                    "i sent the info on your screen"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "user: I need a shopping center in the moderate price range"
+                ],
+                [
+                    "user: thank you"
+                ],
+                [
+                    "ok"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have a rest_stop at 333 Arbol Dr."
+                ],
+                [
+                    "5671 Barringer Street"
+                ],
+                [
+                    "gps set for shortest route"
+                ],
+                [
+                    "gps set for shortest route"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "113 Arbol Dr is the nearest Starbucks at 434 Arbol Dr"
+                ],
+                [
+                    "113 Arbol Dr, 113 Arbol Dr, is the address of Cafe Venetia"
+                ],
+                [
+                    "i sent the info on your screen drive carefully"
+                ],
+                [
+                    "gps set to avoid all heavy traffic"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "user: I would like to go to the nearest Starbucks"
+                ],
+                [
+                    " ok i sent the info on your screen and the quickest route to cafe_venetia"
+                ],
+                [
+                    " gps set for cafe_venetia at 269 Alger Dr"
+                ],
+                [
+                    "gps set for cafe_venetia at 269 Alger_dr"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I have a listing for a 4 star hotel called the Teavana at 145 Amherst St"
+                ],
+                [
+                    " i sent the info on your screen drive carefully"
+                ],
+                [
+                    "i m here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "user: yes, i would like to eat at a chinese restaurant in the area"
+                ],
+                [
+                    " i sent the info on your screen drive carefully"
+                ],
+                [
+                    "p_._f_._changs is located at 669_el_camino_real"
+                ],
+                [
+                    "i sent the info on your screen"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "ok there is a Chevron at 783 Arcadia Pl"
+                ],
+                [
+                    " chevron is 6_miles away at 783 Arcadia Pl"
+                ],
+                [
+                    "chevron is at 783 arcadia pl"
+                ],
+                [
+                    "i am here to help"
+                ],
+                [
+                    "chevron is located at 783 arcadia_pl"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " There are two chinese restaurants nearby"
+                ],
+                [
+                    " chef_chu_s has moderate traffic and mandarin_roots has moderate traffic"
+                ],
+                [
+                    "212_Ames_Ave"
+                ],
+                [
+                    " it will take you about 5 minutes to reach the restaurant"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The nearest hospital is 214 El Camino Real"
+                ],
+                [
+                    " I sent the info on your screen, drive carefully"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have the address 434 Arastradero Rd"
+                ],
+                [
+                    " you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " There is a gas station nearby"
+                ],
+                [
+                    " 333 Arbol Dr is the fastest route"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Jacks House is located at 864 Almanor Lane"
+                ],
+                [
+                    " The address is 864 Almanor Lane"
+                ],
+                [
+                    " Setting gps to 864 Almanor Lane"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "113 Arbol Dr is the address of the mall"
+                ],
+                [
+                    " i sent the info on your screen drive carefully"
+                ],
+                [
+                    " 434 Arbol Dr, 610 Arbol Dr, San Jose, CA 94101"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " There is a Sigona Farmers Market 2 miles away"
+                ],
+                [
+                    " i sent the info on your screen, drive carefully"
+                ],
+                [
+                    "navigation set and you're welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "214 El Camino Real is located at 753 Almanor Ln"
+                ],
+                [
+                    "stanford_express_care has moderate traffic"
+                ],
+                [
+                    "stanford_express_care has heavy_traffic nearby"
+                ],
+                [
+                    " there is a stanford_express_care at 753_university_ave"
+                ],
+                [
+                    "ok i sent the address to your GPS"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I found a Starbucks 4_miles away at 792 Bedoin Street"
+                ],
+                [
+                    " I sent the info on your screen, drive carefully"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " I found the acorn guest house it is 3 miles away and has moderate traffic"
+                ],
+                [
+                    "user: ok, please pick a quick route to the westin"
+                ],
+                [
+                    "the address is 329 El Camino Real"
+                ],
+                [
+                    "navigating to 329 El Camino Real"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have a grocery store on 10_ames_street"
+                ],
+                [
+                    "5677 Springer Street"
+                ],
+                [
+                    "gps set to 452 arcadia pl"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "214 El Camino Real is a Starbucks located at 394 Van Ness Ave"
+                ],
+                [
+                    " The address is 394 Van Ness Ave and the fastest route is 214 El Camino Real"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "145 Amherst St is 4_miles away"
+                ],
+                [
+                    " Midtown Shopping Center is located at 338 Alamanor Avenue"
+                ],
+                [
+                    " you re welcome"
+                ],
+                [
+                    "gps set to 338 ave"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "113 Arbol Dr is the address"
+                ],
+                [
+                    " I sent the info on your screen, drive carefully"
+                ],
+                [
+                    "jills_house is located at 347_alta_mesa_ave"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i found a chinese restaurant called jing jing"
+                ],
+                [
+                    " there is a road block nearby but you should be able to reach there in less than 2 minutes"
+                ],
+                [
+                    "i sent the info on your screen and you re welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i do not have a home address"
+                ],
+                [
+                    " i sent the info on your screen drive carefully"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The closest pizza restaurant is 915 Arrowhead Way and it is 2_miles away at 915 Arbol Dr"
+                ],
+                [
+                    " 915 Arrowhead Way is the address"
+                ],
+                [
+                    " Setting gps for shortest route to 915 Arbol Dr"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "270_altaire_walk is the nearest shopping mall"
+                ],
+                [
+                    "ok heading to 434 Arastradero Rd"
+                ],
+                [
+                    "navigation set"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have a grocery store called 819 Alma Street"
+                ],
+                [
+                    " 819 Alma Ave is the quickest route"
+                ],
+                [
+                    "navigating to 819 Alma Street"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i want coffee"
+                ],
+                [
+                    "792 bedoin street"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "145 Amherst St is the closest place to you"
+                ],
+                [
+                    "user: i want to go to the coffee or tea place"
+                ],
+                [
+                    "145 Amherst St"
+                ],
+                [
+                    " there is a road block nearby but you should be able to reach there in a few minutes"
+                ],
+                [
+                    "ok you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have a barista near 145_Amaranta_Pl home at 5677_southwest4th_street"
+                ],
+                [
+                    " there is a cafe called cafe venetia 2_miles away and there is moderate traffic"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "113 Alger Dr is the closest coffee shop to you"
+                ],
+                [
+                    " there is a coffee shop 3 miles away at 394 Vanness Ave"
+                ],
+                [
+                    " i sent the info on your screen, drive carefully"
+                ],
+                [
+                    "setting navigation to 792 Bedoin Street"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "214_el_camino_real is 6_miles away at 214_el_camino_real"
+                ],
+                [
+                    "user: yes, please"
+                ],
+                [
+                    " 214_el_camino_real is 6_miles away at 214_el_camino_real"
+                ],
+                [
+                    "ok you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "town_and_country is the closest shopping mall at 383 University Avenue"
+                ],
+                [
+                    " Yes it is the fastest route"
+                ],
+                [
+                    "town and county shopping_center is located at 383 University Ave"
+                ],
+                [
+                    "town_and_country is located at 383_university_ave"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have a coffee shop called coffee or tea place"
+                ],
+                [
+                    " Yes it is the shortest route"
+                ],
+                [
+                    "i sent the info on your screen"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " i have found a few chinese restaurants that are close to you"
+                ],
+                [
+                    " i have found a chinese restaurant called p_.f_._changs located 3_miles away from you"
+                ],
+                [
+                    "p_.f_._changs is the fastest option"
+                ],
+                [
+                    "setting navigation to 842 arrowhead way"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "user: I would like to go to the chinese restaurant"
+                ],
+                [
+                    "i sent the info on your screen drive carefully"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have a listing for a shopping mall near you"
+                ],
+                [
+                    " I sent the info on your screen, drive carefully"
+                ],
+                [
+                    "setting navigation to 434 arastradero rd now"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "navigating to home"
+                ],
+                [
+                    "navigating home"
+                ],
+                [
+                    "navigating home"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The nearest cafe is Cafe Venetia at 753 Alger Dr"
+                ],
+                [
+                    " There is moderate traffic on our way but you should be able to reach in few minutes"
+                ],
+                [
+                    "408 University Ave"
+                ],
+                [
+                    "i m here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have found the address for pizza_chicago at 915 Arbol Dr"
+                ],
+                [
+                    " you are welcome"
+                ],
+                [
+                    "i am here to help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have a listing for a parking garage in the area"
+                ],
+                [
+                    " The parking garage is located at 481 Amaranta Avenue and the address is 436 Alger Dr"
+                ],
+                [
+                    " you re welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i have a grocery_store listed at 483_arcadia_pl it is 6_miles away and there is moderate traffic on our way"
+                ],
+                [
+                    "user: Thank you"
+                ],
+                [
+                    "i am sorry i didn't get the directions"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "Generate a summary for this dialogue": 0.04438056880337714,
+  "Given the above dialogue write a summary": 0.06372245292847291,
+  "Sum up the following dialogue": 0.04650660601517309,
+  "Summarize this dialogue:": 0.04093236821998298,
+  "Summarize:": 0.04596944425474355,
+  "To sum up this dialog": 0.04223043263162728,
+  "Write a dialogue that match this summary": 0.07529372671197,
+  "task description": 0.06517668032531022,
+  "no prompt": 0.04389029339413331,
+  "task description ahead": 0.046733085617676494
+}

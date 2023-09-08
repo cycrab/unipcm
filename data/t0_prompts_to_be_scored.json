@@ -1,0 +1,1262 @@
+{
+  "Information:\n- {{ supports | join(\"\\n- \") }}\n\n{% set question_split = question.split(' ') %}\nQuestion: ({{ question_split[1:] | join(\" \")}}, {{ question_split[0] | replace(\"_\", \" \") }}, ?)\n\nCandidate Answers: \n- {{ candidates | join(\"\\n- \") }}\n|||\n{{answer}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set pronoun = tokens[coreference_clusters[2] | int : coreference_clusters[3] | int + 1] | join(\" \") %}\n{% set referent = tokens[coreference_clusters[0] | int : coreference_clusters[1] | int + 1] | join(\" \") %}\n{{tokens | join(\" \")}}\nIn the previous sentence, the pronoun \"{{ pronoun }}\" can be replaced with ||| {{ referent }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Which emotion among {{answer_choices | join(\", \")}} best describes the feeling of the author of the following tweet?\n\n{{text}}|||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set lang = id.split('-')[0] %}\n{% if lang == \"english\" %}\nCould you generate a question whose answer is {{answers.text | choice}} based on the following context: {{context}}\n|||\n{{question}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "\"{{text}}\" is a message from a user.\n\nWhich of the following options best captures the intent of the user message written above? \n\n{{answer_choices | join(\", \")}}\n\n|||\n\n{{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if is_duplicate == true%} Paraphrase the the following question: {% if questions.text.0|length < questions.text.1|length %}  {{questions.text.0}} |||  {{questions.text.1}} {% else %}  {{questions.text.1}} ||| {{questions.text.0}} {% endif %}{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "On {{date_a}}, the article \"{{headline_a}}\" is published.\nOn {{date_b}}, the article \"{{headline_b}}\" is published. \nAre they related to the same event? Answer {{ answer_choices[0] }} or {{ answer_choices[1] }}.\n|||\n{% if label %}\n{{ answer_choices[0] }}\n{% else %}\n{{ answer_choices[1] }}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Output the similarity value between 1.0 (completely different) and 5.0 (identical) for Sentence A and B.\n\nA: \"{{candidate}}\"\n\nB: \"{{reference}}\"\n|||\n{{ score }}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Sentence 1: {{sentence1}}\nSentence 2: {{sentence2}}\nQuestion: Do Sentence 1 and Sentence 2 express the same meaning? Yes or No? \n||| \n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{ passage }} \n{{ query }} \nWhat could the \"{{\"@placeholder\"}}\" be? {{ entities | join(\", \") }}? ||| {% if ( answers | length ) > 0 %}{{ answers | choice }}{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given that {{premise}} Therefore, it must be true that \"{{hypothesis}}\"? Yes, no, or maybe? ||| {% if label !=-1 %}{{ answer_choices[label] }}{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "What connector could be added to the second sentence such that both sentences together convey a clear argument? If none, answer with \"no connection\".\n\n{{sentence1}}\n\n{{sentence2}} \n\nAnswer Choices: \n- {{ answer_choices | join(\"\\n- \") }}\n\n|||\n{{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{premise}} \n\nKeeping in mind the above text, consider: {{hypothesis}} Is this {{\"always\"}}, {{\"sometimes\"}}, or {{\"never\"}} correct? ||| {{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if answers.text != [] %}\n{{question}}|||\n{{answers.text[0]}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Sentence: {{question_propmt}}\n\nComplete the sentence above by choosing the best answer from the candidates below.\n\nCandidate Answer Choices:\n{% for candidate in candidate_answers -%}\n{{ answer_choices[loop.index - 1] }}. {{candidate}}\n{% endfor %}\n|||\n{{ answer_choices[correct_answer_idx] }}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set prompts = [\n'Can you pick the correct ending for the sentence: ',\n'The task is to generate the ending for the sentence: ',\n'How does this sentence end? ',\n'From the list of endings described below, what ending makes the most sense for the sentence ',]\n%}\n{{prompts | choice}}\n{{ctx}}\n\n(a)  {{answer_choices[0]}}\n\n(b)  {{answer_choices[1]}}\n\n(c)  {{answer_choices[2]}}\n\n(d)  {{answer_choices[3]}}\n|||\n{{answer_choices [label | int()]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set pronoun = tokens[coreference_clusters[2] | int : coreference_clusters[3] | int + 1] | join(\" \") %}\n{% set referent = tokens[coreference_clusters[0] | int : coreference_clusters[1] | int + 1] | join(\" \") %}\n{{tokens | join(\" \")}}\nIn the passage above, the pronoun \"{{ pronoun }}\" refers to ||| {{ referent }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{sentence1}}\n{{sentence2}}\nQuestion: Is the word '{{word}}' used in the same sense in the two sentences above?\n||| {% if label != -1%}\n{{answer_choices[label]}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "I heard that {{context}}\n\nAnd I was wondering {{question}}\n\n|||\n\n{{answer_choices[label | int - 1]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Decide whether the question \"{{question}}\" is answerable solely based on this passage:\n{{context}}\nAnswer: |||\n{% if answer != []%}\n{% if answer[0] == \"n/a\" %}\n{{ answer_choices[0] }}\n{% else %}\n{{ answer_choices[1] }}\n{% endif %}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set order = [[0, 1, 2, 3], [0, 1, 3, 2], [0, 2, 1, 3], [0, 2, 3, 1], [0, 3, 1, 2], [0, 3, 2, 1],\n                             [1, 0, 2, 3], [1, 0, 3, 2], [1, 2, 0, 3], [1, 2, 3, 0], [1, 3, 0, 2], [1, 3, 2, 0],\n                             [2, 1, 0, 3], [2, 1, 0, 2], [2, 0, 1, 3], [2, 0, 3, 1], [2, 3, 1, 0], [2, 3, 0, 1],\n                             [3, 1, 2, 0], [3, 1, 0, 2], [3, 2, 1, 0], [3, 2, 0, 1], [3, 0, 1, 2], [3, 0, 2, 1]] | choice %}\nAnswer the following question given this paragraph: \n\n{{support}}\n\n\nQ: {{question}}\n\n Choices:\n\n- {{ answer_choices[order[0]] }}\n\n- {{ answer_choices[order[1]] }}\n\n- {{ answer_choices[order[2]] }}\n\n- {{ answer_choices[order[3]] }}\n\nA:|||{{answer_choices[3]}}\n\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given the options below, select the most suitable answer for the following question:\n{{question}}\nOptions:\n- {{answer_choices | join(\"\\n- \")}}|||\n{% if answerKey != \"\" %}\n{{answer_choices[choices[\"label\"].index(answerKey)]}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "On a scale from {{\"1\"}} to {{\"5\"}}, how positive is the review \"{{translation.en}}\"? ||| {{review_star}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{ context }}\nAccording to the above context, choose the best option to answer the following question.\nQuestion: {{ question }}\nOptions:\n- {{answer_choices | join(\"\\n - \")}}\n|||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set scan_lst_of_actions = actions.split(' ') %}\n{% set lst_of_actions = [] %}\n{% for item in scan_lst_of_actions %}\n    {{ lst_of_actions.append(item.lower()[2:] | replace(\"_\", \" \")) | default(\"\", True) }}\n{% endfor %}\n\n{% set actions = lst_of_actions | join(\", \") %}\n\nGiven the commands: {{ commands }}\n\nProduce the corresponding correct sequence of actions (comma-separated):\n|||\n{{ actions }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Sentence 1: {{sentence1}}\nSentence 2: {{sentence2}}\nQuestion: Can we rewrite Sentence 1 to Sentence 2? \n||| \n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Read the below text and answer the question.\n\nText: {{text}}\n\nQuestion: What drug has an effect of {{effect}}?\n|||\n{{drug}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set scan_lst_of_actions = actions.split(' ') %}\n{% set lst_of_actions = [] %}\n{% for item in scan_lst_of_actions %}\n    {{ lst_of_actions.append(item.lower()[2:] | replace(\"_\", \" \")) | default(\"\", True) }}\n{% endfor %}\n\n{% set actions = lst_of_actions | join(\", \") %}\n\n{{ commands }}\n\nGiven the commands above, what is the corresponding correct sequence of actions (comma-separated)?\n|||\n{{ actions }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "My college roommate asked me what this article means:\n\n{{document}}\n\nSo I recapped it in layman's terms: ||| {{summary}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set label_mapping = {21:0, 18:1, 24:2, 11:3, 14:4} %}\n{% if label_coarse == 5 %}\n{{text}}\n\nIs this question asking for {{', '.join(answer_choices)}}?\n|||\n{{ answer_choices [label_mapping[label_fine]] }}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Does this search engine query have an indirect relation to Covid-19? \n{{Query}}\n|||\n{% if IsImplicitIntent == \"True\" %}\n{{answer_choices[0] }}\n{% else %}\n{{answer_choices[1] }}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set scan_lst_of_actions = actions.split(' ') %}\n{% set lst_of_actions = [] %}\n{% for item in scan_lst_of_actions %}\n    {{ lst_of_actions.append(item.lower()[2:] | replace(\"_\", \" \")) | default(\"\", True) }}\n{% endfor %}\n\n{% set actions = lst_of_actions | join(\", \") %}\n\nGiven the commands below, what is the corresponding correct sequence of actions (comma-separated)?\n\n{{ commands }}\n|||\n{{ actions }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "I'm creating a final exam for my reading class. Can you please come up with a good question to quiz how well students have read the following text snippet?\n\n{{context}}\n\n|||\n\n{{question}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{text}}\n\nWhat is this question asking for?\n|||\n{{answer_choices[label_fine] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{context}}\n\nWith reference to the above context, {{question}} ||| \n\n{{answers.text[0]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Original question: {{question_1}}\nGiven this question, doctors were asked to either: - Rewrite the question so that it kept the same intent - Create a related question for which the original answer is unrelated or wrong\nIs the following question a {{answer_choices[1]}} or {{answer_choices[0]}}?\nNew question: {{question_2}} ||| {{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if label == 1 %}\n\nGenerate a one-sentence answer to the following question: {{question}}?\n\n|||\n\n{{sentence}}\n{% endif %}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Sentence: {{goal}} {{sol1[0].lower() + sol1[1:]}}\nIf the sentence does not make sense, correct it so that it does make sense. Otherwise, just copy it.\nAnswer:\n|||\n{{goal}} {{[sol1[0].lower() + sol1[1:], sol2[0].lower() + sol2[1:]][label]}}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "How does this sentence end?\n{{ctx}}\n\n(a)  {{answer_choices[0]}}\n\n(b)  {{answer_choices[1]}}\n\n(c)  {{answer_choices[2]}}\n\n(d)  {{answer_choices[3]}}\n\nHint: the topic of the sentence is {{activity_label}}\n|||\n{{answer_choices [label | int()]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Question: {{question}}\nAnswer based on following passage.\n\n{{passage}}\n\nAnswer:\n||| {{ answers_spans.spans | join(\", \") }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{ document.text }}\n\nSummarize the given document. |||\n{{ document.summary.text }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Summarize: {{dialogue}}|||\n{{summary}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "To get full credit in today's test,  answer the following question with the help of the context. If the question cannot be answered, say Unanswerable.\n\nQuestion: \n{{question}}\n\nContext:\n{{context}}\n\n|||\n{% if (answers[\"text\"]  | length) == 0 %}\n{{ \"Unanswerable\" }}\n{% else %}\n{{answers[\"text\"] | join(\" \\n \")}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{text}} Where does the above sentence stand on climate change? |||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Do you think \"{{sentence1}}\" and \"{{sentence2}}\" express the same thing? ||| {{answer_choices[0 if similarity_score < 2.5 else 1]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Sentence: {{question_propmt}}\n\nCandidate Answer Choices:\n{% for candidate in candidate_answers -%}\n{{ answer_choices[loop.index - 1] }}. {{candidate}}\n{% endfor %}\nComplete the sentence by choosing the best answer from the candidates above.\n|||\n{{ answer_choices[correct_answer_idx] }}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set seq = [\n'Can you tell me ',\n'Please tell me ',\n'Tell me ',\n'From the passage, ',\n'I want to know ',\n'I want to ask ',\n'What is the answer to: ',\n'Find the answer to: ',\n'Answer: ',\n'',\n] %}\n{{context}} {{ seq | choice }}{{question}} If you can't find the answer, please respond \"unanswerable\". |||\n{% if answers.text == [] %}\nunanswerable\n{% else %}\n{{answers.text[0]}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Summary:\n\n- {{ passage.split(\"@highlight\")[1:] | join(\"\\n- \") }} \n\nArticle:\n\n{{ passage.split(\"@highlight\")[0] }}\n ||| {% if ( answers | length ) > 0 %}{{ query | replace(\"@placeholder\", answers | choice) }} {% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{sentence1}}\nIs that a paraphrase of the following sentence?\n{{sentence2}}?\nYes or No.\n||| \n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given the list of concepts: {{ concepts | join(\", \") }}; \nGenerate a sentence with all the concepts :\n|||\n{{target}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Write a multi-choice question for the following article:\nArticle: {{article}}\n|||\nQuestion: \n{{question}}\nOptions:\n{{\"A\"}} {{options.0}}\n{{\"B\"}} {{options.1}}\n{{\"C\"}} {{options.2}}\n{{\"D\"}} {{options.3}}\nAnswer:\n{{answer}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Someone sent me an email with the sentence \"{{sentence}}\". Do you think they are feeling {{\"good\"}} or {{\"bad\"}}? ||| {{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Suppose {{premise}} Can we infer that \"{{hypothesis}}\"? Yes or no? ||| {{ answer_choices[label] }} ": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Fact 1: {{ fact1[0]|capitalize }}{{ fact1[1:]|trim|trim('.') }}.\n\nFact 2: {{fact2[0]|capitalize }}{{ fact2[1:]|trim|trim('.') }}.\n\nGiven the two facts above, answer the question \"{{ question }}\" with the following options: \n- {{answer_choices | join(\"\\n - \") }}\n\n||| \n\n{% for choice in choices.label %} {% if choice == answerKey %}{{ answer_choices[loop.index - 1] }}{% endif %}{% endfor %} ": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set annotation_length = Prompts.Annotations | length %}\n\n{% set specific_sub_annotation = range(0, annotation_length) | choice %}\n\n{% set sub_annotation_length = Prompts.Annotations[specific_sub_annotation].Annotations | length %}\n\n{% set sub_sub_annotation = [0] %}\n\n{% if sub_annotation_length > 0 %}\n\n{{ sub_sub_annotation.pop() | replace(0, \"\") }}\n{{ sub_sub_annotation.append(range(0, sub_annotation_length) | choice) | replace(None, \"\") }}\n\nAfter reading the following text:\n\n{{Text[:1200]}} \n\n{{Text[-300:]}}\n\nThe relevant annotations:\n\n{{Prompts.Annotations[specific_sub_annotation].Annotations[sub_sub_annotation[0]]}}\n\nRegarding the comparator\n\n{{Prompts.Comparator[specific_sub_annotation]}}\n\nand the intervention\n\n{{Prompts.Intervention[specific_sub_annotation]}},\n\nthe outcome was\n\n{% endif %}\n\n|||\n\n{{Prompts.Outcome[specific_sub_annotation]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Information:\n- {{ supports | join(\"\\n- \") }}\n\n{% set question_split = question.split(' ') %}\nWhat is the relationship between \"{{ question_split[1:] | join(\" \")}}\" and \"{{answer}}\"?\n\n|||\n{{ question_split[0] | replace(\"_\", \" \") }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given the following review headline \n{{review_headline}}\npredict the the associated rating from the following choices\n- {{ answer_choices | join('\\n- ') }} \n(1 being lowest and 5 being highest)\n|||\n{{answer_choices[star_rating-1]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Title: {{title}} \nHeadline: {{headline}}\n\nWhat is this news about?\n|||\n\n{{topic|capitalize}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set scan_lst_of_actions = actions.split(' ') %}\n{% set lst_of_actions = [] %}\n{% for item in scan_lst_of_actions %}\n    {{ lst_of_actions.append(item.lower()[2:] | replace(\"_\", \" \")) | default(\"\", True) }}\n{% endfor %}\n\n{% set actions = lst_of_actions | join(\", \") %}\n\nNatural language commands: {{ commands }}\n\nSequence of actions: ||| {{ actions }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given the text below, can you write all the species of the NCBI Taxonomy mentioned in it?\n\nAn NCBI Taxonomy token can be an acronym, common name, abbreviation, or scientific name of a species in the NCBI Taxonomy (E.g., Escherichia coli, E. coli).\nIf there is no species answer \"None\", if there are more species separate them with a comma.\n\nText: {{ tokens | join(\" \") | replace(\" .\", \".\") | replace(\" ,\", \",\") | replace(\" ;\", \";\") | replace(\" :\", \":\") | replace(\" - \", \"-\") | replace(\"( \", \"(\") | replace(\" )\", \")\")}}\n|||\n{% set diseases = {\"list\": [], \"disease_started\": False} %}\n{% set disease_token = \"\"  %}\n{% for ner_tag in ner_tags %}\n{% if ner_tag > 0 %}\n{{ diseases.update({\"disease_started\": True}) |default(\"\", True)}}\n{% set disease_token = tokens[loop.index - 1]  %}\n{{ diseases.list.append(\" \") |default(\"\", True)}}\n{{ diseases.list.append((disease_token[0]) + disease_token[1:] if ner_tag == 1 else disease_token) |default(\"\", True)}}\n{% elif diseases.disease_started %}\n{{ diseases.update({\"disease_started\": False}) |default(\"\", True)}}\n{{ diseases.list.append(\",\") |default(\"\", True)}}\n{% endif %}\n{% endfor %}\n{{diseases.list | join  | replace(\" .\", \".\") | replace(\" ,\", \",\") | replace(\" ;\", \";\") | replace(\" :\", \":\") | replace(\" - \", \"-\") | replace(\"( \", \"(\") | replace(\" )\", \")\") | trim(\",\") if (diseases.list | length) > 0 else \"None\"}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{question}}\nWhat is the solution to the previous algebraic expression?\n{% set variable_name = question[-2] %}\n{{variable_name}}=\n|||\n{{answer}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given {{premise}} Is it guaranteed true that \"{{hypothesis}}\"? Yes, no, or maybe? ||| {{ answer_choices[label] }} ": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Read the below text and answer the question.\n\nText: {{text}}\n\nQuestion: What are the drug and its effect of the above text?\n\nYou should answer in the \"drug\" and \"effect\" format (e.g., alcohol and high blood pressure)\n|||\n{{drug}} and {{effect}}.": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set tokenised_text = text.split(' ') %}\n{% set acronym = location[0] %}\n\n{{tokenised_text[0:location[0]]|join(' ') }} {{  label[0]}} {{tokenised_text[location[0]+1:tokenised_text|length]|join(' ') }} \n\nGiven the PubMed abstract above, what could be the abbreviation for the token: \"{{ label[0] }}\"?\n\n|||\n{{ tokenised_text[acronym] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Homework\n\nDecide whether the word \"{{word}}\" is used with the same meaning in the two following sentences. Answer by yes or no.\n{{sentence1}}\n{{sentence2}}\n||| {% if label != -1%}\n{{answer_choices[label]}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "\n{% set process_list = question_para_step[:-1] if question_para_step[-1] == \"\" else question_para_step %}\n-  {{ process_list[:-1] | join(\"\\n- \") }}\n\nWhat might be the last step of the process?\n\n|||\n\n{{ process_list | last }}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if goldstandard2 != -1 %}\n\nGiven the question-answer pair of X and Y in the context of {{context}}, which of the following answers is Y implying: \"{{\"Yes\"}}\", \"{{\"No\"}}\", \"{{\"In the middle, neither yes nor no\"}}\", \"{{\"Probably yes / sometimes yes\"}}\", \"{{\"Probably no\"}}\", \"{{\"Yes, subject to some conditions\"}}\", \"{{\"Other\"}}\" or \"{{\"I am not sure how X will interpret Y\u2019s answer\"}}\" ?\n\nX: {{question_X}} \n\nY: {{answer_Y}} |||\n\n{{   answer_choices[goldstandard2]}}\n\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set statements= [ \"the second sentence expresses the underlying meaning the best.\",  \"the second sentence is more fluent.\", \"the second sentence is simpler.\"] %}\n\nFirst sentence: {{original}}\n\nSecond sentence: {{simplification}}\n\nRate the following statement from 0 (strongly disagree) to 100 (strongly agree): {{statements[aspect]}} \n\n|||\n{{rating}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{question.split('Solve')[0]}}How do I solve the following algebraic equation: {{question.split('Solve')[1][1:-1]}}?\n\n{{question[-2]}}=\n|||\n{{answer}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Does the premise: \"{{premise}}\" agree with the hypothesis: \"{{hypothesis}}\" ? ||| {{answer_choices[entailment_judgment]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Person A says something, Person B responds, and then Person A says something. Here's their conversation: \n\n\"{{text}}\"\n\nGiven the context and the last message, how would you best describe Person A's emotion - {{\"happy\"}}, {{\"sad\"}}, {{\"angry\"}}, or {{\"something else\"}}?\n\n|||\n\n{{ answer_choices [label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set seq = [\n'Determine the topic of the question-answer pair. ',\n'Find the topic. ',\n'What is the topic from this? ',\n] %}\n{% if answers.text != [] %}\n{{ seq | choice }}\nQuestion: {{question}};  Answer: {{answers.text[0]}}; Topic: |||\n{{title}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{ email_body }}\n\nWhat is this email about? |||\n\n{{ subject_line }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Give me a possible correct answer to the question \"{{ question }}\" ||| {{ answers | choice }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{question}}\n\nAnswer using extracts from the following context. If you can't find an answer, return {{\"Unanswerable\"}}\n\nContext:\n{{context}}\n\n|||\n{% if (answers[\"text\"]  | length) == 0 %}\n{{ \"Unanswerable\" }}\n{% else %}\n{{answers[\"text\"][0]}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "How would you combine the following facts of the form \"subject relation object, relation object, ...\" (the subject and object are entities that are involved in a relationship defined by the relation) into a sentence?\n\n\"{{ triple }}\" |||\n{{ sentence }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Is this statement correct? {{claim}} ||| \n{% if label != \"\" %}\n{{\n{\"SUPPORTS\": \"Yes\",\n \"REFUTES\": \"No\",\n\"NOT ENOUGH INFO\": \"Unsure\"\n}[label]\n}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Guess the product category from the following review:\n===\n{{review_body}} |||\n{{product_category}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Context:\n{{context}}\n\nQuestion:\n{{question}}\n\nHow would you rate the subjectivity of the question (on a 1 to 5 scale with 1 being the most subjective)?\n\n|||\n\n{{answer_choices[question_subj_level -1]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "The word \"{{word}}\" has multiple meanings. Does it have the same meaning in sentences 1 and 2? Yes or no?\n\nSentence 1: {{sentence1}}\nSentence 2: {{sentence2}}\n||| {% if label != -1%}\n{{answer_choices[label]}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Is this tweet neutral, in favor of, or against abortion?\n\n{{text}} |||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{ content }}\n\nWrite a title for the above story.\n|||\n{{title.split('___')[1].split('.')[:-2]|join('.')|replace('_',' ')}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{text}} \n\nWhich section of a newspaper would this article likely appear in? ||| \n{{answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Text: {{ tokens | join(\" \") | replace(\" .\", \".\") | replace(\" ,\", \",\") | replace(\" ;\", \";\") | replace(\" :\", \":\") | replace(\" - \", \"-\") | replace(\"( \", \"(\") | replace(\" )\", \")\")}}\n\nGiven the text above, please write the species of the NCBI Taxonomy mentioned in it (acronyms, common names, abbreviations, and scientific names of the species in the NCBI Taxonomy. E.g., Escherichia coli, E. coli). If there is no species answer \"None\", if there are more species separate them with a comma.\n|||\n{% set diseases = {\"list\": [], \"disease_started\": False} %}\n{% set disease_token = \"\"  %}\n{% for ner_tag in ner_tags %}\n{% if ner_tag > 0 %}\n{{ diseases.update({\"disease_started\": True}) |default(\"\", True)}}\n{% set disease_token = tokens[loop.index - 1]  %}\n{{ diseases.list.append(\" \") |default(\"\", True)}}\n{{ diseases.list.append((disease_token[0]) + disease_token[1:] if ner_tag == 1 else disease_token) |default(\"\", True)}}\n{% elif diseases.disease_started %}\n{{ diseases.update({\"disease_started\": False}) |default(\"\", True)}}\n{{ diseases.list.append(\",\") |default(\"\", True)}}\n{% endif %}\n{% endfor %}\n{{diseases.list | join  | replace(\" .\", \".\") | replace(\" ,\", \",\") | replace(\" ;\", \";\") | replace(\" :\", \":\") | replace(\" - \", \"-\") | replace(\"( \", \"(\") | replace(\" )\", \")\") | trim(\",\") if (diseases.list | length) > 0 else \"None\"}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Based on the following passage, {{ question }}? {{ passage }}\n\n|||\n{% if label != -1 %}\n{{ answer_choices[label] }}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "I need to know how funny it is to replace \"{{ original[original.index(\"<\")+1:original.index(\"/>\")] }}\" with \"{{ edit }}\" in the sentence \"{{ original.replace(original[original.index(\"<\"):original.index(\">\")+1], original[original.index(\"<\")+1:original.index(\"/>\")]) }} \".\n\nQuestion: Can you give me a number from {{\"0.0 to 3.0\"}} that denotes how funny it is, where {{\"0.0\"}} means not funny and {{\"3.0\"}} means funny?\n\n|||\n{{ (((5 * meanGrade) | round) / 5) }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "How would you rate how well-formed is the query \"{{content}}\"? \"Well-formed\" means that a natural language system would be able to perform an accurate interpretation. Give a value between 0 and 1.\n|||\n{{ rating  | round(0) }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Here's a problem to solve: {{question}}\n\nAmong the 4 following options, which is the correct answer?\n{% for letter, t in zip(answer_choices, choices.text) %}\n- {{letter}}: {{t}}\n {% endfor %}|||{{answerKey}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Take the following as truth: {{premise}}\nThen the following statement: \"{{hypothesis}}\" is {{\"true\"}}, {{\"false\"}}, or {{\"inconclusive\"}}? ||| {{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if labels['relation_text'] %}\nGiven the following entities (i.e., heads and tails) and relations, make a creative text. The types are PER (Person), LOC (Location), ORG (Organization), TIME (Time), NUM (Number), and MISC (Miscellaneous).\n\n{% for  head, tail, relation in zip(labels['head'], labels['tail'], labels['relation_text']) %}\nhead: {{vertexSet[head][0]['name']}}, tail: {{vertexSet[tail][0]['name']}}, relation: {{relation}}\n{% endfor %}\n|||\n{% for sent in sents -%}\n{{ sent | join(\" \") }}{{\" \"}}\n{%- endfor -%} \n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Can you answer the question \"{{question}}\" based only on the following:\n{{sentence}}\n|||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set question_context = Parses.TopicEntityName | choice %}\n{% set inference_context = Parses.InferentialChain | first %}\n\nThe topic of this question is: {{question_context.split(\" \") | map(\"capitalize\") | join(\" \")}}.\n\nThe answer to this question should be in the following category: {{ inference_context.split(\".\") | last | capitalize | replace(\"_\", \" \")}}\n\nUsing this, answer the following question:\n\n{{RawQuestion}}\n||| \n{% set answer = Parses.Answers | choice %}\n{{answer.AnswersName[0][0].split(\" \") | map(\"capitalize\") | join(\" \") }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Can the answer \"{{sentence}}\" be inferred from the question \"{{question}}\" ? ||| {{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  " {% set process_list = question_para_step[:-1] if question_para_step[-1] == \"\" else question_para_step %}\nWhat is the final step of the following process:\n-  {{ process_list[:-1] | join(\"\\n- \") }}\n\n|||\n\n{{ process_list | last }}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "You are browsing the comment section of a website. You read the following comment:\n\"{{comment_text}}\"\nWould you classify that comment as {{answer_choices[0]}} or {{answer_choices[1]}}?\n|||\n{{answer_choices[target | round | int]}} ": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "What is the sentiment of the tweet?\n\n{{text}} \n\nPossible choices: {{answer_choices | join(\", \")}}\n|||\n{{answer_choices[label]}}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set scan_lst_of_actions = actions.split(' ') %}\n{% set lst_of_actions = [] %}\n{% for item in scan_lst_of_actions %}\n    {{ lst_of_actions.append(item.lower()[2:] | replace(\"_\", \" \")) | default(\"\", True) }}\n{% endfor %}\n\n{% set actions = lst_of_actions | join(\", \") %}\n\nGiven the commands below, please produce the corresponding correct sequence of actions. The actions should be comma-separated. A few examples of actions include: \"turn right\", \"walk\", \"run\", etc.\n\n{{ commands }}\n|||\n{{ actions }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{ email_body }}\n\nGenerate a subject line for the email body above. |||\n\n{{ subject_line }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Give your best shot to rate how funny the following edited sentence is compared to the original sentence:\nOriginal: {{ original.replace(original[original.index(\"<\"):original.index(\">\")+1], original[original.index(\"<\")+1:original.index(\"/>\")]) }}\nEdited: {{ original.replace(original[original.index(\"<\"):original.index(\">\")+1], edit) }}\nUse a scale of {{\"0.0\"}}, which denotes not funny, to {{\"3.0\"}}, which means really hilarious.\n\n|||\n{{ (((5 * meanGrade) | round) / 5) }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "A student is asking a teacher about the following article:\n{{context}}\n\nThis is a summary of their conversation:\n{% for i in range(0, questions | length - 1)%}\nStudent: {{questions[i]}}\n\nTeacher: {{(answers.texts[i] | choice).replace(\"CANNOTANSWER\",\"Cannot answer\") }}\n{% endfor %}\n\nUse their conversation and the article to answer the question :  {{questions | last}}\n|||\n{{(answers.texts | last | choice).replace(\"CANNOTANSWER\",\"Cannot answer\")  }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "What is the solution to the following algebraic expression?\n{{question}}\n{% set variable_name = question[-2] %}\n{{variable_name}}=\n|||\n{{answer}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if language == \"english\" %}\nAnswer the following question with \"{{answer_choices[0]}}\" or \"{{answer_choices[1]}}\" or \"{{answer_choices[2]}}\" if none of the first two answers apply.\nQuestion: {{question_text}}\nTopic: {{document_title}}\nArticle: {{document_plaintext}}\n|||\n{{annotations.yes_no_answer[0] | capitalize}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set instance = [0, 1, 2, 3] | choice %}\nConsider the following text: {{ ctx_b }} {{ endings[instance] }}\nIs it an appropriate continuation of the following text: \n{{ ctx_a }} ?\nYes or No?\n||| \n{% if label  == instance | string() %}\n{{answer_choices[0]}}\n{% else %} \n{{answer_choices[1]}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if metadata.split != \"test\" %}\nQuestion: \"{{question}}\"\n\nContext: \"{{context}}\"\n\nAnswer:\n|||\n{{answers.text | choice}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% for utterance in turns[:-1] %}\n{{[\"Human\", \"Chatbot\"][loop.index % 2]}}: {{utterance}}\n{% endfor %}\n{{[\"Human\", \"Chatbot\"][ turns | length % 2]}}:\n|||\n{{turns[-1]}}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if stereo_antistereo == 1 %}\n\"{{sent_less}}\"\nThe previous sentence violates a stereotype against a historically disadvantaged group in the US. Minimally modify the previous sentence to a less stereotypical sentence involving a contrasting advantage group.\n|||\n{{sent_more}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "First, {{ sent1.lower() }} Then, {{ sent2.lower() }}... \nComplete with an appropriate ending:\n(a) {{ ending0 }}\n(b) {{ ending1 }}\n(c) {{ ending2 }}\n(d) {{ ending3 }}\n||| \n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given that {{premise}} Does it follow that {{hypothesis}} Yes, no, or maybe? ||| {{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "I'm copy-editing a story for publication. It has the following sentence in it:\n{{sentence}}\nDoes this sentence make sense and is it grammatically correct? Please answer {{\"yes or no\"}}.\n|||\n{{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{premise}} \n\nQuestion: Does this imply that \"{{hypothesis}}\"? Yes or no? ||| {% if label != -1 %}{{answer_choices[label]}}{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{sentence1}}\nIs that a paraphrase of the following sentence?\n{{sentence2}}?\n||| \n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Generate a movie-trivia question for the answer(s): {{ dialogue_turns.utterance[1] }}\n|||\n{{ dialogue_turns.utterance[0][0] | capitalize }}{{ dialogue_turns.utterance[0][1:] }} ": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Complete the sentence below by choosing the best answer from a list of candidates.\n\nSentence: {{question_propmt}}\n\nCandidate Answer Choices:\n{% for candidate in candidate_answers -%}\n{{ answer_choices[loop.index - 1] }}. {{candidate}}\n{% endfor %}\n|||\n{{ answer_choices[correct_answer_idx] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{sentence}}\nWhat does the _ in the above sentence refer to? {{ option1 }} or {{ option2 }}? ||| {% if answer == '1' %} {{option1}} {% else %} {{ option2 }} {% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "This conversation happened between a teacher and a student:\n{% for i in range(0, questions | length - 1) %}\nStudent: {{questions[i]}}\n\nTeacher: {{(answers.texts[i] | choice).replace(\"CANNOTANSWER\",\"Cannot answer\") }}\n{% endfor %}\n\nUse the article : {{context}} to answer the question: {{questions | last }}\n|||\n{{(answers.texts | last | choice).replace(\"CANNOTANSWER\",\"Cannot answer\") }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{ text }}\nIf you ask me whether I will come again, my answer is ||| {{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Here are two sentences. One is more stereotypical than the other. What kind of stereotypes are these two sentences illustrating? Choose between {{answer_choices | join(\", \") | lower}}.\nSentence 1: {{sent_more}}\nSentence 2: {{sent_less}}\n|||\n{{answer_choices[bias_type]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{premise}}\nQuestion: {{hypothesis}} True, False, or Neither? ||| {{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Is this product review positive?\nTitle: {{title}}\nReview: {{content}}\nAnswer: |||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Which temporal category does the question \"{{question}}\" belong to? |||\n\n{{answer_choices[category]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "I want to know whether the following two sentences mean the same thing.\n{{sentence1}}\n{{sentence2}}\nDo they?\n|||\n{{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if label == 1 %}\n\nWhat is a question that someone might ask that the following sentence can answer?\n\n {{sentence}}\n\n|||\n\n{{question}}\n{% endif %}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Tell me whether the following claim is {{answer_choices[0]}}, {{answer_choices[1]}}, {{answer_choices[2]}}, or {{answer_choices[3]}} after reading the passage.\n\nClaim: {{claim}}\n\nPassage: {{main_text }}\n|||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if 0 < (thread | selectattr(\"userId\", \"equalto\", \"Alice\") | list | length) %} context:\n\n{{context}}\n\nconversation:\n{% for utterance in thread %}\n- {{ utterance[\"userId\"] }}: {{ utterance[\"text\"] }}\n{% endfor %}\nWas Alice really into this conversation?|||\n{% for eval in evaluation %}\n{% if \"Alice\" == eval[\"userId\"] %}\n{% if 3 < eval[\"engagement\"] %}{{ answer_choices[0] }}{% else %}{{ answer_choices[1] }}{% endif %}\n{% endif %}\n{% endfor %}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{sentences | join(' ')}}\n\nWrite the next sentence of this story.\n|||\n{{ question.replace(\"XXXXX\", answer) }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "This article: {{context}} contains an answer for the question: {{question}}, what is it ?\n|||\n{{answers.text | choice}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Sentence: {{question_propmt}}\n\nCandidate Answer Choices:\n{% for candidate in candidate_answers -%}\n{{ answer_choices[loop.index - 1] }}. {{candidate}}\n{% endfor %}\nWhat's the best ending to finish the incomplete sentence above?\n|||\n{{ answer_choices[correct_answer_idx] }}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{question.split('Solve')[0]}}If {{question.split('Solve')[1][1:-7]}}, what is the value of {{question[-2]}}?\n|||\n{{answer}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "The following is an extract of facts from a judgment handed down by the European Court of Human Rights.\nQuestion: Have {{\"one\"}}, {{\"two\"}}, {{\"three\"}}, or {{\"several\"}} articles of the European Court of Human Rights (ECHR) been violated on these facts?\n\n{{facts[:10] | join(\"\\n\")}}\n\n{% if silver_rationales | length > 0 %}\nAdditionally, the court cited the following facts elsewhere in the decision\n{% for loc in silver_rationales[:10] %}\n{{facts[loc]}}\n{% endfor %}\n{% endif %}\n\nAnswer:\n|||\n{{ answer_choices[{1:0,2:1,3:2,4:3}[[4,labels | length] | min]]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Answer the question below:\n\n{% if '_____' in question %}\n{{ question | trim(\".?!\") | replace(\"_____\", answer_choices | join(\" or \")) }}{{ \"?\" }} \n{% else %}\n{{ question | trim(\".?!\") }} {{  answer_choices | join(\" or \") }}{{ \"?\" }} \n{% endif %}\n\nAssuming that:\n\n{{ para }}|||\n{{answer_choices[choices.label.index(answerKey)]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "If a description of a situation begins like this: {{ ctx }}... Then how\ndoes it continue? \n\nEnding 1: {{ endings[0] }}\n\nEnding 2: {{ endings[1] }}\n\nEnding 3: {{ endings[2] }}\n\nEnding 4: {{ endings[3] }}\n|||{{answer_choices[label | int()] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set vars = {'key':\"food\", 'value':\"\"} %}\n{% for feature in meaning_representation.split(\"]\") if vars['key']  in feature %}\n{% set temp = vars.update({'value':feature.replace(\",\",\"\").replace(vars['key']+\"[\", '')}) %}\n{%- endfor %}\n{% if vars[\"value\"]|length > 0 %}\n{{human_reference}}\nFrom the passage given above, what type of food do you think is served at this restaurant?  ||| {{vars['value']}}\n{% endif %}\n\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "What is the solution to the following algebraic expression?\n{{question}}\n|||\n{{answer}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "I have the following paragraph: \"{{statement}}\". Is there any evidence of this passage in the data below?\n\nTopic: \"{{table_caption}}\"\n\n{{table_text}}\n\nNote: {{\"#\"}} is the delimiter between columns; {{\"\\\\n\"}} is the delimiter between rows.\n|||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Suppose you are the moderator of Twitter, what would be the sentiment of the following tweet: \n\n{{text}}\n\nOptions: {{answer_choices | join(\", \")}}\n|||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "\"{{claim}}\", I have heard. Is this Correct? Yes, No or Not Sure?\n|||\n{% if label != \"\" %}\n{{\n{\"SUPPORTS\": \"Yes\",\n \"REFUTES\": \"No\",\n\"NOT ENOUGH INFO\": \"Not Sure\"\n}[label]\n}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Here's a logic test: {{question}}\n\nChoose the answer between \"{{answer_choices[0]}}\" and \"{{answer_choices[1]}}\".\n|||\n{{answer_choices[answer_index]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given these two sentences \"{{candidate}}\" and \"{{reference}}\", return a value on a scale of 1.0 (completely different) to 5 (identical) indicating their similarity.\nThese sentences answer the following question about the given context.\nQuestion: {{ question }}\nContext: {{ context }}\n|||\n{{ score }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{sentences | join (' ')}}\n\nIn this following sentence: \n\"{{question}}\", \naptly substitute the {{\"XXXXX\"}} with one of the following options:\n{{answer_choices|join(\", \")}}\n|||\n{{ answer }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "What emotion does the following message express? {{text}}\n |||\n {{ answer_choices [label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Sentence 1: {{sentence1}}\nSentence 2: {{sentence2}}\nQuestion: Can we rewrite Sentence 1 to Sentence 2? Yes or No? \n||| \n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Generate a {{star_rating}}-star review (1 being lowest and 5 being highest) about this product {{product_title}}.        |||        {{review_body}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "I am verifying the answers generated by an automatic system to the following question: {{question}}\nSuggested answer: {{answer}}\nShould I validate this answer?\n|||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Facts:\n{% for n in range (input_text[\"table\"][\"column_header\"]|length) %}\n{% if input_text[\"table\"][\"column_header\"][n] != \"article_title\" %}\n- {{input_text[\"table\"][\"column_header\"][n].replace(\"_\",\" \") }}: {{input_text[\"table\"][\"content\"][n] }}\n{% endif %}\n{% endfor %}\nBased on these bullet points, write a short biography describing the life of {{input_text[\"context\"]}}. |||\n{{target_text}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if metadata.split != \"test\" %}\nExtract the answer to the question from the following context.\nQuestion: {{question}}\nContext: {{context}}|||\n{{answers.text | choice}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{ text }}\nBased on that, my rating for this place is ||| {{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{verse_text}} What is the sentiment that the poet wants the readers to feel through the verse mentioned above?||| {{ answer_choices [label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Do the following two sentences mean the same thing?\n{{sentence1}}\n{{sentence2}}\n|||\n{{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given the answer below suggest a possible question title:\n\nAnswer: {{ best_answer}} |||\n{{ question_title}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Please predict the next word after the following chunk of text.\n\n{{ text.split()[:-1] | join(' ') }} ||| {{ text.split()[-1] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if 0 < (thread | selectattr(\"userId\", \"equalto\", \"Bob\") | list | length) %} \"{{context}}\"\n\nGiven the previous context, would you say Bob's engagement is real in this conversation:\n{% for utterance in thread %}\n- {{ utterance[\"userId\"] }}: {{ utterance[\"text\"] }}\n{% endfor %}\n|||\n{% for eval in evaluation %}\n{% if \"Bob\" == eval[\"userId\"] %}\n{% if 3 < eval[\"engagement\"] %}{{ answer_choices[0] }}{% else %}{{ answer_choices[1] }}{% endif %}\n{% endif %}\n{% endfor %}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Sentence: {{ tokens | join(\" || \")}}\n\nGiven the sentence above with tokens separated with the character || , can you identify the tokens that are species or organisms of the NCBI Taxonomy?\nAn NCBI Taxonomy token can be an acronym, common name, abbreviation, or scientific name of a species in the NCBI Taxonomy (E.g., Escherichia coli, E. coli).\n\nPlease indicate for each token in the sentence {{\"\\\"NCBI Taxonomy token\\\"\"}} if it is an NCBI Taxonomy token, else {{\"\\\"None\\\"\"}} if it is not an NCBI Taxonomy token. Separate each token with the character || as in the original sentence.\n\n|||\n{% set new_list = [] %}\n{% for ner_tag in ner_tags %}\n{% if ner_tag > 0 %}\n{{ new_list.append(\"NCBI Taxonomy token\")|default(\"\", True) }}\n{% elif ner_tag <= 0%}\n{{ new_list.append(\"None\")|default(\"\", True) }}\n{% endif %}\n{% endfor %}\n{{ new_list | join(\" || \") }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Explain why the relation between the following two sentences can be described as {{ [\"an entailment\", \"neutral\", \"a contradiction\"][label] }}.\n\nSentence 1: {{premise}}\n\nSentence 2: {{hypothesis}}\n|||\n{{ answer_choices |select(\"!=\",\"\") |list |choice }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{premise}}\nQuestion: {{hypothesis}} True, False, or Neither? ||| {% if label !=-1 %}{{ answer_choices[label] }}{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{title}}\n{{headline}}\n\nTopic: \n\n|||\n\n{{topic|capitalize}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if output %}\nQuestion : {{input}}\nAnswer :\n|||\n{{output|selectattr(\"answer\")|map(attribute='answer')|reject(\"equalto\", \"\")|list|join(', ') }}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if answers.text %}\nBackground: {{ background }}\n\nParagraph: {{ situation }}\n\nGiven the paragraph above, please answer correctly the following question: {{ question }}\n|||\n{{ answers.text | choice }}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given an original sentence \"{{ original1.replace(original1[original1.index(\"<\"):original1.index(\">\")+1], original1[original1.index(\"<\")+1:original1.index(\"/>\")]) }}\", we have two replacement strategies. The first is to replace \"{{ original1[original1.index(\"<\")+1:original1.index(\"/>\")] }}\" with \"{{ edit1 }}\", and the second is to replace \"{{ original2[original2.index(\"<\")+1:original2.index(\"/>\")] }}\" with \"{{ edit2 }}\".\nIs the first strategy more humorous or the second, or are they equally funny?\n{{ answer_choices[1] }}. The first strategy\n{{ answer_choices[2] }}. The second strategy\n{{ answer_choices[0] }}. Both are equally funny\n|||\n{{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{premise}} Based on that information, is the claim: \"{{hypothesis}}\" {{\"true\"}}, {{\"false\"}}, or {{\"inconclusive\"}}? ||| {{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Are the questions \"{{question1}}\" and \"{{question2}}\" asking the same thing? ||| {{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{ text }}\nIf you ask me whether I like this place? The answer is ||| {{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{ fact1[0]|capitalize }}{{ fact1[1:]|trim|trim('.') }}, and {{fact2[0]|lower }}{{ fact2[1:]|trim|trim('.') }}. Given these facts, {{ question[0]|lower }}{{question[1:]|trim('?') }} among the following options:\n- {{answer_choices | join(\"\\n - \") }}\n\n||| \n\n{% for choice in choices.label %} {% if choice == answerKey %}{{ answer_choices[loop.index - 1] }}{% endif %}{% endfor %} ": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{# Assignement in if clause breaks test, we need to declare variables in global scope first: https://github.com/pallets/jinja/issues/1314 #}\n{% set selected_question = \"\" %}\n{% set selected_answer = \"\" %}\n{% set random_question_id = -1 %}\n{% if annotations.type[0] == \"multipleQAs\" %}\n   {% set random_question_id = range(0, annotations.qaPairs[0].question | length) | choice%}\n   {% set selected_question = annotations.qaPairs[0].question[random_question_id]%}\n   {% set selected_answer = annotations.qaPairs[0].answer[random_question_id] | choice%}\n{% else %}\n   {% set selected_question = question %}\n   {% set selected_answer = annotations.answer[0] | choice %}\n{% endif %}\n\nQuestion: {{question}}\nAnswer: {{selected_answer}}\n\nKnowing that the question can be ambiguous, can you perform question disambiguation by generating a question such that \"{{selected_answer}}\" is a more suitable answer? If you deem that the question is not ambiguous, generate the same question given above.\n|||\n{{selected_question}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "First statement: \n{{ premise }}\n\nSecond statement: \n{{ hypothesis }}\n\nDoes the first statement contradict the second?\n|||\n{{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Sentence: {{question_propmt}}\nCompletion: {{ candidate_answers[correct_answer_idx] }}\n\nWhich of {{answer_choices | join(\", \")}} best describes the completed sentence?\n\n|||\n{{answer_choices[question_category]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "You are in an examination, which requires you to associate the passage below to the author. The topic is about {{ [\"Politics\", \"Society\", \"UK\", \"World\", \"Books\"][topic] }}, and the possible authors are one of the following: {{answer_choices | join(\", \")}}. What is the answer?\n\nPassage: {{ article }} \n|||\n{{ answer_choices[author] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "One of the five choices are correctly answers the math problem. Can you choose the right one? \n\n{{options}}\n\nProblem: {{Problem}}\n|||\n{{correct}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set tokenised_text = text.split(' ') %}\n{% set acronym = location[0] %}\n\n{{text}}\n\nPlease write what the abbreviation \"{{ tokenised_text[acronym] }}\" means in the text above?\n|||\n{{ label[0] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set pronoun = tokens[coreference_clusters[2] | int : coreference_clusters[3] | int + 1] | join(\" \") %}\n{% set referent = tokens[coreference_clusters[0] | int : coreference_clusters[1] | int + 1] | join(\" \") %}\n{{tokens | join(\" \")}}\n{% if pronoun.lower()  == \"they\" or pronoun.lower() == \"them\" %}\nQuestion: Who or what are \"{{ pronoun }}\"?\n{% else %}\nQuestion: Who or what is \"{{ pronoun }}\"?\n{% endif %}\nAnswer: ||| {{ referent }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Someone just said to me \"{{sentence}}\".\n\nDo you think they are {{\"sad\"}} or {{\"happy\"}}? ||| {{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Extract the answer to the following question from the movie plot. If the question isn't answerable, please output \"{{\"Can't answer\"}}\".\nQuestion: {{question}}\nTitle: {{title}}\nMovie plot: {{plot}}\n|||\n{% if no_answer %}\nCan't answer\n{% else %}\n{{answers | choice }}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if coherent_second_sentence==\"\" %}\n\nRewrite these two sentences as one sentence:\n\nFirst sentence: {{incoherent_first_sentence}} \n\nSecond sentence: {{incoherent_second_sentence}} \n\n|||\n\n{{coherent_first_sentence}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "What is the topic of this article? The answer options are {{answer_choices|join(\", \")}}.\n\n{{article}} \n|||\n{{answer_choices[topic]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Question: In the context of healthcare do the following questions mean the same thing?\n\nQuestion 1: {{question_1}}\n\nQuestion 2: {{question_2}}\n\n{{answer_choices[1]}} or {{answer_choices[0]}}?\n|||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Assume it is true that {{premise}} \n\nTherefore, \"{{hypothesis}}\" is {{\"guaranteed\"}}, {{\"possible\"}}, or {{\"impossible\"}}? ||| {{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given the following review:\n{{review_body}}\npredict the associated rating from the following choices (1 being lowest and 5 being highest)\n- {{ answer_choices | join('\\n- ') }} \n|||\n{{answer_choices[star_rating-1]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{context}}\n\nGenerate a question from the above passage : ||| {{question}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if output %}\nI've always wondered: {{input}}\n|||\n{{output|selectattr(\"answer\")|map(attribute='answer')|reject(\"equalto\", \"\")|list|choice }}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set label_mapping={0:2, 7:1,  12:0, 9:3} %}\n{% if label_coarse == 0 %}\n{{text}}\n\nIs this question asking for {{', '.join(answer_choices)}}?\n|||\n{{ answer_choices [label_mapping[label_fine]] }}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Information:\n{% for support in supports %}\n- {{ support }}\n{% endfor %}\n\n{% set question_split = question.split(' ') %}\nAfter reading the paragraphs above, choose the best answer for the entity that related to '{{ question_split[1:] | join(\" \")}}' with the relationship of '{{ question_split[0] | replace(\"_\", \" \")}}'.\n\nChoices:\n- {{answer_choices | join(\"\\n - \") }}\n\n|||\n{{answer}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Is the following citation from a scientific paper describing a {{answer_choices[0]}}, a {{answer_choices[2]}}, or {{answer_choices[1]}}?\nCitation: {{ string }}\n|||\n{{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if answers.text != [] %}\nWhat is a question that would give the following answer?\nAnswer: {{answers.text[0]}};\nQuestion: |||\n{{question}}\n{% endif %}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set seq = [\n'Answer the question depending on the context.',\n'What is the answer?',\n] %}\n\n{{ seq | choice }}\nContext: {{context}};\nQuestion: {{question}};\nIf you can't find the answer, please respond \"unanswerable\".\nAnswer: |||\n{% if answers.text == [] %}\nunanswerable\n{% else %}\n{{answers.text[0]}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set poss_ans_list = [\"SINGLE_APPOSITION\", \"SINGLE_RELATIVE\", \"SINGLE_CATAPHORA\", \"SINGLE_VP_COORD\", \"PAIR_ANAPHORA\", \"SINGLE_CONN_INNER\", \"SINGLE_CONN_INNER_ANAPHORA\", \"SINGLE_S_COORD\", \"SINGLE_S_COORD_ANAPHORA\", \"SINGLE_CONN_START\", \"PAIR_CONN\", \"PAIR_CONN_ANAPHORA\"] %}\n{% if discourse_type != \"PAIR_NONE\" %}\nPeruse the following two passages and identify the discourse phenomenon which can be used to turn Passage 1 into Passage 2.\n\nPassage 1: {{incoherent_first_sentence}} {{incoherent_second_sentence}}\n\nPassage 2: {{coherent_first_sentence}} {{coherent_second_sentence}}\n\n{% for lab in answer_choices %}\n{{ loop.index }}: {{ lab }}\n{% endfor %}\n  \n |||\n\n{{ answer_choices[poss_ans_list.index(discourse_type)] }}\n\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "What label best describes this news article?\n{{text}} ||| \n{{answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{ text }}\n\nSummarize the essential ideas of the above piece of news.\n|||\n{{ description }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "I've always wondered: {{question}}\n\nI searched Wikipedia and this is what I found. What's the answer?\n\n{{context}}\n\n|||\n{{answers['text'] | most_frequent | choice}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Does this phrase make sense?\n{{goal}} {{sol1[0].lower() + sol1[1:]}}\nAnswer with {{answer_choices[0]}} or {{answer_choices[1]}}\n|||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{text}} Did the reviewer enjoy the movie? ||| {{ answer_choices [label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "If I tell you that {{combinedfact[0]|capitalize}}{{ combinedfact[1:]|trim('.') }}, and ask you the question \"{{ question[0]|lower }}{{ question[1:] }}\", is the correct answer \"{{ choices.text[0][0]|lower}}{{ choices.text[0][1:]|trim('.') }}\"? \n\n||| \n\n{% if answerKey == choices.label[0] %} Yes {% else %} No {% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Does this tweet contain {{\"irony\"}} or {{\"non-irony\"}}?\n\n{{text}} |||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{sentence1}} \n\nQuestion: Does this imply that \"{{sentence2}}\"? Yes or no? ||| {{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Sentence: {{question_propmt}}\nCompletion: {{ candidate_answers[correct_answer_idx] }}\n\nWhich of  {{', '.join([\"Idioms\", \"Reference\", \"Polysemy\", \"Negation\", \"Quantitative\", \" or Others\"])}} best describes the completed sentence?\n\n|||\n{{answer_choices[question_category]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{document}}\nThis boils down to the simple idea that ||| {{summary}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set n_sections = context.contexts | length %}\n{% set choice = range(0, n_sections) | random %}\n\n\"{{ context.contexts[choice] }}\"\n\nThe above text would most likely be found in which section of a biomedical paper:  {{ context.labels[:-1] | join(\", \") }} or {{ context.labels[-1] }} ? \n|||\n{{ context.labels[choice] }}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Found the following article online, use it to answer the question: {{question}}\n\n{{context}}|||\n{{answers.text | choice}}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "I am hesitating between 4 options to answer the following question, which option should I choose?\nQuestion: {{question}}\nPossibilities:\n- {{answer_choices | join(\"\\n- \")}}|||\n{{answer_choices[choices[\"label\"].index(answerKey)]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "\"{{text}}\"\n\nWe must consume the news article above with caution as it exhibits prejudiced allegiance towards one group or cause. \"{{answer_choices[0]}}\" or \"{{answer_choices[1]}}\"?\n\n|||\n\n{{answer_choices[0] if hyperpartisan else answer_choices[1]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set pronoun = tokens[coreference_clusters[2] | int : coreference_clusters[3] | int + 1] | join(\" \") %}\n{% set referent = tokens[coreference_clusters[0] | int : coreference_clusters[1] | int + 1] | join(\" \") %}\n{{tokens | join(\" \")}}\nHere, what does \"{{ pronoun }}\" stand for? ||| {{ referent }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{sentence1}} [X] {{sentence2}} \n\nWhat should the [X], which is the discourse marker that connects the two sentences, be? If they cannot be connected, answer with \"no connection\". Otherwise, choose from the following options:\n- {{ answer_choices[1:] | join(\"\\n- \") }}\n\n|||\n{{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "After reading the following paragraph, please answer this question: {{question}}\n\n{{context}}\n\n|||\n{{answers['text'] | most_frequent | choice}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "The relationship between the following sentences can be characterized as {{answer_choices[0]}} (one sentence implies the other), {{answer_choices[1]}} (the sentences don't necessarily imply or contradict one another), or {{answer_choices[2]}} (the sentences contract each other).\nSentence 1: {{hypothesis}}\nSentence 2: {{premise}} |||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set scan_lst_of_actions = actions.split(' ') %}\n{% set lst_of_actions = [] %}\n{% for item in scan_lst_of_actions %}\n    {{ lst_of_actions.append(item.lower()[2:] | replace(\"_\", \" \")) | default(\"\", True) }}\n{% endfor %}\n\n{% set actions = lst_of_actions | join(\", \") %}\n\nGiven the following commands: {{ commands }}\n\nWhat is the corresponding correct sequence of actions (comma-separated)?\n|||\n{{ actions }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "What word among \"{{\"growth\"}}\", \"{{\"neutral\"}}\", \"{{\"decline\"}}\", comes to your mind when reading the following argument?\n\n{{sentence}} |||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if metadata.split != \"test\" %}\nGiven the following passage\n\n\"{{context}}\",\n\nanswer the following question. Note that the answer is present within the text.\n\nQuestion: {{question}} |||\n{{answers.text | choice}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "What option among, {{\"neutral\"}}, {{\"against\"}}, {{\"in favor\"}}, best describes the stance of this tweet regarding atheism?\n\n{{text}} |||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Choose a title for the text below: \n\n{{ text }}\n|||\n{{ title }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given this bill: {{text}}.\nWrite a summary of this bill.\n|||\n{{summary}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{ passage }} \nQuestion: {{ question }}\nAnswer: ||| \n{% if label != -1 %}\n{{ answer_choices[label] }}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% if answers.text %}\n{{ situation }}\n\nGiven the paragraph above, please answer correctly the following question: \n\n{{ question }}\n|||\n{{ answers.text | choice }}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Extract: {{sentence}}\n\nIs there more than one mention of a moving entity in the extract? \n\n|||\n{% if (motion_entities  | length) > 1 %}\n{{ answer_choices[0] }}\n{% else %}\n{{ answer_choices[1] }}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "What would be the first line of a scientific article for the following abstract: {{ abstract }}\n|||\n{{ article.strip().split('\\n')[0] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Is the movie review below positive?\n\n{{sentence}} |||\n{{answer_choices\n[0 if label < 0.5 else 1]\n}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{premise}} Based on the previous passage, is it true that \"{{hypothesis}}\"? Yes or no? ||| {{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{premise}} Are we justified in saying that \"{{hypothesis}}\"? Yes, no, or maybe? ||| {{ answer_choices[label] }} ": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{sentence}}\n\nAre there any entities in motion in the sentence?\n\n|||\n\n{% if motion == \"yes\" %}\n{{ answer_choices[0] }}\n{% else %}\n{{ answer_choices[1] }}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Which word between \"{{\"negative\"}}\", \"{{\"neutral\"}}\", \"{{\"positive\"}}\" would you use to describe the effect of the following news on the related share prices?\n\n{{sentence}} |||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Answer the following question.\n{{question}} \n|||\n{% if answer.aliases %} \n{{answer.aliases|choice}} \n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given a state bill: {{text}}. \nPlease write the title of this bill in one sentence.\n|||\n{{title}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set scan_lst_of_actions = actions.split(' ') %}\n{% set lst_of_actions = [] %}\n{% for item in scan_lst_of_actions %}\n    {{ lst_of_actions.append(item.lower()[2:] | replace(\"_\", \" \")) | default(\"\", True) }}\n{% endfor %}\n\n{% set actions = lst_of_actions | join(\", \") %}\n\nGiven a sequence of actions below, please produce the corresponding  instructions in natural language.\n\n{{ actions }}\n|||\n{{ commands }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Read the following context and choose the best option to answer the question.\nContext: {{ context }}\nQuestion: {{ question }}\nOptions: \nA. {{ answer0 }}\nB. {{ answer1 }}\nC. {{ answer2 }}\nD. {{ answer3 }}\n|||\n{{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Who wrote this article? The answer options are {{answer_choices|join(\", \")}}.\n\n{{article}} \n\n|||\n\n{{ answer_choices[author] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{sentence1}}\nDoes this imply\n{{sentence2}}\nPlease answer {{\"A) yes or B) no.\"}}\n|||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Can \"{{headline_a}}\" replace \"{{headline_b}}\"? Here, a headline is replaceable by another headline if the latter headline describes the same event as the former.\n|||\n{% if label %}\n{{ answer_choices[0] }}\n{% else %}\n{{ answer_choices[1] }}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "\"{{ answer_choices[0] }}\" or \"{{ answer_choices[1] }}\"? {{ premise }} {% if question == \"cause\" %} because {% else %} so {% endif %} ||| {% if label != -1 %}{{ answer_choices[label] }}{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Person A says something, Person B responds, and then Person A says something. Here's their conversation: \n\n\"{{text}}\"\n\nWhat emotion can be inferred from the context and Person A's last message? {{\"happy\"}}, {{\"sad\"}}, {{\"angry\"}}, or  {{\"something else\"}}?\n\n|||\n\n{{ answer_choices [label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "In this test, you need to answer with either yes or no. \n\nQ: Is this a hateful tweet? \n{{text}}\n\nA: \n|||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Is the sentiment of the sentence \"{{\"negative\"}}\", \"{{\"neutral\"}}\", or \"{{\"positive\"}}\"?\n\n{{sentence}} |||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Dialogue between speaker A and B:\n\n{{text}}\n\nHow would you say A feels in the last message? Is it {{answer_choices[1]}}, {{answer_choices[2]}}, {{answer_choices[3]}} or {{answer_choices[0]}}? ||| {{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Would a search system directly be able to answer this request unambiguously: \"{{initial_request}}\"?|||{% if 2 >= clarification_need%}{{ answer_choices[0] }}{% else %}{{ answer_choices[1] }}{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Read the below text and answer the question.\n\nText: {{text}}\n\nQuestion: What are the drug and its dosage of the above text? \n\nYou should answer in the \"drug\" and \"dosage\" format (e.g., Aspirin and 500mg)\n|||\n{{drug}} and {{dosage}}.": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "\"{{claim}}\" Yes, no, maybe?\n|||\n{% if label != \"\" %}\n{{\n{\"SUPPORTS\": \"Yes\",\n \"REFUTES\": \"No\",\n\"NOT ENOUGH INFO\": \"Maybe\"\n}[label]\n}}\n{% endif %}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{content}} Given a list of categories: {{\"company, educational institution, artist, athlete, office holder, mean of transportation, building, natural place, village, animal, plant, album, film or written work\"}}, what category does the paragraph belong to? ||| {{ answer_choices[label] }}\n\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "What adjective would you use to describe the effect of the following news on the related share prices?\n\n{{sentence}} |||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given a sentence, correct it if it doesn't make sense. If it makes sense, just return it as the answer.\nInput: {{goal}} {{sol2[0].lower() + sol2[1:]}}\nOutput:\n|||\n{{goal}} {{[sol1[0].lower() + sol1[1:], sol2[0].lower() + sol2[1:]][label]}}\n": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Does the author express any stance about Hillary in the following text?\n\n{{text}} |||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Is this tweet {{\"offensive\"}}? \n\n{{text}} |||\n{{answer_choices[label]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{question}}\n\nAnswer using extracts from the following context. If you can't find an answer, return {{\"Unanswerable\"}}\n\nContext:\n{{context}}\n\nHint: The context domain is {{domain}}\n\n|||\n{% if (answers[\"text\"]  | length) == 0 %}\n{{ \"Unanswerable\" }}\n{% else %}\n{{answers[\"text\"][0]}}\n{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{context}}\n\nQ: {{question}}\n\nReferring to the passage above, the correct answer to the given question is ||| {{answers[\"text\"][0]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Information:\n- {{ supports | join(\"\\n- \") }}\n\n{% set question_split = question.split(' ') %}\nQuestion: (?, {{ question_split[0] | replace(\"_\", \" \") }}, {{answer}})\n\n|||\n{{ question_split[1:] | join(\" \")}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Here's a question: {{ question }}\n\nHere are possible answers to this question:\n- {{ choices | join(\"\\n- \") }}\n\nI believe the correct choice is \"{{answer}}\", here's why:\n|||\n{{ abstractive_explanation }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Question:\n{{question}}\n\nOn a scale of 1 to 5 (1 being the most subjective), how subjective is the question?\n\n|||\n\n{{answer_choices[question_subj_level -1]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set label_mapping = {5:0, 4:1, 6:2, 12:3} %}\n{% if label_coarse == 3 %}\n{{text}}\n\nIs this question asking for {{', '.join(answer_choices)}}?\n|||\n{{ answer_choices [label_mapping[label_fine]] }}{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set order = [[0, 1, 2, 3], [0, 1, 3, 2], [0, 2, 1, 3], [0, 2, 3, 1], [0, 3, 1, 2], [0, 3, 2, 1],\n                             [1, 0, 2, 3], [1, 0, 3, 2], [1, 2, 0, 3], [1, 2, 3, 0], [1, 3, 0, 2], [1, 3, 2, 0],\n                             [2, 1, 0, 3], [2, 1, 0, 2], [2, 0, 1, 3], [2, 0, 3, 1], [2, 3, 1, 0], [2, 3, 0, 1],\n                             [3, 1, 2, 0], [3, 1, 0, 2], [3, 2, 1, 0], [3, 2, 0, 1], [3, 0, 1, 2], [3, 0, 2, 1]] | choice %}\nQ: {{question}}\n\n\n Choices:\n\n- {{ answer_choices[order[0]] }}\n\n- {{ answer_choices[order[1]] }}\n\n- {{ answer_choices[order[2]] }}\n\n- {{ answer_choices[order[3]] }}\n\nA:|||{{answer_choices[3]}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Following are the abstracts of some related work. Can you use it to generate the abstract?\n{% for abs in ref_abstract[\"abstract\"] %}\n{{ref_abstract[\"cite_N\"][loop.index-1]}}: {{abs}}\n{% endfor %} |||\n{{abstract}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given the  partial dialogue : \n\nStudent: {{questions[0]}}\n\nTeacher: {{(answers.texts[0] | choice).replace(\"CANNOTANSWER\",\"Cannot answer\") }}\n\nThe context : {{context}}\n\nAnswer the question: {{questions[1] }}\n|||\n{{(answers.texts[1] | choice).replace(\"CANNOTANSWER\",\"Cannot answer\")  }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Put the concepts together to form a sentence: {{ concepts | join(\", \") }}.\n|||\n{{target}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{question}}\n{% set variable_name = question[-2] %}\n{{variable_name}}=\n|||\n{{answer}}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{% set scan_lst_of_actions = actions.split(' ') %}\n{% set lst_of_actions = [] %}\n{% for item in scan_lst_of_actions %}\n    {{ lst_of_actions.append(item.lower()[2:] | replace(\"_\", \" \")) | default(\"\", True) }}\n{% endfor %}\n\n{% set actions = lst_of_actions | join(\", \") %}\n\nPlease translate correctly the following commands in natural language into the corresponding sequence of actions.\n\n{{ commands }}\n|||\n{{ actions }} ": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{ premise }} \n\nWhat's the best option?\n- {{choice1}}\n- {{choice2}}\n\nWe are looking for {% if question == \"cause\" %} a cause {% else %} an effect {% endif %}\n||| {% if label != -1 %}{{answer_choices[label]}}{%endif%}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "{{title}} is the title of a fictional book, True or False?\nAnswer: \n|||\n{{ answer_choices[label] }}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  },
+  "Given {{premise}} Should we assume that \"{{hypothesis}}\" is true? Yes or no? ||| {% if label != -1 %}{{ answer_choices[label] }}{% endif %}": {
+    "Task-specificity": 2,
+    "Coherency": 2,
+    "Fluency": 2
+  }
+}

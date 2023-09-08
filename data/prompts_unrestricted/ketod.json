@@ -1,0 +1,532 @@
+{
+  "0.1284510704329481": [
+    "User",
+    "system: In",
+    "user_state"
+  ],
+  "0.1248034772157216": [
+    "User",
+    "user:",
+    "system:"
+  ],
+  "0.1240088834687429": [
+    "user: How do I get out of here?",
+    ".:",
+    "system: Yes.:"
+  ],
+  "0.121201607795076": [
+    "in the following",
+    ".",
+    "system:"
+  ],
+  "0.12035872146657867": [
+    "In",
+    "following",
+    "system::"
+  ],
+  "0.11679314893391439": [
+    "In",
+    "this",
+    "user::"
+  ],
+  "0.11398044553148338": [
+    "User",
+    "user:",
+    "system::"
+  ],
+  "0.1134991938628893": [
+    "In this",
+    "system:",
+    "system:"
+  ],
+  "0.11214684772176899": [
+    ".",
+    "system: What do you need?",
+    "context:"
+  ],
+  "0.11040198448241877": [
+    "In",
+    "this",
+    "system::"
+  ],
+  "0.10649510853671297": [
+    "in",
+    "following",
+    "."
+  ],
+  "0.1020467699377494": [
+    "In",
+    "In context:",
+    "system:"
+  ],
+  "0.10070560998736965": [
+    "?",
+    ".:",
+    "..:"
+  ],
+  "0.10007410176440741": [
+    "System",
+    "user:",
+    "system:"
+  ],
+  "0.09949035375690819": [
+    "User",
+    "system:",
+    "user::"
+  ],
+  "0.09840852595571113": [
+    "User",
+    "system:",
+    "system:"
+  ],
+  "0.09738698879695992": [
+    "user",
+    "user:",
+    "system:"
+  ],
+  "0.0972633929281272": [
+    "User",
+    "system:",
+    "user:"
+  ],
+  "0.09719674391752009": [
+    "System",
+    "user:",
+    "system::"
+  ],
+  "0.09649178547680827": [
+    "user",
+    "system: In",
+    "user_state"
+  ],
+  "0.09596275777888669": [
+    ".",
+    "system: What do you need to do?",
+    "context:"
+  ],
+  "0.0944491478888504": [
+    "user",
+    "system: OK,",
+    "system:"
+  ],
+  "0.09184030167506112": [
+    "user",
+    "user:",
+    "user:"
+  ],
+  "0.08796806769859594": [
+    "in",
+    "following",
+    "system::"
+  ],
+  "0.0874012207325559": [
+    "user",
+    "system: In",
+    "user:"
+  ],
+  "0.08670991162968558": [
+    "In",
+    "system:",
+    "system:"
+  ],
+  "0.08454980667985462": [
+    "user",
+    "user:",
+    "system::"
+  ],
+  "0.0834599330025014": [
+    "user",
+    "system: In",
+    "system:"
+  ],
+  "0.0817983245864827": [
+    "System::",
+    "user:",
+    "system::"
+  ],
+  "0.08175223109462913": [
+    "System",
+    "system:",
+    "system:"
+  ],
+  "0.08166834340029124": [
+    "system: What is the system intent? System",
+    "system:",
+    "system:"
+  ],
+  "0.08152349089072235": [
+    "user",
+    "system:",
+    "user_state"
+  ],
+  "0.08036541853402221": [
+    "user: What do you like to do?",
+    "system::",
+    ".:"
+  ],
+  "0.08000685208167346": [
+    "System",
+    "system:",
+    "user::"
+  ],
+  "0.07751009282409134": [
+    "System",
+    "system:",
+    "user:"
+  ],
+  "0.07715973115966564": [
+    ".:",
+    "user:",
+    ".:"
+  ],
+  "0.0757210627308174": [
+    "in the following",
+    ". system:",
+    "system:"
+  ],
+  "0.0738881485497507": [
+    "system: In",
+    "this",
+    "user:"
+  ],
+  "0.07273119271792548": [
+    ".:",
+    "system: In",
+    "system::"
+  ],
+  "0.07066783048528313": [
+    ".:",
+    "system:",
+    ".:"
+  ],
+  "0.07019561905752604": [
+    "system",
+    "system: In",
+    "system:"
+  ],
+  "0.06893903672608226": [
+    "in the following",
+    "system: In",
+    "system:"
+  ],
+  "0.06751703714721265": [
+    "user",
+    "system:",
+    "system:"
+  ],
+  "0.06746376633977252": [
+    "in the following",
+    "system: And",
+    "user:"
+  ],
+  "0.06587434627460384": [
+    ".:",
+    ".:",
+    "user:"
+  ],
+  "0.065549948299137": [
+    "system: What are you looking for",
+    "?:",
+    "user::"
+  ],
+  "0.06273799932561612": [
+    ".:",
+    "user::",
+    ".:"
+  ],
+  "0.0622364578709932": [
+    "system: What is the system state? System",
+    "system:",
+    "system:"
+  ],
+  "0.06173210438378677": [
+    ".:",
+    "system: In",
+    "system:"
+  ],
+  "0.06078390940668688": [
+    ".:",
+    "system::",
+    ".:"
+  ],
+  "0.06031335915773771": [
+    "user",
+    "system:",
+    "user:"
+  ],
+  "0.059989197811335354": [
+    ":",
+    "system:",
+    "system:"
+  ],
+  "0.05789518970187107": [
+    "user",
+    "system:",
+    "user::"
+  ],
+  "0.05580780733531047": [
+    "in the following",
+    "system:",
+    "system:"
+  ],
+  "0.05556117099373009": [
+    "user",
+    "system: In",
+    "user context:"
+  ],
+  "0.05335576025744847": [
+    "System::",
+    "system:",
+    "user::"
+  ],
+  "0.05252010146949148": [
+    ".:",
+    "system::",
+    "system::"
+  ],
+  "0.05211071566034451": [
+    "in the following",
+    "system:",
+    "user:"
+  ],
+  "0.05110822909863206": [
+    "user::",
+    "user::",
+    "system::"
+  ],
+  "0.0505573454525858": [
+    "system::",
+    "system: In this",
+    "user::"
+  ],
+  "0.04965624504845438": [
+    "system",
+    "system:",
+    "system:"
+  ],
+  "0.04941739429303392": [
+    "user::",
+    "system::",
+    "system::"
+  ],
+  "0.04718239842191144": [
+    "user::",
+    "user::",
+    ".:"
+  ],
+  "0.0460477422377534": [
+    "user",
+    "system:",
+    "user context:"
+  ],
+  "0.0455657848875789": [
+    "user::",
+    "system: In",
+    "user:"
+  ],
+  "0.04533437953154281": [
+    ".:",
+    "user:",
+    "system::"
+  ],
+  "0.045238740650198624": [
+    "user::",
+    "system: In",
+    "system:"
+  ],
+  "0.04508641089176759": [
+    "system",
+    "system:",
+    "user:"
+  ],
+  "0.040907163692694294": [
+    "system: What do you need help with?",
+    "user",
+    "context:"
+  ],
+  "0.040635302148286055": [
+    "system: What is the system state? system",
+    "system:",
+    "system:"
+  ],
+  "0.040205125341563536": [
+    "system::",
+    "system: In",
+    "user::"
+  ],
+  "0.039282120174985814": [
+    "user:",
+    "system::",
+    "system::"
+  ],
+  "0.039160574747380564": [
+    ".:",
+    "system::",
+    "user:"
+  ],
+  "0.03890957204202124": [
+    "user::",
+    "in",
+    "system::"
+  ],
+  "0.03756580588373615": [
+    "user",
+    "user context:",
+    "system context:"
+  ],
+  "0.037384007628292755": [
+    "system: User",
+    "user:",
+    "system:"
+  ],
+  "0.036779341086982914": [
+    "user::",
+    "system::",
+    "system:"
+  ],
+  "0.03646745424679092": [
+    "user",
+    "system:",
+    "user context::"
+  ],
+  "0.03572439331245496": [
+    ".:",
+    "system::",
+    "system:"
+  ],
+  "0.033784485428229885": [
+    "user::",
+    "system::",
+    "user:"
+  ],
+  "0.03353477655557242": [
+    "user:",
+    "system:",
+    "user:"
+  ],
+  "0.033144529003248054": [
+    "system: What are you looking for?",
+    "user",
+    "context:"
+  ],
+  "0.03236961743034045": [
+    "system::",
+    "user::",
+    "user::"
+  ],
+  "0.031919196450358255": [
+    "system: What is the system",
+    "system:",
+    "system:"
+  ],
+  "0.03136345403739583": [
+    "user::",
+    "user:",
+    ".:"
+  ],
+  "0.0309082358299311": [
+    "system",
+    "system:",
+    "system context:"
+  ],
+  "0.030055764315530316": [
+    "user:",
+    "system::",
+    "user:"
+  ],
+  "0.028905586901124738": [
+    "system::",
+    "user: And",
+    "system:"
+  ],
+  "0.02882028089444813": [
+    "user",
+    "system::",
+    "user context:"
+  ],
+  "0.028176480754431785": [
+    "system: User",
+    "system:",
+    "system:"
+  ],
+  "0.02788866568078292": [
+    "system::",
+    "system::",
+    "user::"
+  ],
+  "0.0278623216522088": [
+    "system::",
+    "user::",
+    ".:"
+  ],
+  "0.02731991867522372": [
+    ":User",
+    "system:",
+    "system:"
+  ],
+  "0.026574123083118264": [
+    ".:",
+    "system:",
+    "user:"
+  ],
+  "0.02448019442067491": [
+    "system::",
+    "user::",
+    "system:"
+  ],
+  "0.02398831452430902": [
+    "user::",
+    "system:",
+    "system:"
+  ],
+  "0.0237719042802849": [
+    "system::",
+    "in",
+    "user::"
+  ],
+  "0.02146887443823592": [
+    "user::",
+    "system:",
+    "user:"
+  ],
+  "0.02108768540876181": [
+    "system::",
+    "user:",
+    "System::"
+  ],
+  "0.019833239554877244": [
+    "system:",
+    "system::",
+    "system::"
+  ],
+  "0.017740659636232167": [
+    "system::",
+    "user: Hello,",
+    "system:"
+  ],
+  "0.01486498854292765": [
+    "system: In",
+    "system:",
+    "system:"
+  ],
+  "0.014738083297089864": [
+    "system:",
+    "system:",
+    "system:"
+  ],
+  "0.01330348104806975": [
+    "system::",
+    "user:",
+    "system:"
+  ],
+  "0.012147084722688344": [
+    "system::",
+    "system:",
+    "user::"
+  ],
+  "0.008589281786064447": [
+    "system: What is the system state?",
+    "context:",
+    "context:"
+  ]
+}

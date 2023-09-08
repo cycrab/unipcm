@@ -1,0 +1,13 @@
+{
+  "answer_using_summary_full_text": 0.056472775789065004,
+  "full_text_question_answer": 0.02789111993658314,
+  "given_summary_answer_text": 0.18109614902268864,
+  "given_text_answer_question": 0.04749959974197481,
+  "recapitulate_given_text": 0.023981280503636283,
+  "state_main_points": 0.03371877852181699,
+  "summarize_text": 0.024347156295914787,
+  "summary_answer_query": 0.07013337039612472,
+  "task description": 0.0710288393338943,
+  "no prompt": 0.08455296561945999,
+  "task description ahead": 0.07901246144327545
+}

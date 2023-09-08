@@ -1,0 +1,497 @@
+{
+  "0.14702171883127346": [
+    "In",
+    "this",
+    "Thank you."
+  ],
+  "0.14661539352591957": [
+    "In",
+    "this",
+    "What do you think?"
+  ],
+  "0.14568864923109331": [
+    "In",
+    "this",
+    "Thanks."
+  ],
+  "0.1456481312210002": [
+    "In",
+    "this",
+    "user:"
+  ],
+  "0.14374317346608767": [
+    "In",
+    "this",
+    "Thanks.:"
+  ],
+  "0.14343599824109735": [
+    "In",
+    "this",
+    "system:"
+  ],
+  "0.14110869543409946": [
+    "In this",
+    "User intent:",
+    "system:"
+  ],
+  "0.14083470308271584": [
+    "in this",
+    ".",
+    "system:"
+  ],
+  "0.1408325157365491": [
+    "In this",
+    "User:",
+    "System:"
+  ],
+  "0.13980728543575074": [
+    "In this",
+    "User:",
+    "system:"
+  ],
+  "0.13733100571322374": [
+    "In",
+    "the following",
+    "system:"
+  ],
+  "0.13695509929873254": [
+    "In",
+    "following",
+    "system:"
+  ],
+  "0.13468053026705493": [
+    "In this",
+    "System:",
+    "user_state"
+  ],
+  "0.13316307766478902": [
+    "In this",
+    "System:",
+    "system:"
+  ],
+  "0.13202786640313038": [
+    "In this",
+    "user:",
+    "system:"
+  ],
+  "0.12975150118412354": [
+    "In this",
+    "System:",
+    "user:"
+  ],
+  "0.1288699805583642": [
+    "In this",
+    "System:",
+    "User intent:"
+  ],
+  "0.1284404946049131": [
+    "In this",
+    "System:",
+    "User intent is"
+  ],
+  "0.12789074321258176": [
+    "User",
+    "System:",
+    "system:"
+  ],
+  "0.12770689548606767": [
+    "In this",
+    "System:",
+    "UserIntent:"
+  ],
+  "0.1272761748528298": [
+    "In this",
+    "System:",
+    "User intent "
+  ],
+  "0.1248034772157216": [
+    "User",
+    "user:",
+    "system:"
+  ],
+  "0.12044019050324488": [
+    "In",
+    "this",
+    "System::"
+  ],
+  "0.11716955619870144": [
+    "In this",
+    "system:",
+    "user:"
+  ],
+  "0.11658677301407931": [
+    "In the following",
+    "System:",
+    "system:"
+  ],
+  "0.11590567986267716": [
+    "In this",
+    "System:",
+    "User's intent is to"
+  ],
+  "0.11568743160818122": [
+    "?:",
+    ". User: So,",
+    "system:"
+  ],
+  "0.11360703790791571": [
+    "user's",
+    "System:",
+    "User intent:"
+  ],
+  "0.11007863510732488": [
+    "In",
+    "user:",
+    "system:"
+  ],
+  "0.10945602950060747": [
+    "user",
+    "System:",
+    "system:"
+  ],
+  "0.10701332302944955": [
+    "in",
+    "the following",
+    "system:"
+  ],
+  "0.10676342086005974": [
+    "In this",
+    "System:",
+    "User intent is to"
+  ],
+  "0.1044079005801782": [
+    "in this",
+    "user:",
+    "system:"
+  ],
+  "0.10247791095148362": [
+    "?:",
+    "user:",
+    "system:"
+  ],
+  "0.10196616907364717": [
+    "I want to relax. Can you help me?",
+    "user:",
+    "system:"
+  ],
+  "0.10195203117021029": [
+    "user's",
+    "System:",
+    "system:"
+  ],
+  "0.10010704728142049": [
+    "In the following",
+    "user:",
+    "system:"
+  ],
+  "0.10008038110611646": [
+    "user",
+    "User intent:",
+    "system:"
+  ],
+  "0.10007410176440741": [
+    "System",
+    "user:",
+    "system:"
+  ],
+  "0.09914791270409533": [
+    "?",
+    "User",
+    "user context:"
+  ],
+  "0.09802637224770702": [
+    "User",
+    "system:",
+    "user_state:"
+  ],
+  "0.0976817565534016": [
+    "User:",
+    "System:",
+    "system:"
+  ],
+  "0.0972633929281272": [
+    "User",
+    "system:",
+    "user:"
+  ],
+  "0.09724685107979072": [
+    "System:",
+    "User:",
+    "system:"
+  ],
+  "0.09585810492954891": [
+    "System::",
+    "system.",
+    "UserIntent(s):"
+  ],
+  "0.0943405651008394": [
+    "System::",
+    "system.",
+    "UserIntent =:"
+  ],
+  "0.09426284206898627": [
+    "in",
+    "following",
+    "system:"
+  ],
+  "0.09373712178867641": [
+    "System::",
+    "system.",
+    "User Intent:"
+  ],
+  "0.09064048415674188": [
+    "System::",
+    "system.",
+    "UserIntent:"
+  ],
+  "0.09058532300749379": [
+    "User:",
+    "system:",
+    "user:"
+  ],
+  "0.090316412065284": [
+    "System: User intent is:",
+    "system",
+    "user intends to perform the following actions.:"
+  ],
+  "0.08970193195982659": [
+    "in the following",
+    "System:",
+    "system:"
+  ],
+  "0.08925846613048008": [
+    "In",
+    "system:",
+    "user:"
+  ],
+  "0.08910416649513778": [
+    "in this",
+    "system:",
+    "user:"
+  ],
+  "0.08866369137199188": [
+    "?",
+    ".:",
+    "user:"
+  ],
+  "0.08637786717036469": [
+    "System::",
+    "system.",
+    "user's intent is:"
+  ],
+  "0.08467436365728885": [
+    "System",
+    "system:",
+    "user_state:"
+  ],
+  "0.08370124647430233": [
+    "User",
+    "system:",
+    "user context:"
+  ],
+  "0.08120782543602346": [
+    "user:",
+    "user",
+    "system:"
+  ],
+  "0.0802694097599012": [
+    "System",
+    "user:",
+    "system context:"
+  ],
+  "0.07826360296868572": [
+    "System::",
+    "If so,",
+    "user:"
+  ],
+  "0.07824573572200326": [
+    "?:",
+    "system:",
+    "user_state:"
+  ],
+  "0.07756520993447986": [
+    "System::",
+    "If so,",
+    "system:"
+  ],
+  "0.07751009282409134": [
+    "System",
+    "system:",
+    "user:"
+  ],
+  "0.0762656590984941": [
+    "System: Yes, I can help you with that.:",
+    "user:",
+    "system:"
+  ],
+  "0.0747766854855536": [
+    "System::",
+    "If yes,",
+    "system:"
+  ],
+  "0.07322482063694785": [
+    "System:",
+    "system:",
+    "User:"
+  ],
+  "0.07191381185104753": [
+    "User Intent:",
+    "user:",
+    "system:"
+  ],
+  "0.06905345704003112": [
+    "in the following",
+    "user:",
+    "system:"
+  ],
+  "0.0681092231372191": [
+    "User Intent:",
+    "System:",
+    "system:"
+  ],
+  "0.06770729028511283": [
+    "System:",
+    "system:",
+    "user:"
+  ],
+  "0.06662652599287958": [
+    "System::",
+    "If so,",
+    "user_state:"
+  ],
+  "0.06593272879135835": [
+    "?:",
+    ".:",
+    "system:"
+  ],
+  "0.06528634791047104": [
+    "?:",
+    ".:",
+    "state:"
+  ],
+  "0.06431057534198": [
+    "System: Yes, I can help you with that.:",
+    "system:",
+    "user:"
+  ],
+  "0.06290279482233278": [
+    "?:",
+    ".:",
+    "user:"
+  ],
+  "0.06117961125633662": [
+    "System::",
+    "If yes,",
+    "user_state:"
+  ],
+  "0.059907900001975295": [
+    ".:",
+    "user",
+    "system:"
+  ],
+  "0.05740062232156864": [
+    ".:",
+    "user in",
+    "user:"
+  ],
+  "0.056559223640230444": [
+    ".:",
+    "system: In",
+    "user:"
+  ],
+  "0.056237363515787925": [
+    "user:",
+    "user:",
+    "system:"
+  ],
+  "0.056232543170019404": [
+    "user:",
+    "user::",
+    "User:"
+  ],
+  "0.05211071566034451": [
+    "in the following",
+    "system:",
+    "user:"
+  ],
+  "0.05114181617374208": [
+    ".:",
+    "user",
+    "user:"
+  ],
+  "0.046800035983096906": [
+    "System::",
+    "user:",
+    "system:"
+  ],
+  "0.045121590082360614": [
+    "User Intent::",
+    "System:",
+    "system:"
+  ],
+  "0.044680368788466644": [
+    "User Intent::",
+    "user:",
+    "system:"
+  ],
+  "0.043919416347317275": [
+    "?:",
+    ".:",
+    "user_state:"
+  ],
+  "0.04315772332951606": [
+    ".:",
+    "in",
+    "user:"
+  ],
+  "0.03994151372571079": [
+    "System::",
+    "system:",
+    "user:"
+  ],
+  "0.03736373074624231": [
+    "system",
+    "user_state:",
+    "state:"
+  ],
+  "0.035827460687494546": [
+    "System::",
+    "system:",
+    "user_state:"
+  ],
+  "0.035625216740403566": [
+    "User Intent::",
+    "system:",
+    "user:"
+  ],
+  "0.028774298892945624": [
+    "user:",
+    "system:",
+    "state:"
+  ],
+  "0.028205907689142922": [
+    "user",
+    "Q:",
+    "A:"
+  ],
+  "0.026574123083118264": [
+    ".:",
+    "system:",
+    "user:"
+  ],
+  "0.013423956869913068": [
+    "user",
+    "system:",
+    "context:"
+  ],
+  "0.007986999763142544": [
+    "system",
+    "user_state:",
+    "context:"
+  ],
+  "0.006345529682102886": [
+    "user_state:",
+    "system:",
+    "state:"
+  ]
+}

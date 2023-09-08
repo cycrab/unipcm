@@ -1,0 +1,1203 @@
+{
+  "base": 55.17896386854235,
+  "intent": {
+    "70.9703044188001": [
+      "intent of",
+      " intent :"
+    ],
+    "41.725724711015594": [
+      "a",
+      "with the intent to"
+    ],
+    "39.402652868968865": [
+      "for the",
+      "with intent to"
+    ],
+    "65.64273883550003": [
+      "Intent from",
+      " The intent is to"
+    ],
+    "63.84589988389933": " The intent of the is to",
+    "52.234233611440104": " The intent of this is to",
+    "67.52915722753339": " User intent : user",
+    "56.91752907925657": " User: intent to user",
+    "82.7733357848368": "am intent : user",
+    "64.12489598926763": [
+      "a",
+      " intent :"
+    ],
+    "71.85831482548969": [
+      "a",
+      " search intent :"
+    ],
+    "65.78735636051303": " intent : user",
+    "76.26054897493083": " intent :,",
+    "40.723131279943296": "with the intent of:",
+    "50.21480159662044": [
+      "intent of the",
+      " intent :"
+    ],
+    "65.86984198037342": " intent : search",
+    "70.85532925833252": " intent : ",
+    "64.7981879672436": " intent :",
+    "54.67077822918804": ", intent :",
+    "46.725843521345": "with intent to:",
+    "63.91694422412449": [
+      "for",
+      " User intent :"
+    ],
+    "51.09607561457011": [
+      "for the",
+      " User intent :"
+    ],
+    "49.64793022760066": [
+      "for",
+      "with intent to"
+    ],
+    "43.41618852403009": [
+      "intent of the",
+      " User intent :"
+    ],
+    "80.14534461350905": " search intent :search",
+    "59.606067173115775": " User intent : To user",
+    "37.37060519964618": [
+      "for this",
+      "with intent to"
+    ],
+    "43.17871058104155": "with the intent to user",
+    "53.39404334143743": [
+      "",
+      ", intent :"
+    ],
+    "76.459674628658": " intent : music",
+    "49.021529196739486": "s are the intent of add to playlist",
+    "48.13486987837355": [
+      "intent of the",
+      " user intent :"
+    ],
+    "65.17952491535564": " intent : with",
+    "59.888212554587305": [
+      "intent of",
+      ", intent :"
+    ],
+    "57.1535455671768": [
+      "asks the",
+      " search intent :"
+    ],
+    "50.1986457084319": [
+      "asks the",
+      " intent :"
+    ],
+    "39.93226971918384": [
+      "asks the",
+      "The intent is to"
+    ],
+    "45.15189189898237": [
+      "asks the",
+      "The intent was to"
+    ],
+    "51.91604036893587": [
+      "music",
+      ", intent :"
+    ],
+    "62.900384760724236": [
+      "",
+      " intent :"
+    ],
+    "60.891596510731254": " intent : with the",
+    "63.46892360294559": [
+      "",
+      " intent to"
+    ],
+    "55.874228784342264": " intent : to",
+    "72.04391691810412": [
+      "intent of",
+      " search intent :"
+    ],
+    "50.847290772349766": [
+      "intent of the",
+      " search intent :"
+    ],
+    "80.41797285937672": " intent :search",
+    "47.61937204197956": [
+      "intent of",
+      " intent to use:"
+    ],
+    "39.67038169314055": "with the intent to book a return",
+    "38.38613987134279": "with the intent to book a",
+    "34.759547296951034": [
+      "Ask the",
+      "The intent is to"
+    ],
+    "37.978549209602335": [
+      "Ask a",
+      "The intent is to"
+    ],
+    "46.6896365035262": "with intent to book a",
+    "64.11605617379348": [
+      "check",
+      " intent :"
+    ],
+    "56.61373114667047": [
+      "Intent of",
+      " User intent :"
+    ],
+    "67.79209308544675": " User intent : To to",
+    "72.03641077316482": [
+      "intent of",
+      " user intent :"
+    ],
+    "53.782102924189374": [
+      "intent of",
+      " User: intent to"
+    ],
+    "52.44780510609352": "with intent to user",
+    "63.098901056414896": [
+      "Asking the",
+      "The intent is to"
+    ],
+    "59.438306002108845": [
+      "music",
+      " intent :"
+    ],
+    "56.17678821458919": " intent : /",
+    "47.91448352640104": [
+      "a",
+      "with intent to"
+    ],
+    "49.34261524126434": [
+      "the",
+      "with intent to"
+    ],
+    "32.89902670777602": [
+      "for this",
+      "with the intent to"
+    ],
+    "43.8727558980317": "with the intent to User:",
+    "52.823575243676984": "with intent to User:",
+    "55.66122536708903": " User: intent to with the",
+    "60.64079347620935": [
+      "The intent of the",
+      " User intent :"
+    ],
+    "66.33857555610768": [
+      "The intent of the",
+      " User intent to"
+    ],
+    "40.091478313368945": " The intent of the user is to and",
+    "42.389956744559804": " The intent of the user is to,",
+    "78.97003382035818": " intent :?",
+    "39.58309581824633": " what is your intent for this?",
+    "43.68428656117361": " my intent is to book a direct",
+    "62.61912376822593": " intent :, tn",
+    "55.57613759516437": [
+      "to the",
+      " User intent : To"
+    ],
+    "61.745571747783536": " User: intent to with",
+    "54.40193105062682": "with the intent to ",
+    "40.44352393553585": [
+      "Intent of the",
+      "The intent is to"
+    ],
+    "57.08229776951807": [
+      "Intent of",
+      "The intent is to"
+    ],
+    "57.182017725321565": "The intent of the is to",
+    "60.154376374985944": " intent : with the following",
+    "60.1537086188457": [
+      "intent",
+      " intent user :"
+    ],
+    "45.33815174747222": [
+      "intent of the",
+      " User intent : To"
+    ],
+    "62.9635601866829": [
+      "a",
+      " User intent : To"
+    ],
+    "54.85435259660752": [
+      "of the",
+      " intent :"
+    ],
+    "51.2208215455165": "with the intent :",
+    "40.684261085328274": "with the intent to",
+    "71.60241215155092": [
+      "original",
+      " intent to book a"
+    ],
+    "46.928003888207556": [
+      "a",
+      " User: Send an intent to"
+    ],
+    "33.55552641046138": [
+      "intent of the",
+      " User: Send an intent to"
+    ],
+    "50.989966822991086": "with the intent to alarm",
+    "37.965515404599145": " my intent is to book a roundtrip",
+    "38.72324464500961": " My intent is to book a roundtrip",
+    "48.700973481462": "with intent to book a return",
+    "52.19610805013676": "with intent to book a direct",
+    "57.512567202632994": [
+      "to the",
+      " intent :"
+    ],
+    "72.26575955661875": " search intent :",
+    "83.02670305735586": " search intent :?",
+    "78.86879244214403": " intent :? search",
+    "43.81994271080356": [
+      "alert",
+      "with intent to"
+    ],
+    "76.88552302368099": " user intent : ",
+    "50.385263954744026": "User: Send intent to user",
+    "75.2376326951963": "user intent : To User",
+    "66.62382466208717": "User intent : To user",
+    "52.476835949737726": [
+      "Intent of the",
+      "User intent : To"
+    ],
+    "67.88457796517919": [
+      "Intent of",
+      "User intent : To"
+    ],
+    "32.18903558139102": "The intent of the user is to User",
+    "55.861256923383124": "The intent is to User",
+    "41.15154561246815": [
+      "intent",
+      " User: Change intent user to"
+    ],
+    "48.257259386889196": [
+      "intent of",
+      " User: user intent to"
+    ],
+    "74.70337648768209": [
+      "",
+      "user intent :"
+    ],
+    "65.89385661780024": "user intent : /",
+    "65.69657521737687": " user intent : /",
+    "81.08097967272172": " user intent :,",
+    "65.64249243496533": " User: intent to,",
+    "58.093621440892655": [
+      "Intent of",
+      " User: intent to"
+    ],
+    "54.23365550736112": [
+      "",
+      " intent : to"
+    ],
+    "52.96011764040053": "with intent to and",
+    "62.193811806929716": "with intent to User: Change",
+    "55.68279473988815": "with intent to,",
+    "49.689747739587375": "with intent to /",
+    "42.01340644138111": [
+      "Intent of the",
+      " User intent :"
+    ],
+    "51.09608841812031": [
+      "a",
+      "with the intent :"
+    ],
+    "81.0351462831967": " intent : playlist",
+    "43.50928289349074": [
+      "",
+      "with the intent of"
+    ],
+    "57.99194191576673": [
+      "",
+      "with intent :"
+    ],
+    "55.527685328627534": [
+      "Intent from",
+      "The intent is to"
+    ],
+    "71.34864479343656": " User: intent to ",
+    "69.34966559350731": [
+      "the",
+      " The intent is to"
+    ],
+    "63.940563499748244": [
+      "intent of",
+      " User intent :"
+    ],
+    "74.37674514364433": [
+      "intent",
+      " intent user"
+    ],
+    "57.498418614339954": [
+      "search",
+      " intent :"
+    ],
+    "44.0605573479688": [
+      "Intent of",
+      " User: My intent is to"
+    ],
+    "51.50006206095355": [
+      "ask the",
+      " intent :"
+    ],
+    "62.13909460714131": [
+      "ask",
+      " intent :"
+    ],
+    "68.44222265876509": [
+      "Intent of",
+      " User intent : To"
+    ],
+    "66.94927043587829": [
+      "Reminder",
+      " User intent : To"
+    ],
+    "44.78278619844343": "User intent : I want to user",
+    "62.813352507461445": "with intent :",
+    "39.64684089280973": [
+      "",
+      "with the intent to"
+    ],
+    "38.5613238532611": " intent : add to playlist with the",
+    "44.584595240213176": "with the intent of",
+    "67.30617050158322": [
+      "Intent of",
+      " The intent is to"
+    ],
+    "47.93995070573301": [
+      "Intent of the",
+      " The intent is to"
+    ],
+    "52.879920098007716": [
+      "Intent of the",
+      " User intent : To"
+    ],
+    "62.96686306455173": " The intent of the was to",
+    "58.34953469637963": [
+      "to the",
+      " user intent :"
+    ],
+    "71.95595689798054": [
+      "",
+      " user intent :"
+    ],
+    "61.664149828136345": [
+      "alert",
+      " user intent :"
+    ],
+    "72.68859300254681": " user intent : with",
+    "52.920277826889574": [
+      "To the",
+      "The intent is to"
+    ],
+    "58.42443068465055": "The intent is to Is the",
+    "57.18240761084043": " What is the intent of in",
+    "71.48743164504384": [
+      "a",
+      " intent to"
+    ],
+    "39.04697012037752": [
+      "Ask a",
+      "Your intent is to"
+    ],
+    "36.2286920354173": [
+      "Ask the",
+      "Your intent is to"
+    ],
+    "46.47990830983686": "User: I have the intent to The",
+    "35.35143040195455": "The intent of the user is to My",
+    "74.09128168805631": " search intent : user",
+    "42.27675735401513": [
+      "Ask a",
+      "The intent was to"
+    ],
+    "46.40392394826347": "The intent of the search is to Your",
+    "42.773860482213664": "The intent is to a user",
+    "45.63453064893902": [
+      "by",
+      "with intent to"
+    ],
+    "67.80090389252788": [
+      "to",
+      " intent :"
+    ],
+    "48.669258315231524": " intent :  add to playlist",
+    "77.62044254183803": [
+      "intent",
+      "s user intent :"
+    ],
+    "27.39961608904436": [
+      "Question from a",
+      "My intent was to"
+    ],
+    "26.02246164637823": [
+      "Question from a",
+      "My intent is to"
+    ],
+    "36.23789460626872": "I'm intent on trying to My",
+    "40.14735831132609": "I'm intent on trying to The",
+    "74.22730494392697": " User: intent tos",
+    "71.12092585614923": [
+      "a",
+      " user intent :"
+    ],
+    "69.30188430481621": " search intent : in the",
+    "88.1027547778169": " search intent :s",
+    "65.33948963059512": [
+      "",
+      "'s intent ?"
+    ],
+    "55.01695883054768": [
+      "",
+      " User: intent to"
+    ],
+    "41.46739594136646": " intent : i need to",
+    "41.877744097644566": [
+      "Message to",
+      "User intent : To"
+    ],
+    "69.44872883875203": "User: Send intent to alarm",
+    "68.52960385118125": " User: intent to's",
+    "59.977569650286604": " User: intent to /",
+    "68.75950078505846": [
+      "Asks",
+      "The intent is to"
+    ],
+    "54.98099287878143": [
+      "Asks the",
+      "The intent is to"
+    ],
+    "48.47340057176908": [
+      "intent of",
+      "with intent to"
+    ],
+    "40.22906158075493": "with the intent to:",
+    "70.5049453969": ", intent :?",
+    "38.97173384231": " intent : i want to",
+    "64.87445809711443": [
+      "asks",
+      " intent to book a"
+    ],
+    "74.65540268818822": [
+      "Set reminder",
+      " User: intent to"
+    ],
+    "61.1620214524545": [
+      "ask a",
+      " intent to book"
+    ],
+    "53.65114636318441": [
+      "alarm",
+      "with intent to"
+    ],
+    "46.880894831843264": [
+      "",
+      "with intent to"
+    ],
+    "47.72930793474325": "with intent to based on user",
+    "48.56973866831624": "based on user intent : with",
+    "51.1153677263041": [
+      "of the",
+      " intent to book a"
+    ],
+    "67.27014108489676": [
+      "from",
+      " intent to book a"
+    ],
+    "55.57573797598954": ", intent to book a",
+    "34.0180239151964": [
+      "Question from a",
+      "I intent to"
+    ],
+    "81.28323115405811": [
+      "/",
+      "I intent to"
+    ],
+    "46.379162964088344": "I'm intent to a user",
+    "66.35520845887518": [
+      "from",
+      " intent :"
+    ],
+    "45.145134217939614": "with the intent to and",
+    "69.09824689535175": " User intent : To with",
+    "68.92493459571942": [
+      "intent",
+      " user intent :"
+    ],
+    "58.55946695942549": [
+      "to the",
+      " The intent of this"
+    ],
+    "39.39150871657448": "with the intent to book a:",
+    "38.9705651819925": "with the intent of booking a",
+    "38.43786717690152": "with the intent of booking a:",
+    "43.89639556669456": "with the intent to book at",
+    "60.857492027543586": [
+      "alert",
+      "user intent :"
+    ],
+    "60.15300673778436": [
+      "alert",
+      "user intent to"
+    ],
+    "58.93735912373807": [
+      "a",
+      "with intent :"
+    ],
+    "47.823904440890175": [
+      "asks the",
+      " The intent is to"
+    ],
+    "39.01706020255929": [
+      "Ask a",
+      "With the intent to"
+    ],
+    "60.4519326916361": [
+      "",
+      " intent to book a"
+    ],
+    "49.66101019953151": [
+      "question from",
+      " intent to book a"
+    ],
+    "80.60561744806185": " intent :;",
+    "67.09255378962548": " Search intent : search",
+    "69.84783571609223": " intent : or less",
+    "41.59856807724359": "based on the intent of",
+    "72.27835534531468": [
+      "For example,",
+      " The intent is to"
+    ],
+    "61.706293917663615": [
+      "add to playlist",
+      " intent :"
+    ],
+    "48.644667418421975": " intent : add to playlist",
+    "65.43671836637408": [
+      "intent",
+      " intent :"
+    ],
+    "68.14671537938763": [
+      "a",
+      " The intent is to"
+    ],
+    "65.89509362359327": [
+      "For example,",
+      "The intent is to"
+    ],
+    "43.0619604632514": "The intent is tos for a user",
+    "89.5064137776547": "User intent : Tos for a user",
+    "36.92216774739091": "The intent of the user is to and",
+    "50.54649105372348": "The intent is to User:",
+    "79.50070535007981": "User intent : user"
+  },
+  "intention": {
+    "54.307567996790645": [
+      "Intention of",
+      "User: Set intention to"
+    ],
+    "45.361639475254016": [
+      "Intention set by",
+      "User: Set intention to"
+    ],
+    "58.091699852572184": "The intention of the is to",
+    "46.364782588448165": "The intention of this is to",
+    "43.57785457212819": "User: I have the intention to and",
+    "65.95729488068392": [
+      "",
+      " intention :"
+    ],
+    "60.2854220968255": [
+      "search",
+      " intention :"
+    ],
+    "66.06099268614871": [
+      "new",
+      " intention :"
+    ],
+    "67.34356480408024": [
+      "a",
+      " intention :"
+    ],
+    "71.52811123100388": " intention : search",
+    "35.7317807988993": "My intention is to I have no",
+    "33.669150314046334": ", my intention is to book a",
+    "70.97352978216097": " intention : user",
+    "68.68898415170906": " intention :",
+    "49.09850092252656": [
+      "Intention of",
+      "User: My intention is to"
+    ],
+    "48.70519810669659": "with the intention to User: No",
+    "70.63897799551798": " intention : ",
+    "60.628977177758365": [
+      "The",
+      "It is my intention to"
+    ],
+    "49.2027431042905": [
+      "for the",
+      " My intention is to"
+    ],
+    "78.32169405697888": " The intention is to and",
+    "34.66328927226168": [
+      "the",
+      "am if it is your intention to"
+    ],
+    "32.342740263920504": [
+      "the",
+      "am if you have no intention to"
+    ],
+    "64.52458882616872": "am with the intention to alarm",
+    "47.98140360466257": "am with the intention to a",
+    "74.59233421573926": [
+      "",
+      " search intention :"
+    ],
+    "69.24522463188946": " intention : in",
+    "84.24151127248363": " search intention :,",
+    "34.60964467345113": [
+      "for this",
+      "with the intention to"
+    ],
+    "78.31917424989939": [
+      "The",
+      "What is your intention to"
+    ],
+    "80.14597170285064": [
+      "The",
+      "My intention is to"
+    ],
+    "61.21335408092125": [
+      "book",
+      ", intention :"
+    ],
+    "40.210931881708376": " intention : add to playlist with the",
+    "47.11487983648796": [
+      " Question from",
+      " My intention is to"
+    ],
+    "35.32579870701673": [
+      "Ask the",
+      "The intention is to"
+    ],
+    "70.27488967881698": [
+      "to",
+      " intention :"
+    ],
+    "68.68755466440619": [
+      "from",
+      " intention :"
+    ],
+    "59.18311301089109": [
+      "to the",
+      " intention :"
+    ],
+    "34.58049792119009": "with the intention of making some",
+    "83.98349505353242": [
+      "The",
+      "What is the intention to"
+    ],
+    "45.495502940684": "It's my intention to My",
+    "35.14429406997252": ", my intention is to book this",
+    "34.00450417775909": "with the intention of taking a",
+    "48.726319620140146": [
+      "a",
+      "My intention is to"
+    ],
+    "39.072880299835354": "It is my intention to I",
+    "51.71966878955798": "My intention is to I",
+    "48.81835619990255": "What is the intention to I",
+    "62.6615183894763": [
+      "Intention of",
+      "User: My intention to"
+    ],
+    "41.62755525305722": "User: I have the intention to as",
+    "40.51607685734436": "User: I have the intention to for",
+    "32.79497558171242": "with the intention of playing it on",
+    "38.831821259113624": "with the intention of using",
+    "26.10371196237746": [
+      "Question from a",
+      "My intention is to"
+    ],
+    "36.88948716482344": [
+      "Question from",
+      "My intention is to"
+    ],
+    "27.270291051289377": [
+      "Question from a",
+      "My intention was to"
+    ],
+    "27.60549179991448": "It is my intention to I have no",
+    "47.37792337102784": "My intention is to Is it my",
+    "34.91752731836555": [
+      "from another",
+      " my intention is to use"
+    ],
+    "48.728341346394046": [
+      "asks the",
+      " The intention is to"
+    ],
+    "65.39465789516278": " The intention is to /",
+    "50.60197389295259": [
+      "",
+      "with intention to"
+    ],
+    "64.91778543650612": [
+      "rating",
+      " intention :"
+    ],
+    "33.07966414905918": [
+      "Message from",
+      "I have the intention to"
+    ],
+    "39.694213803137245": "My intention is to I have the",
+    "41.08887330911839": [
+      "Ask a",
+      " My intention is to"
+    ],
+    "66.88590026047645": " My intention is to and",
+    "70.3126624159683": [
+      "a",
+      "the intention :"
+    ],
+    "71.42938830041915": [
+      "book",
+      "the intention :"
+    ],
+    "57.21759743133642": [
+      "of the",
+      " intention :"
+    ],
+    "75.99791574511893": " intention :,",
+    "103.11091166669291": [
+      "the",
+      " The intention to"
+    ],
+    "46.90174787386281": "with the intention to User:",
+    "28.8201020334491": [
+      "Question from a",
+      " My intention is to"
+    ],
+    "40.87027993605651": [
+      " Ask a",
+      " My intention is to"
+    ],
+    "29.812529463390806": [
+      "Question from a",
+      " My intention was to"
+    ],
+    "40.34137507468733": [
+      "Question from",
+      " My intention is to"
+    ],
+    "51.861250676142575": " It's my intention to My",
+    "46.32306662798717": " It is my intention to My",
+    "41.87946209366195": " It's my intention to with the",
+    "45.409764005737166": " It's my intention to or is the",
+    "50.33535628375908": " It was my intention to My",
+    "43.93199894277207": [
+      "a",
+      "with the intention to"
+    ],
+    "56.06109835179858": [
+      "a",
+      " User: intention to"
+    ],
+    "55.546205494252035": " User: intention to with the",
+    "62.678784545293205": " User: intention to with",
+    "45.177553432693514": [
+      "",
+      "with the intention of"
+    ],
+    "42.140058970173044": [
+      "from the",
+      " my intention is to"
+    ],
+    "40.18362894691086": [
+      "from another",
+      " my intention is to"
+    ],
+    "49.441899819369006": [
+      "from",
+      " my intention is to"
+    ],
+    "42.421108495057574": " my intention is to with the",
+    "42.442314423488035": " my intention is to, with the",
+    "47.72820232673054": [
+      "Intention of",
+      "User: I have intention to"
+    ],
+    "42.00333006705479": [
+      "Intention of",
+      "User: I have the intention to"
+    ],
+    "50.02477361698037": [
+      "Intention of the",
+      "User: My intention to"
+    ],
+    "44.771385866949906": "User: I have the intention tos",
+    "56.908372408975985": " my intention is to book a!",
+    "34.7961354683082": [
+      "Ask a",
+      "My intention is to"
+    ],
+    "38.4090420249158": [
+      "Ask a",
+      "The intention is to"
+    ],
+    "57.0642775644361": "User: My intention is to The",
+    "46.14572891791846": [
+      "add to playlist",
+      "with the intention of"
+    ],
+    "61.95937791928984": [
+      "add to playlist",
+      "with intention :"
+    ],
+    "63.78797227397233": [
+      "add to playlist",
+      " intention :"
+    ],
+    "23.217247698026178": "with the intention of adding it to your",
+    "23.80149031684521": "with the intention of adding it to my",
+    "49.390982951285565": [
+      "",
+      "What is the intention to"
+    ],
+    "53.42618354214398": [
+      "asks the",
+      " The intention was to"
+    ],
+    "53.10894386923065": " The intention is to the best",
+    "50.49662559557083": " My intention is to the best",
+    "54.9093266755192": " User: No intention to is",
+    "45.486033300331336": " User: No intention to user",
+    "57.569621150533905": [
+      "alarm",
+      "with intention to"
+    ],
+    "68.84774003742493": [
+      "alarm",
+      ", intention to"
+    ],
+    "53.592322503075685": [
+      "ask the",
+      " intention :"
+    ],
+    "52.27645337342419": [
+      "for",
+      "with intention to"
+    ],
+    "47.05476057315022": "with the intention to user",
+    "46.471809642501654": [
+      "intention of the",
+      " User: intention to"
+    ],
+    "50.770179933992345": [
+      "a",
+      "with intention to"
+    ],
+    "51.64999255607988": "with the intention to,",
+    "61.64522564804826": " User: intention to user",
+    "47.031756480392126": [
+      "question from",
+      " intention to book a"
+    ],
+    "32.55896058981515": [
+      "Ask the",
+      "My intention is to"
+    ],
+    "28.738912168636915": [
+      "Question from the",
+      "My intention is to"
+    ],
+    "38.41426452693182": [
+      "Question from",
+      "My intention was to"
+    ],
+    "40.63927130874822": "It is my intention to My",
+    "32.75160984270124": [
+      "Question from",
+      " My intention is to take a"
+    ],
+    "41.12347774863386": " my intention is to book a",
+    "70.45441891458475": [
+      "the",
+      " intention :"
+    ],
+    "59.97934020975021": [
+      "intention of",
+      " User: intention to"
+    ],
+    "66.64171826709908": [
+      "Intention of",
+      " User: intention to"
+    ],
+    "37.243694374255995": [
+      "ask a",
+      " my intention is to use"
+    ],
+    "62.30754648256914": [
+      "Intention of the",
+      "User intention : To"
+    ],
+    "40.966376057373765": "User: I have the intention to My",
+    "58.498172637288036": [
+      "intention of the",
+      " intention :"
+    ],
+    "65.59667660830758": [
+      "",
+      " intention of"
+    ],
+    "78.9656373328012": " intention :?",
+    "46.27414650296284": "with the intention of",
+    "77.50512716434912": " search intention :",
+    "57.14222954253309": "with intention to User:",
+    "66.93239399443212": " User: intention to,",
+    "57.1785542242971": "with intention to user",
+    "41.31462333370338": [
+      " Ask the",
+      " The intention is to"
+    ],
+    "58.42610787413621": " My intention is to I",
+    "34.56160329367847": [
+      "Ask a",
+      "What is your intention to"
+    ],
+    "54.02343271641144": [
+      "the intention of",
+      " User: intention to"
+    ],
+    "55.55374030184882": [
+      "intention of",
+      " User: user intention to"
+    ],
+    "42.95968947305769": [
+      "intention of the",
+      " User: user intention to"
+    ],
+    "85.13768295204635": [
+      "playlist",
+      "player intention :"
+    ],
+    "101.8433788843495": "list intention : playlist",
+    "27.226043904087444": [
+      "Question from a",
+      "The intention is to"
+    ],
+    "64.86127496343335": "My intention is to The",
+    "61.96415795784082": "The intention is to My",
+    "50.02854565232996": "My intention is to Is my",
+    "49.27790037852666": " User: No intention to /",
+    "67.92086510742405": " User: No intention to? New",
+    "62.913503744110656": [
+      "music",
+      " intention :"
+    ],
+    "56.096215884098235": "'s intention : /",
+    "73.19595024381941": "'s intention : ",
+    "49.96918757917295": [
+      "for the",
+      " User: intention to"
+    ],
+    "66.31505438225983": [
+      "setting",
+      " User: intention to"
+    ],
+    "41.139543541515515": [
+      "a",
+      "It is my intention to"
+    ],
+    "40.67478185369573": "My intention is to It's my",
+    "47.51026455316971": [
+      "asked the",
+      " The intention was to"
+    ],
+    "68.86145480434327": [
+      "a",
+      " The intention is to"
+    ],
+    "63.31529029068976": [
+      "asks",
+      " The intention is to"
+    ],
+    "49.21552436559748": " The intention is to a good",
+    "57.00420433045164": [
+      "music",
+      ", intention :"
+    ],
+    "81.57080767859946": [
+      "intention of",
+      " intention :"
+    ],
+    "76.4396875267985": ", intention : ",
+    "79.50806245531778": "with intention : ",
+    "79.23836508533422": " intention :s",
+    "53.352983720323714": " User: No intention to alarm",
+    "52.7729757228747": "User: My intention is to Your",
+    "51.330199823864916": [
+      "Intention of",
+      " User: My intention is to"
+    ],
+    "37.02101449913508": [
+      "intention of",
+      " User: My intention is to"
+    ],
+    "38.66796415189264": " User: I have the intention to for",
+    "28.708137999261517": [
+      "Question from a",
+      "The intention was to"
+    ],
+    "42.13694784197711": "Our intention is to help you The",
+    "38.162927619987144": "Our intention is to help you Your",
+    "43.069136133143886": [
+      "alarm",
+      "if user has intention to"
+    ],
+    "56.67473707502374": [
+      "",
+      " intention to book a"
+    ],
+    "67.1841447235989": [
+      "alarm",
+      "if intention to"
+    ],
+    "38.80475176914535": [
+      "the",
+      "if user has intention to"
+    ],
+    "53.16033584995393": "if user has intention to alarm",
+    "57.80948858428956": [
+      "the",
+      " What is your intention to"
+    ],
+    "40.187296300612694": [
+      "ask the",
+      " What is your intention to"
+    ],
+    "26.991496964317026": "with the intention of listening to it on",
+    "31.817978376186492": "with the intention of sharing it on",
+    "52.793982926645405": [
+      "for this",
+      " The intention is to"
+    ],
+    "46.33913689734391": [
+      "intention of the",
+      " User: The intention to"
+    ],
+    "44.38723833299941": " It is my intention to I",
+    "40.86062411181831": " It is my intention to out I",
+    "64.7133910442182": " The intention of the is to",
+    "52.231472489694696": " The intention of this is to",
+    "42.78696374761569": [
+      "",
+      "with the intention to"
+    ],
+    "48.9954576422853": [
+      "",
+      "with intention to eat at"
+    ],
+    "43.51416029692507": "with the intention to:",
+    "50.7379887217678": "with intention to:",
+    "43.879039443607645": "with the intention of eating at by",
+    "26.58259525635846": [
+      "",
+      "with the intention of listening to it on"
+    ],
+    "27.113473320027385": "with the intention of listening to it on:",
+    "83.36529452381649": [
+      "",
+      " user intention :"
+    ],
+    "38.279722747649124": [
+      "Ask the",
+      " My intention is to"
+    ],
+    "44.53232522223435": [
+      "Ask a",
+      " The intention is to"
+    ],
+    "60.29771300831929": [
+      "",
+      ", intention :"
+    ],
+    "40.995363825385326": [
+      "comment from",
+      " my intention is to"
+    ],
+    "39.86604861033392": "My intention is to I have an",
+    "37.33978238363416": [
+      "Ask a",
+      "My intention was to"
+    ],
+    "63.820181763400676": [
+      "alarm",
+      " User: intention to"
+    ],
+    "57.94250458723326": [
+      "ask a",
+      " the intention of"
+    ],
+    "27.563017530348784": [
+      "Ask the",
+      "It is my intention to"
+    ],
+    "64.1690921753864": [
+      "new",
+      " My intention is to"
+    ],
+    "76.12063640065772": [
+      "New",
+      " My intention is to"
+    ],
+    "48.832699677978596": " User: My intention is to and",
+    "51.43109869674125": [
+      "d",
+      "with intention to"
+    ],
+    "44.81354033280067": [
+      "d",
+      "with the intention to"
+    ],
+    "56.233304048037375": "with intention to if",
+    "58.12414328601754": "with intention to,",
+    "41.35018408103328": "I have no intention to My",
+    "43.78034775032067": [
+      "Intention of",
+      " User: I have the intention to"
+    ],
+    "66.14512718855228": " intention : with",
+    "67.91303117713659": " intention : a",
+    "47.7121643564534": "with the intention to and",
+    "60.01458800510884": [
+      "a",
+      "The intention is to"
+    ],
+    "39.22291065170189": "with the intention of booking a",
+    "64.2270797114279": [
+      "From the",
+      " The intention is to"
+    ],
+    "63.721487674003306": [
+      "Intention of",
+      "User: Set intention and"
+    ],
+    "42.47821220965729": "User: I have the intention to or",
+    "69.48940302688557": [
+      "",
+      "year intention of the"
+    ],
+    "43.904585445218025": "with the intention to",
+    "34.16522363266921": [
+      "Playmusic",
+      "with the intention of playing it on"
+    ],
+    "39.49911719859099": "with the intention of playing on",
+    "51.80043774403805": [
+      "Intention of",
+      "User: My intention was to"
+    ],
+    "40.060411730247466": "based on the intention of:"
+  }
+}

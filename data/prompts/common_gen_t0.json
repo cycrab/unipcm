@@ -1,0 +1,14 @@
+{
+  "Example prompt": 0.13788917337399395,
+  "Given concepts - type 2": 0.08147851208006596,
+  "Given concepts type 1": 0.24941223140255273,
+  "Put together": 0.15850417011141066,
+  "choice in concept centric sentence generation": 0.1902430950735323,
+  "random task template prompt": 0.1137767947696875,
+  "sentence to concepts": 0.007662413831613112,
+  "topic to sentence": 0.24112269448240478,
+  "topics from the sentence": 0.01060661288490598,
+  "task description": 0.1415096086511546,
+  "no prompt": 0.054858288199068156,
+  "task description ahead": 0.11944598454206626
+}

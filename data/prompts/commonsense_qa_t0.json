@@ -1,0 +1,10 @@
+{
+  "answer_given_question_without_options": 0.0,
+  "answer_to_question": 0.01233731477984845,
+  "most_suitable_answer": 0.015625,
+  "question_answering": 0.004392742673992673,
+  "question_to_answer_index": 0.2055443688256195,
+  "task description": 0.0,
+  "no prompt": 0.00557571505063886,
+  "task description ahead": 0.000713045634920635
+}

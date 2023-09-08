@@ -1,0 +1,5762 @@
+{
+  "hwu-0": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "remind me about my alarms today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what alarms are set",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-10": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 2
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_set": {}
+          }
+        },
+        "role": "user",
+        "text": "set alarm for tomorrow morning at six am",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-100": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 20
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_explain": {}
+          }
+        },
+        "role": "user",
+        "text": "s1, again explain to me please.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-101": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 20
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_explain": {}
+          }
+        },
+        "role": "user",
+        "text": "i don't quite catch that.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-102": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 20
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_explain": {}
+          }
+        },
+        "role": "user",
+        "text": "i didn't catch that.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-103": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 20
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_explain": {}
+          }
+        },
+        "role": "user",
+        "text": "s2, i didn't catch up with you.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-104": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 20
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_explain": {}
+          }
+        },
+        "role": "user",
+        "text": "i am not so clear about that.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-105": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 21
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_joke": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me a joke please",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-106": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 21
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_joke": {}
+          }
+        },
+        "role": "user",
+        "text": "are you aware this joke",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-107": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 21
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_joke": {}
+          }
+        },
+        "role": "user",
+        "text": "i need a funny joke to tell sam",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-108": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 21
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_joke": {}
+          }
+        },
+        "role": "user",
+        "text": "i need a naughty joke not to naughty though",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-109": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 21
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_joke": {}
+          }
+        },
+        "role": "user",
+        "text": "what is the funniest joke ever",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-11": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 2
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_set": {}
+          }
+        },
+        "role": "user",
+        "text": "set an alarm for two hours from now",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-110": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 22
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_negate": {}
+          }
+        },
+        "role": "user",
+        "text": "i think you didn't understand me.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-111": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 22
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_negate": {}
+          }
+        },
+        "role": "user",
+        "text": "sorry but it is incorrect.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-112": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 22
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_negate": {}
+          }
+        },
+        "role": "user",
+        "text": "uhh no, i did not say this.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-113": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 22
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_negate": {}
+          }
+        },
+        "role": "user",
+        "text": "it's not the correct command.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-114": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 22
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_negate": {}
+          }
+        },
+        "role": "user",
+        "text": "it must be mistake.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-115": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 23
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_praise": {}
+          }
+        },
+        "role": "user",
+        "text": "that's useful, appreciated, olly.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-116": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 23
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_praise": {}
+          }
+        },
+        "role": "user",
+        "text": "that's amazing job, musch appreciated.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-117": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 23
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_praise": {}
+          }
+        },
+        "role": "user",
+        "text": "you helped a lot, i appreciate it, olly.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-118": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 23
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_praise": {}
+          }
+        },
+        "role": "user",
+        "text": "nice job, you have done well, olly.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-119": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 23
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_praise": {}
+          }
+        },
+        "role": "user",
+        "text": "you are so helpful, thank you so much.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-12": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 2
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_set": {}
+          }
+        },
+        "role": "user",
+        "text": "please set alarm for all days",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-120": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 24
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_quirky": {}
+          }
+        },
+        "role": "user",
+        "text": "i really enjoyed sunny day today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-121": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 24
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_quirky": {}
+          }
+        },
+        "role": "user",
+        "text": "please explain space",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-122": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 24
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_quirky": {}
+          }
+        },
+        "role": "user",
+        "text": "about reality in world",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-123": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 24
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_quirky": {}
+          }
+        },
+        "role": "user",
+        "text": "what is your prescription for long and healthy life",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-124": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 24
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_quirky": {}
+          }
+        },
+        "role": "user",
+        "text": "how does production and population affects us",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-125": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 25
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_repeat": {}
+          }
+        },
+        "role": "user",
+        "text": "please would you speak one more again.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-126": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 25
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_repeat": {}
+          }
+        },
+        "role": "user",
+        "text": "can you say one more again.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-127": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 25
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_repeat": {}
+          }
+        },
+        "role": "user",
+        "text": "can you speak it again please.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-128": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 25
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_repeat": {}
+          }
+        },
+        "role": "user",
+        "text": "one more again please.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-129": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 25
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_repeat": {}
+          }
+        },
+        "role": "user",
+        "text": "let us try your last things once more please.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-13": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 2
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_set": {}
+          }
+        },
+        "role": "user",
+        "text": "set an alarm at six in the morning",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-130": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 26
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_cleaning": {}
+          }
+        },
+        "role": "user",
+        "text": "start house cleaning",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-131": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 26
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_cleaning": {}
+          }
+        },
+        "role": "user",
+        "text": "robot vacuum the hallway now",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-132": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 26
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_cleaning": {}
+          }
+        },
+        "role": "user",
+        "text": "can you please put the vacuum on",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-133": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 26
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_cleaning": {}
+          }
+        },
+        "role": "user",
+        "text": "switch on the roomba",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-134": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 26
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_cleaning": {}
+          }
+        },
+        "role": "user",
+        "text": "switch on robot vacuum cleaner",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-135": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 27
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_coffee": {}
+          }
+        },
+        "role": "user",
+        "text": "can you start the coffee machine for me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-136": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 27
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_coffee": {}
+          }
+        },
+        "role": "user",
+        "text": "i'd like an espresso",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-137": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 27
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_coffee": {}
+          }
+        },
+        "role": "user",
+        "text": "make my coffee",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-138": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 27
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_coffee": {}
+          }
+        },
+        "role": "user",
+        "text": "start the coffee machine",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-139": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 27
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_coffee": {}
+          }
+        },
+        "role": "user",
+        "text": "get the coffee started please",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-14": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 2
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_set": {}
+          }
+        },
+        "role": "user",
+        "text": "create an alarm for six am",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-140": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 28
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightchange": {}
+          }
+        },
+        "role": "user",
+        "text": "light color change",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-141": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 28
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightchange": {}
+          }
+        },
+        "role": "user",
+        "text": "change background",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-142": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 28
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightchange": {}
+          }
+        },
+        "role": "user",
+        "text": "change the light to blue",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-143": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 28
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightchange": {}
+          }
+        },
+        "role": "user",
+        "text": "rotate the light colors",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-144": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 28
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightchange": {}
+          }
+        },
+        "role": "user",
+        "text": "pink is all we need",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-145": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 29
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightdim": {}
+          }
+        },
+        "role": "user",
+        "text": "lower the light level in my house",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-146": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 29
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightdim": {}
+          }
+        },
+        "role": "user",
+        "text": "reduce the brightness",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-147": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 29
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightdim": {}
+          }
+        },
+        "role": "user",
+        "text": "decrease brightness",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-148": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 29
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightdim": {}
+          }
+        },
+        "role": "user",
+        "text": "bring the lights down a bit",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-149": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 29
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightdim": {}
+          }
+        },
+        "role": "user",
+        "text": "dim the lights in the kitchen",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-15": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 3
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_down": {}
+          }
+        },
+        "role": "user",
+        "text": "turn the volume down",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-150": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 30
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightoff": {}
+          }
+        },
+        "role": "user",
+        "text": "bed room two lights off",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-151": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 30
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightoff": {}
+          }
+        },
+        "role": "user",
+        "text": "turn room lights off now",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-152": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 30
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightoff": {}
+          }
+        },
+        "role": "user",
+        "text": "switch off the light on the left",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-153": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 30
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightoff": {}
+          }
+        },
+        "role": "user",
+        "text": "please set the lights off in the living room",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-154": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 30
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightoff": {}
+          }
+        },
+        "role": "user",
+        "text": "turn office lights off",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-155": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 31
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lighton": {}
+          }
+        },
+        "role": "user",
+        "text": "it's too dark i can't even see my hands",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-156": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 31
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lighton": {}
+          }
+        },
+        "role": "user",
+        "text": "and the light began",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-157": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 31
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lighton": {}
+          }
+        },
+        "role": "user",
+        "text": "turn on the lights that are outdoors",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-158": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 31
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lighton": {}
+          }
+        },
+        "role": "user",
+        "text": "turn on the lamp",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-159": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 31
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lighton": {}
+          }
+        },
+        "role": "user",
+        "text": "It's too dark in here",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-16": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 3
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_down": {}
+          }
+        },
+        "role": "user",
+        "text": "lower your volume please",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-160": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 32
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightup": {}
+          }
+        },
+        "role": "user",
+        "text": "please increase the light",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-161": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 32
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightup": {}
+          }
+        },
+        "role": "user",
+        "text": "can you adjust the lighting for me to be brighter",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-162": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 32
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightup": {}
+          }
+        },
+        "role": "user",
+        "text": "increase brightness in the room",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-163": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 32
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightup": {}
+          }
+        },
+        "role": "user",
+        "text": "please turn the lights up",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-164": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 32
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_hue_lightup": {}
+          }
+        },
+        "role": "user",
+        "text": "increase light",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-165": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 33
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_wemo_off": {}
+          }
+        },
+        "role": "user",
+        "text": "turn off my wemo socket",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-166": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 33
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_wemo_off": {}
+          }
+        },
+        "role": "user",
+        "text": "mute your android phone when you arrive at work",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-167": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 33
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_wemo_off": {}
+          }
+        },
+        "role": "user",
+        "text": "switch wemo plug socket off",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-168": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 33
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_wemo_off": {}
+          }
+        },
+        "role": "user",
+        "text": "turn off the socket",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-169": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 33
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_wemo_off": {}
+          }
+        },
+        "role": "user",
+        "text": "can you please turn off my wemo plug",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-17": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 3
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_down": {}
+          }
+        },
+        "role": "user",
+        "text": "lower volume to half",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-170": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 34
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_wemo_on": {}
+          }
+        },
+        "role": "user",
+        "text": "turn on switch of wemo socket",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-171": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 34
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_wemo_on": {}
+          }
+        },
+        "role": "user",
+        "text": "i'd like you to turn turn on the tv",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-172": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 34
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_wemo_on": {}
+          }
+        },
+        "role": "user",
+        "text": "turn on kitchen light",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-173": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 34
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_wemo_on": {}
+          }
+        },
+        "role": "user",
+        "text": "turn on my wemo socket",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-174": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 34
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "iot_wemo_on": {}
+          }
+        },
+        "role": "user",
+        "text": "turn on the light socket",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-175": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 35
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_createoradd": {}
+          }
+        },
+        "role": "user",
+        "text": "i want to know could an extra item be added to my grocery list",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-176": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 35
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_createoradd": {}
+          }
+        },
+        "role": "user",
+        "text": "please find all name start with alphabetic of g and create a list",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-177": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 35
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_createoradd": {}
+          }
+        },
+        "role": "user",
+        "text": "is there room on my grocery list for an extra item",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-178": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 35
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_createoradd": {}
+          }
+        },
+        "role": "user",
+        "text": "bring up a new shopping list",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-179": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 35
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_createoradd": {}
+          }
+        },
+        "role": "user",
+        "text": "please add list of things to buy for party",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-18": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 3
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_down": {}
+          }
+        },
+        "role": "user",
+        "text": "please reduce the sound",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-180": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 36
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_query": {}
+          }
+        },
+        "role": "user",
+        "text": "open note pad",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-181": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 36
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_query": {}
+          }
+        },
+        "role": "user",
+        "text": "whats on your list right now",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-182": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 36
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what's next on my list",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-183": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 36
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_query": {}
+          }
+        },
+        "role": "user",
+        "text": "i finished my to do list",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-184": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 36
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_query": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me the name of my lists",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-185": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 37
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "delete happy dance playlist",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-186": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 37
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "i want you to delete my shopping list from last month",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-187": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 37
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "remove cart list",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-188": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 37
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "delete last item listed",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-189": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 37
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "lists_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "take milk off my grocery list",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-19": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 3
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_down": {}
+          }
+        },
+        "role": "user",
+        "text": "please decrease the volume of music player",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-190": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 38
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_likeness": {}
+          }
+        },
+        "role": "user",
+        "text": "i like songs from",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-191": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 38
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_likeness": {}
+          }
+        },
+        "role": "user",
+        "text": "i like soft rock music",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-192": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 38
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_likeness": {}
+          }
+        },
+        "role": "user",
+        "text": "can you save this what a nice song for me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-193": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 38
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_likeness": {}
+          }
+        },
+        "role": "user",
+        "text": "i am forever hip hop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-194": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 38
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_likeness": {}
+          }
+        },
+        "role": "user",
+        "text": "save that song and my opinion",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-195": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 39
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_query": {}
+          }
+        },
+        "role": "user",
+        "text": "check the current playing music title",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-196": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 39
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what music is it",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-197": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 39
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_query": {}
+          }
+        },
+        "role": "user",
+        "text": "show me the picture of the singer",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-198": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 39
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what song do i listen to the most",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-199": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 39
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_query": {}
+          }
+        },
+        "role": "user",
+        "text": "is it possible for you to provide the likes of my music",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-2": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what's the alarm situation for tomorrow",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-20": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 4
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_mute": {}
+          }
+        },
+        "role": "user",
+        "text": "touch the mute button",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-200": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 40
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_settings": {}
+          }
+        },
+        "role": "user",
+        "text": "please add this song to work out playlist",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-201": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 40
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_settings": {}
+          }
+        },
+        "role": "user",
+        "text": "turn shuffle on music player on",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-202": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 40
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_settings": {}
+          }
+        },
+        "role": "user",
+        "text": "olly shuffle playlist",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-203": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 40
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_settings": {}
+          }
+        },
+        "role": "user",
+        "text": "play only particular singer songs",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-204": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 40
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "music_settings": {}
+          }
+        },
+        "role": "user",
+        "text": "Please turn off shuffle setting",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-205": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 41
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "news_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what is the latest news on sprint",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-206": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 41
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "news_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what went on in the world today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-207": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 41
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "news_query": {}
+          }
+        },
+        "role": "user",
+        "text": "how is the news in ireland",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-208": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 41
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "news_query": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me about the latest sports news",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-209": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 41
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "news_query": {}
+          }
+        },
+        "role": "user",
+        "text": "look up news articles about trump",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-21": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 4
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_mute": {}
+          }
+        },
+        "role": "user",
+        "text": "be quiet",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-210": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 42
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_audiobook": {}
+          }
+        },
+        "role": "user",
+        "text": "play my bookmarked audiobook",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-211": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 42
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_audiobook": {}
+          }
+        },
+        "role": "user",
+        "text": "read some more of the daisy goodwin book for me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-212": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 42
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_audiobook": {}
+          }
+        },
+        "role": "user",
+        "text": "continue audiobook playback",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-213": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 42
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_audiobook": {}
+          }
+        },
+        "role": "user",
+        "text": "start dune from where i left off",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-214": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 42
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_audiobook": {}
+          }
+        },
+        "role": "user",
+        "text": "please play recently paused audio",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-215": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 43
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_game": {}
+          }
+        },
+        "role": "user",
+        "text": "play scrabble with me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-216": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 43
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_game": {}
+          }
+        },
+        "role": "user",
+        "text": "open chess game",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-217": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 43
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_game": {}
+          }
+        },
+        "role": "user",
+        "text": "lets play battleship",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-218": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 43
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_game": {}
+          }
+        },
+        "role": "user",
+        "text": "play me a game of tic tac toe",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-219": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 43
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_game": {}
+          }
+        },
+        "role": "user",
+        "text": "start spider",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-22": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 4
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_mute": {}
+          }
+        },
+        "role": "user",
+        "text": "goodnight",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-220": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 44
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_music": {}
+          }
+        },
+        "role": "user",
+        "text": "please play for me elvis presley song again",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-221": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 44
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_music": {}
+          }
+        },
+        "role": "user",
+        "text": "i want to listen jazz",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-222": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 44
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_music": {}
+          }
+        },
+        "role": "user",
+        "text": "please play some jazz music",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-223": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 44
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_music": {}
+          }
+        },
+        "role": "user",
+        "text": "please play songs i've purchased and favorited",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-224": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 44
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_music": {}
+          }
+        },
+        "role": "user",
+        "text": "play jingle bells",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-225": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 45
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_podcasts": {}
+          }
+        },
+        "role": "user",
+        "text": "play the next podcast episode",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-226": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 45
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_podcasts": {}
+          }
+        },
+        "role": "user",
+        "text": "can i see the previous episode",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-227": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 45
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_podcasts": {}
+          }
+        },
+        "role": "user",
+        "text": "play this podcast",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-228": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 45
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_podcasts": {}
+          }
+        },
+        "role": "user",
+        "text": "play current episode",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-229": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 45
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_podcasts": {}
+          }
+        },
+        "role": "user",
+        "text": "play a podcast about latest yoga videos",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-23": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 4
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_mute": {}
+          }
+        },
+        "role": "user",
+        "text": "silence please",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-230": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 46
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_radio": {}
+          }
+        },
+        "role": "user",
+        "text": "put the news on bbc",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-231": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 46
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_radio": {}
+          }
+        },
+        "role": "user",
+        "text": "play miley cyrus radio",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-232": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 46
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_radio": {}
+          }
+        },
+        "role": "user",
+        "text": "i want to listen to the radio",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-233": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 46
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_radio": {}
+          }
+        },
+        "role": "user",
+        "text": "play a news radio station",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-234": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 46
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "play_radio": {}
+          }
+        },
+        "role": "user",
+        "text": "please find the radio station currently playing howard stern",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-235": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 47
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_currency": {}
+          }
+        },
+        "role": "user",
+        "text": "dollar rate at present",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-236": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 47
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_currency": {}
+          }
+        },
+        "role": "user",
+        "text": "what's the dollar's exchange rate with the euro",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-237": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 47
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_currency": {}
+          }
+        },
+        "role": "user",
+        "text": "how many pesos can i get for a dollar right now",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-238": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 47
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_currency": {}
+          }
+        },
+        "role": "user",
+        "text": "what is the us dollar and euro exchange rate",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-239": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 47
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_currency": {}
+          }
+        },
+        "role": "user",
+        "text": "what would be the exchange rate of currency in japan",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-24": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 4
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_mute": {}
+          }
+        },
+        "role": "user",
+        "text": "no speaking please",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-240": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 48
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_definition": {}
+          }
+        },
+        "role": "user",
+        "text": "what does obsessed mean",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-241": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 48
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_definition": {}
+          }
+        },
+        "role": "user",
+        "text": "describe what a poltergeist is",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-242": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 48
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_definition": {}
+          }
+        },
+        "role": "user",
+        "text": "what is a chair",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-243": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 48
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_definition": {}
+          }
+        },
+        "role": "user",
+        "text": "what does apple of my eye mean",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-244": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 48
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_definition": {}
+          }
+        },
+        "role": "user",
+        "text": "how does a cheetah look",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-245": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 49
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_factoid": {}
+          }
+        },
+        "role": "user",
+        "text": "where is the statue of liberty located",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-246": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 49
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_factoid": {}
+          }
+        },
+        "role": "user",
+        "text": "what is elvis favorite ride",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-247": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 49
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_factoid": {}
+          }
+        },
+        "role": "user",
+        "text": "actually what is the life style of sahara desert",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-248": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 49
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_factoid": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me about donald trump",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-249": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 49
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_factoid": {}
+          }
+        },
+        "role": "user",
+        "text": "look up the number of people living in miami florida",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-25": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 5
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_up": {}
+          }
+        },
+        "role": "user",
+        "text": "turn the volume up",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-250": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 50
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_maths": {}
+          }
+        },
+        "role": "user",
+        "text": "what's thirteen plus fourteen",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-251": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 50
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_maths": {}
+          }
+        },
+        "role": "user",
+        "text": "sum of five and two",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-252": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 50
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_maths": {}
+          }
+        },
+        "role": "user",
+        "text": "what do you get when you multiply sixteen by nine",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-253": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 50
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_maths": {}
+          }
+        },
+        "role": "user",
+        "text": "how do you solve three two",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-254": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 50
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_maths": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me what one plus one is",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-255": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 51
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_stock": {}
+          }
+        },
+        "role": "user",
+        "text": "today's closing price for google",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-256": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 51
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_stock": {}
+          }
+        },
+        "role": "user",
+        "text": "please indicate the opening price of fra stock",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-257": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 51
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_stock": {}
+          }
+        },
+        "role": "user",
+        "text": "stock market",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-258": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 51
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_stock": {}
+          }
+        },
+        "role": "user",
+        "text": "is i. b. m. up today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-259": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 51
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "qa_stock": {}
+          }
+        },
+        "role": "user",
+        "text": "show me share price of amazon",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-26": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 5
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_up": {}
+          }
+        },
+        "role": "user",
+        "text": "unmute the speaker now",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-260": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 52
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_events": {}
+          }
+        },
+        "role": "user",
+        "text": "what is planned for today in my local area",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-261": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 52
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_events": {}
+          }
+        },
+        "role": "user",
+        "text": "today's local events",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-262": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 52
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_events": {}
+          }
+        },
+        "role": "user",
+        "text": "what's around tonight",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-263": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 52
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_events": {}
+          }
+        },
+        "role": "user",
+        "text": "what's the next event at the library",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-264": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 52
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_events": {}
+          }
+        },
+        "role": "user",
+        "text": "whats happening around my town",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-265": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 53
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_locations": {}
+          }
+        },
+        "role": "user",
+        "text": "what is a good place for cruise",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-266": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 53
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_locations": {}
+          }
+        },
+        "role": "user",
+        "text": "where is the nearest italian restaurant",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-267": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 53
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_locations": {}
+          }
+        },
+        "role": "user",
+        "text": "can you tell me a good place to eat",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-268": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 53
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_locations": {}
+          }
+        },
+        "role": "user",
+        "text": "where is a good wine bar near me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-269": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 53
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_locations": {}
+          }
+        },
+        "role": "user",
+        "text": "where is the nearest pub in the city",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-27": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 5
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_up": {}
+          }
+        },
+        "role": "user",
+        "text": "i am unable to hear you can you speak little loud",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-270": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 54
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_movies": {}
+          }
+        },
+        "role": "user",
+        "text": "is logan a good movie to watch",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-271": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 54
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_movies": {}
+          }
+        },
+        "role": "user",
+        "text": "recommend a movie playing in me area",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-272": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 54
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_movies": {}
+          }
+        },
+        "role": "user",
+        "text": "movies with good reviews",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-273": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 54
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_movies": {}
+          }
+        },
+        "role": "user",
+        "text": "latest movie releases",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-274": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 54
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "recommendation_movies": {}
+          }
+        },
+        "role": "user",
+        "text": "recommend a movie with justin bieber",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-275": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 55
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "social_post": {}
+          }
+        },
+        "role": "user",
+        "text": "i would like to make a post on times twitter",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-276": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 55
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "social_post": {}
+          }
+        },
+        "role": "user",
+        "text": "please tweet the following complaint",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-277": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 55
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "social_post": {}
+          }
+        },
+        "role": "user",
+        "text": "tweet insight cable's customer service and tell them i have been waiting on hold for thirty minutes",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-278": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 55
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "social_post": {}
+          }
+        },
+        "role": "user",
+        "text": "it would be nice if you post status for me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-279": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 55
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "social_post": {}
+          }
+        },
+        "role": "user",
+        "text": "tweet consumer service that the goods are of low quality",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-28": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 5
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_up": {}
+          }
+        },
+        "role": "user",
+        "text": "hey sound is low can you tune it up",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-280": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 56
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "social_query": {}
+          }
+        },
+        "role": "user",
+        "text": "show me my social media notifications",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-281": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 56
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "social_query": {}
+          }
+        },
+        "role": "user",
+        "text": "have i got new content in my twitter feed",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-282": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 56
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "social_query": {}
+          }
+        },
+        "role": "user",
+        "text": "did mark post anything new on facebook",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-283": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 56
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "social_query": {}
+          }
+        },
+        "role": "user",
+        "text": "is there any post from my friend mike in facebook",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-284": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 56
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "social_query": {}
+          }
+        },
+        "role": "user",
+        "text": "do i have new likes",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-285": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 57
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "takeaway_order": {}
+          }
+        },
+        "role": "user",
+        "text": "schedule a delivery from food at the nearby takeaway diner",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-286": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 57
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "takeaway_order": {}
+          }
+        },
+        "role": "user",
+        "text": "i'm hungry show me some takeaway food",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-287": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 57
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "takeaway_order": {}
+          }
+        },
+        "role": "user",
+        "text": "start a takeaway order for me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-288": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 57
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "takeaway_order": {}
+          }
+        },
+        "role": "user",
+        "text": "order chinese for delivery",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-289": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 57
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "takeaway_order": {}
+          }
+        },
+        "role": "user",
+        "text": "please put in an order from red thai fpr this evening",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-29": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 5
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "audio_volume_up": {}
+          }
+        },
+        "role": "user",
+        "text": "could you speak louder",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-290": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 58
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "takeaway_query": {}
+          }
+        },
+        "role": "user",
+        "text": "is michael's a takeaway or delivery restaurant",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-291": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 58
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "takeaway_query": {}
+          }
+        },
+        "role": "user",
+        "text": "restaurant delivery update",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-292": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 58
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "takeaway_query": {}
+          }
+        },
+        "role": "user",
+        "text": "does arby's do takeaway",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-293": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 58
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "takeaway_query": {}
+          }
+        },
+        "role": "user",
+        "text": "look up whether or not charley's steakhouse delivers",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-294": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 58
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "takeaway_query": {}
+          }
+        },
+        "role": "user",
+        "text": "does restaurant royale deliver takeaway",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-295": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 59
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what are the prices to get to chicago on a train book the cheapest one",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-296": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 59
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_query": {}
+          }
+        },
+        "role": "user",
+        "text": "please tell em the list of trains to chicago via california",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-297": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 59
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_query": {}
+          }
+        },
+        "role": "user",
+        "text": "train to athens how to",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-298": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 59
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_query": {}
+          }
+        },
+        "role": "user",
+        "text": "when is the next train leaving for austin",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-299": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 59
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_query": {}
+          }
+        },
+        "role": "user",
+        "text": "direct me towards nearest railway station",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-3": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "at what time have you set alarm for me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-30": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 6
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_query": {}
+          }
+        },
+        "role": "user",
+        "text": "do i have any thing going on at five",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-300": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 60
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_taxi": {}
+          }
+        },
+        "role": "user",
+        "text": "find transportation to rome",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-301": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 60
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_taxi": {}
+          }
+        },
+        "role": "user",
+        "text": "look for a taxi to go home",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-302": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 60
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_taxi": {}
+          }
+        },
+        "role": "user",
+        "text": "book a taxi at my home address for right now",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-303": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 60
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_taxi": {}
+          }
+        },
+        "role": "user",
+        "text": "taxi now",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-304": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 60
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_taxi": {}
+          }
+        },
+        "role": "user",
+        "text": "call me a cab to the train station",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-305": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 61
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_ticket": {}
+          }
+        },
+        "role": "user",
+        "text": "book me a train ticket to atlanta please",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-306": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 61
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_ticket": {}
+          }
+        },
+        "role": "user",
+        "text": "get me a seat on the next train going to new york",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-307": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 61
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_ticket": {}
+          }
+        },
+        "role": "user",
+        "text": "book next ny train ticket",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-308": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 61
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_ticket": {}
+          }
+        },
+        "role": "user",
+        "text": "buy me a ticket to boston",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-309": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 61
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_ticket": {}
+          }
+        },
+        "role": "user",
+        "text": "order a train ticket to boston",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-31": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 6
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_query": {}
+          }
+        },
+        "role": "user",
+        "text": "when is the next office meeting",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-310": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 62
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_traffic": {}
+          }
+        },
+        "role": "user",
+        "text": "traffic please",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-311": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 62
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_traffic": {}
+          }
+        },
+        "role": "user",
+        "text": "are there any roadblocks",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-312": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 62
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_traffic": {}
+          }
+        },
+        "role": "user",
+        "text": "how's the traffic",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-313": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 62
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_traffic": {}
+          }
+        },
+        "role": "user",
+        "text": "what is the traffic today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-314": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 62
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transport_traffic": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me the traffic condition from here to home",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-315": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "weather_query": {}
+          }
+        },
+        "role": "user",
+        "text": "weather forecast please",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-316": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "weather_query": {}
+          }
+        },
+        "role": "user",
+        "text": "is it sunny in gonbad now",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-317": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "weather_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what's the temperature",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-318": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "weather_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what is today's weather in springfield",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-319": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "weather_query": {}
+          }
+        },
+        "role": "user",
+        "text": "i want the complete weather details of seventh march",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-32": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 6
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_query": {}
+          }
+        },
+        "role": "user",
+        "text": "is there any event today in my calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-33": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 6
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_query": {}
+          }
+        },
+        "role": "user",
+        "text": "any upcoming events",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-34": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 6
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_query": {}
+          }
+        },
+        "role": "user",
+        "text": "am i free on sunday day",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-35": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "please empty my calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-36": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "remove all events from my calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-37": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "please delete this event",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-38": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "remove events from calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-39": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "can you delete the dentist appointment",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-4": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "show me the alarms i set",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-40": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "schedule dinner with sara and jamie",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-41": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "can you remind my next meeting with my boss one hour before it will happen",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-42": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "every wednesday night at five pm remind me to meet phil",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-43": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "can you sync my calendar with mark",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-44": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "thursday at three pm there is a teachers meeting i need to be reminded of",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-45": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "cooking_recipe": {}
+          }
+        },
+        "role": "user",
+        "text": "what is the cooking time for mashed potatoes",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-46": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "cooking_recipe": {}
+          }
+        },
+        "role": "user",
+        "text": "how to make fried rice",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-47": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "cooking_recipe": {}
+          }
+        },
+        "role": "user",
+        "text": "find me a recipe for carrot soup",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-48": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "cooking_recipe": {}
+          }
+        },
+        "role": "user",
+        "text": "how much meat should i buy to serve ten people",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-49": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "cooking_recipe": {}
+          }
+        },
+        "role": "user",
+        "text": "give me some recipes for sheperds pie",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-5": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 1
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "change my alarm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-50": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 10
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "datetime_convert": {}
+          }
+        },
+        "role": "user",
+        "text": "switch to los angeles time",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-51": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 10
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "datetime_convert": {}
+          }
+        },
+        "role": "user",
+        "text": "it is five forty five am in liverpool what time is now new york",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-52": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 10
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "datetime_convert": {}
+          }
+        },
+        "role": "user",
+        "text": "given it is four thirty five pm in london what time is it in melbourne",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-53": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 10
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "datetime_convert": {}
+          }
+        },
+        "role": "user",
+        "text": "what is time now in japan compared to usa",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-54": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 10
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "datetime_convert": {}
+          }
+        },
+        "role": "user",
+        "text": "eight am manila time is what in eastern time",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-55": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 11
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "datetime_query": {}
+          }
+        },
+        "role": "user",
+        "text": "today is monday is it",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-56": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 11
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "datetime_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what time is it on the east coast of the united states",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-57": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 11
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "datetime_query": {}
+          }
+        },
+        "role": "user",
+        "text": "uh what does the current date happen to be",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-58": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 11
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "datetime_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what is the current time in california",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-59": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 11
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "datetime_query": {}
+          }
+        },
+        "role": "user",
+        "text": "give me time",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-6": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 1
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "snooze all today's alarms permanently",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-60": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 12
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_addcontact": {}
+          }
+        },
+        "role": "user",
+        "text": "i want to and my email address",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-61": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 12
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_addcontact": {}
+          }
+        },
+        "role": "user",
+        "text": "will you please put something something@gmail dot com in my contacts",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-62": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 12
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_addcontact": {}
+          }
+        },
+        "role": "user",
+        "text": "add the email oriam@gmail dot com to my contacts",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-63": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 12
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_addcontact": {}
+          }
+        },
+        "role": "user",
+        "text": "i need you to add gary's email to my favorites",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-64": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 12
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_addcontact": {}
+          }
+        },
+        "role": "user",
+        "text": "here's an email address",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-65": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 13
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_query": {}
+          }
+        },
+        "role": "user",
+        "text": "update me on my emails",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-66": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 13
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_query": {}
+          }
+        },
+        "role": "user",
+        "text": "did i receive any email in the past hour",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-67": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 13
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_query": {}
+          }
+        },
+        "role": "user",
+        "text": "list all emails with subject contract",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-68": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 13
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_query": {}
+          }
+        },
+        "role": "user",
+        "text": "check email client",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-69": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 13
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_query": {}
+          }
+        },
+        "role": "user",
+        "text": "has amy sent me any new emails",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-7": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 1
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "reset alarm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-70": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 14
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_querycontact": {}
+          }
+        },
+        "role": "user",
+        "text": "look up in contacts",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-71": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 14
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_querycontact": {}
+          }
+        },
+        "role": "user",
+        "text": "select the information on the contact",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-72": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 14
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_querycontact": {}
+          }
+        },
+        "role": "user",
+        "text": "check and tell me the address of my friend alex",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-73": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 14
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_querycontact": {}
+          }
+        },
+        "role": "user",
+        "text": "do i have a number for jerry",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-74": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 14
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_querycontact": {}
+          }
+        },
+        "role": "user",
+        "text": "fetch me the phone number of Alexander",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-75": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 15
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_sendemail": {}
+          }
+        },
+        "role": "user",
+        "text": "send an email for me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-76": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 15
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_sendemail": {}
+          }
+        },
+        "role": "user",
+        "text": "send a mail to alex asking about the due payment",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-77": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 15
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_sendemail": {}
+          }
+        },
+        "role": "user",
+        "text": "start and email to john smith",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-78": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 15
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_sendemail": {}
+          }
+        },
+        "role": "user",
+        "text": "send a reply to mike with the answer four hundred and thirty from his email he sent this morning",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-79": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 15
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "email_sendemail": {}
+          }
+        },
+        "role": "user",
+        "text": "i need to add a new email to my contacts",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-8": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 1
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "remove finlee's bedtime alarm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-80": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 16
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_affirm": {}
+          }
+        },
+        "role": "user",
+        "text": "yeah that was fantastic.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-81": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 16
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_affirm": {}
+          }
+        },
+        "role": "user",
+        "text": "yeap perfect response to the command.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-82": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 16
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_affirm": {}
+          }
+        },
+        "role": "user",
+        "text": "yes perfectly.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-83": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 16
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_affirm": {}
+          }
+        },
+        "role": "user",
+        "text": "correcly.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-84": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 16
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_affirm": {}
+          }
+        },
+        "role": "user",
+        "text": "yeap.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-85": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 17
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_commandstop": {}
+          }
+        },
+        "role": "user",
+        "text": "will you just stop please.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-86": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 17
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_commandstop": {}
+          }
+        },
+        "role": "user",
+        "text": "olly please could you just cancel.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-87": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 17
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_commandstop": {}
+          }
+        },
+        "role": "user",
+        "text": "i would talk to you later on.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-88": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 17
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_commandstop": {}
+          }
+        },
+        "role": "user",
+        "text": "will you shut down please.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-89": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 17
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_commandstop": {}
+          }
+        },
+        "role": "user",
+        "text": "i want you just stop it.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-9": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 1
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "do not wake me up tomorrow",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-90": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 18
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_confirm": {}
+          }
+        },
+        "role": "user",
+        "text": "did you get the last thing said correctly?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-91": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 18
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_confirm": {}
+          }
+        },
+        "role": "user",
+        "text": "please confirm details.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-92": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 18
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_confirm": {}
+          }
+        },
+        "role": "user",
+        "text": "check last thing i said.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-93": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 18
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_confirm": {}
+          }
+        },
+        "role": "user",
+        "text": "i'd like you to confirm that please.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-94": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 18
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_confirm": {}
+          }
+        },
+        "role": "user",
+        "text": "would you confirm last thing i said please.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-95": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 19
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_dontcare": {}
+          }
+        },
+        "role": "user",
+        "text": "i have no idea for which to select.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-96": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 19
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_dontcare": {}
+          }
+        },
+        "role": "user",
+        "text": "that does not matter.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-97": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 19
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_dontcare": {}
+          }
+        },
+        "role": "user",
+        "text": "i have no idea for what to do, olly.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-98": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 19
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_dontcare": {}
+          }
+        },
+        "role": "user",
+        "text": "i do not care.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-99": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 19
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "general_dontcare": {}
+          }
+        },
+        "role": "user",
+        "text": "i wouldn't really care.",
+        "turn_id": 0
+      }
+    ]
+  }
+}

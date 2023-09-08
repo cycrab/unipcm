@@ -1,0 +1,3104 @@
+{
+  "base": 50.84414717226224,
+  "user intent": {
+    "102.27987242472172": " user intent : rain",
+    "75.47331918740925": [
+      "",
+      " user intent :"
+    ],
+    "64.11094806224774": [
+      "",
+      " user intent : to"
+    ],
+    "52.88432078547978": [
+      "",
+      " user intent : how to"
+    ],
+    "74.61834230174506": [
+      "",
+      " user intent to"
+    ],
+    "59.57127407967695": " user intent : how to a",
+    "65.29034342525765": " user intent : to",
+    "80.79035493189183": " user intent : ",
+    "75.42680315851132": [
+      "intent of",
+      " user intent :"
+    ],
+    "49.07042883541007": [
+      "intent of the",
+      " user intent :"
+    ],
+    "67.28874698256296": [
+      "search",
+      " user intent :"
+    ],
+    "44.911104706268134": [
+      "search",
+      "based on user intent :"
+    ],
+    "60.11582108259183": [
+      "to the",
+      " user intent :"
+    ],
+    "76.85255357011094": " user intent :",
+    "49.26123147039471": [
+      "",
+      "based on user intent :"
+    ],
+    "56.101885524302624": [
+      "Intent of",
+      " The user intent is to"
+    ],
+    "73.7944167565783": [
+      "a",
+      " user intent :"
+    ],
+    "66.86161980936417": " user intent : based on",
+    "49.39192192149837": "based on user intent : for",
+    "53.916806163547754": "based on user intent :",
+    "33.76394293240906": [
+      "Intent of the",
+      "The user intent is to"
+    ],
+    "47.206431222758795": [
+      "Intent of",
+      "The user intent is to"
+    ],
+    "46.15702128425886": [
+      "Intent from",
+      "The user intent is to"
+    ],
+    "36.59266370135373": [
+      "Intent of the",
+      "The user intent was to"
+    ],
+    "40.63326046113848": [
+      "Intent of the",
+      "The user intent to"
+    ],
+    "49.18085957285202": "This is the user intent to:",
+    "62.612832707672865": [
+      "the",
+      " The user intent :"
+    ],
+    "59.243527141121504": [
+      "for the",
+      " user intent :"
+    ],
+    "59.568823131900146": [
+      "of the",
+      " user intent :"
+    ],
+    "61.990114083272445": [
+      "intent for",
+      " user intent :"
+    ],
+    "64.2136017112643": [
+      "a",
+      " The user intent :"
+    ],
+    "59.43963135972784": [
+      "intent of",
+      " user intent : add to playlist"
+    ],
+    "83.25064172737254": " user intent :,",
+    "91.18025827629361": " user intent :?",
+    "72.05233465755003": [
+      "list",
+      "playlist user intent :"
+    ],
+    "39.16707724361263": [
+      "asks the",
+      " The user intent is to"
+    ],
+    "74.29575699262858": [
+      "the",
+      " The user intent : To"
+    ],
+    "62.91203530351587": [
+      "a",
+      " A user intent :"
+    ],
+    "68.0929941971971": " user intent : /",
+    "54.79751033936063": ", user intent :",
+    "69.88384679227528": [
+      "intent of",
+      " user intent : To"
+    ],
+    "52.32051027163524": " The user intent is tos for the",
+    "73.50093281355181": [
+      " intent of",
+      " user intent :"
+    ],
+    "36.63885473929351": [
+      "Ask the",
+      "Use user intent to"
+    ],
+    "39.8837754129092": "What is the user intent you are trying to The",
+    "36.18896910270275": "What is the user intent you are trying to Use",
+    "50.64075047245531": "What is the user intent you are trying to This",
+    "77.83578976467318": " user intent :? /",
+    "42.91327192532078": [
+      "intent of",
+      " user intent : I want to"
+    ],
+    "75.87313843256631": " user intent : for",
+    "39.067976565264836": "What is the user intent you are trying to Using",
+    "42.73342863663937": "What is the user intent you are trying to Which",
+    "76.29859386541754": [
+      "of",
+      " user intent :"
+    ],
+    "56.45358903124408": [
+      "for this",
+      " user intent :"
+    ],
+    "49.33976298982785": [
+      "Intent for",
+      "The user intent is to"
+    ],
+    "53.51721639466761": [
+      "",
+      ", user intent :"
+    ],
+    "66.63995974158112": " user intent : to based on",
+    "67.09587177292643": ", user intent :?",
+    "45.27710155252409": " user intent : i want to",
+    "40.13287949213902": [
+      "Intent of the",
+      " The user intent is to"
+    ],
+    "73.67995053563179": [
+      "The",
+      "What is the user intent to"
+    ],
+    "63.71041773104328": "This is the user intent to The",
+    "34.42753535294326": [
+      "Intent from the",
+      "The user intent is to"
+    ],
+    "27.833336518731233": [
+      "Ask the",
+      "The user intent is to"
+    ],
+    "47.13259542883355": "This is a user intent to:",
+    "50.12806099496469": "This is a user intent to for",
+    "67.85257392638245": [
+      "add to playlist",
+      " user intent :"
+    ],
+    "58.17324974004614": [
+      "The",
+      "What is the user intent ? How to"
+    ],
+    "45.86415896750132": [
+      "the",
+      "The user intent is to"
+    ],
+    "95.04670719315523": " The user intent to? a",
+    "81.03470544487884": " user intent : search",
+    "69.12433980690443": ", user intent : ",
+    "86.6269294094267": [
+      "The",
+      "What user intent did you"
+    ],
+    "47.04504556464063": "What is the user intent ? How to a",
+    "35.93324050404512": "What is the user intent ? How can I a",
+    "38.285670395134474": "What is the user intent ? How can we a",
+    "57.30897258496809": [
+      "ratingbook",
+      "based on user intent :"
+    ],
+    "51.414344499928504": [
+      "ratingbook",
+      "based on user intent and"
+    ],
+    "63.49121437925007": "based on user intent : book",
+    "53.28880630125226": [
+      "the",
+      " The user intent is to"
+    ],
+    "38.48610516243092": [
+      "ask the",
+      " The user intent is to"
+    ],
+    "54.57272233292831": [
+      "a",
+      " The user intent is to"
+    ],
+    "40.854704862252426": [
+      "of the",
+      " The user intent is to"
+    ],
+    "88.9729740404949": " The user intent : To,",
+    "55.66850885683602": "with the user intent :? search",
+    "54.89456921024783": [
+      "Intent from",
+      " The user intent is to"
+    ],
+    "72.36520719706581": [
+      "intent",
+      " user intent :"
+    ],
+    "100.60044847724933": "list user intent : playlist",
+    "69.69791014562296": [
+      "intent from",
+      " user intent :"
+    ],
+    "58.42180000789735": " user intent : based on the",
+    "93.8116742190671": " user intent :;",
+    "77.37332438716473": " user intent : with",
+    "72.77299595739011": " This is a user intent to The",
+    "58.55824593293997": "The user intent was to This is a",
+    "43.341751157748185": [
+      "Intent of the",
+      " The user intent was to"
+    ],
+    "62.509197742210354": [
+      "the",
+      " The user intent s to"
+    ],
+    "70.48998233596227": [
+      "the",
+      " The user intent to"
+    ],
+    "60.84170316589105": [
+      "the",
+      " The user intent : to"
+    ],
+    "73.38910924046718": " The user intent : To based on",
+    "65.04496464663036": " The user intent : To based on the",
+    "39.88749698817005": "according to user intent : based on the",
+    "46.998030487221705": "based on user intent : according to",
+    "82.61623999304268": [
+      "s",
+      " user intent :"
+    ],
+    "54.544889608142626": "based on user intent to The",
+    "64.24097392362621": [
+      "Reminder",
+      " The user intent is to"
+    ],
+    "52.98442617590963": " The user intent is tos for a",
+    "51.12729085436994": " This is the user intent tos for a",
+    "55.922929033079534": [
+      "the",
+      "The user intent :"
+    ],
+    "56.93656028812343": [
+      "a",
+      "A user intent :"
+    ],
+    "57.29538909734813": [
+      "a",
+      "The user intent :"
+    ],
+    "62.08396043565938": "This is a user intent to The",
+    "55.823202598098035": "Is the user intent to This is a",
+    "64.2786718970427": "Is the user intent to The",
+    "48.13960935521946": [
+      "search",
+      ", user intent :"
+    ],
+    "30.68887255149941": [
+      "Ask the",
+      "The user intent is easy to"
+    ],
+    "51.7741715427842": [
+      "a",
+      ", user intent :"
+    ],
+    "48.16911148089346": ", user intent : /",
+    "70.54799286052327": [
+      "end",
+      " End user intent :"
+    ],
+    "48.170654143178496": " user intent : to remind user of",
+    "68.9600113658796": [
+      "Intent of",
+      "The user intent : To"
+    ],
+    "66.71634223545439": "This is the user intent : To The",
+    "61.94682216848873": [
+      "ratingbook",
+      "based on user intent "
+    ],
+    "61.677550711059546": [
+      "",
+      " user intent : what to"
+    ],
+    "44.817983866613865": [
+      "for the",
+      " The user intent is to"
+    ],
+    "46.4872251932748": [
+      "",
+      " user intent : how do I"
+    ],
+    "46.756244153639464": " user intent : how do I",
+    "47.14136943435187": [
+      "ratingbook",
+      "based on user intent in the"
+    ],
+    "60.520556524650615": [
+      "intent to",
+      " user intent :"
+    ],
+    "61.71315060172082": " user intent :, based on the",
+    "67.77792449835295": " user intent :, based on",
+    "53.535614515551586": "The user intent is to Is the",
+    "45.209575715701256": [
+      "a",
+      "What is the user intent ? How to"
+    ],
+    "39.729285879542495": [
+      "a",
+      "What is the user intent ? how to"
+    ],
+    "49.84310576754293": [
+      "a",
+      "What is the user intent to"
+    ],
+    "48.343887561556215": "What is the user intent to a",
+    "37.97845003224758": "What is the user intent ? How do I a",
+    "40.143264279483205": "What is the user intent ? how to a",
+    "41.49396418961108": "What is the user intent ? How to what",
+    "37.89578783182621": [
+      "to the",
+      "based on user intent :"
+    ],
+    "59.96975857213589": "based on user intent : search",
+    "74.66213611116505": [
+      "intent of",
+      " user intent : please"
+    ],
+    "68.39262240005577": [
+      "intent of",
+      " user intent to"
+    ],
+    "39.46470276661727": [
+      "intent of the",
+      " The user intent is"
+    ],
+    "46.05808316712055": [
+      "intent for the",
+      " user intent :"
+    ],
+    "44.10628279907076": [
+      "Intent of the",
+      " The user intent :"
+    ],
+    "54.36984874146349": "based on user intent : The",
+    "49.50366455038213": "based on user intent :,",
+    "54.30368593669072": [
+      "asks the",
+      " user intent :"
+    ],
+    "49.63466627234217": " user intent : i need to",
+    "51.11540358859133": " user intent : i want to,",
+    "74.72416885582062": [
+      "a",
+      " The user intent : To"
+    ],
+    "91.77515256465242": " user intent : To,",
+    "67.41940762338974": [
+      "a",
+      " A user intent : To"
+    ],
+    "68.43620604168137": [
+      "",
+      " user intent : To"
+    ],
+    "57.78728353657441": [
+      "",
+      " user intent : How to"
+    ],
+    "73.23377196811558": [
+      "the",
+      " user intent :"
+    ],
+    "100.10424909838183": " user intent : playlist",
+    "47.8858345766596": [
+      "Intent of the",
+      "The user intent : To"
+    ],
+    "60.52443149287795": [
+      "a",
+      " the user intent :"
+    ],
+    "60.14172011164415": [
+      "a",
+      " A user intent : to"
+    ],
+    "76.26291232759303": " user intent : and",
+    "63.87871743459735": " user intent : to /",
+    "59.72810349896446": [
+      "a",
+      "A user intent : To"
+    ],
+    "37.85525655093015": [
+      "Intent for the",
+      "The user intent is to"
+    ],
+    "61.2867800120728": [
+      "from the",
+      " user intent :"
+    ],
+    "40.458783389310796": [
+      "intent of the",
+      " The user intent to"
+    ],
+    "32.80246718903756": [
+      "intent of the",
+      " The user intent is to"
+    ],
+    "53.78798911576991": " The user intent is to as a",
+    "63.33355153257314": " This is the user intent tos and",
+    "45.25315858051829": "based on the user intent :",
+    "100.1100540298397": " The user intent : To ",
+    "77.25569593126001": [
+      "ratingbook",
+      " user intent :"
+    ],
+    "51.35963811696288": "based on user intent  for",
+    "61.453455503811135": "/ user intent :,",
+    "54.37059427891614": [
+      "to the",
+      " The user intent :"
+    ],
+    "49.098450733400846": [
+      "of the",
+      " The user intent :"
+    ],
+    "53.628623743119206": [
+      "for the",
+      " The user intent :"
+    ],
+    "49.029449912092765": "based on user intent : with",
+    "38.33969937919881": [
+      "Ask a",
+      "Use user intent to"
+    ],
+    "52.47972094571356": " The user intent is to for a",
+    "44.603759796725946": [
+      "To the",
+      "The user intent is to"
+    ],
+    "53.77263841180974": [
+      "For example,",
+      "The user intent is to"
+    ],
+    "59.1672711870564": "User intent: The user intent is to This",
+    "50.966742793835905": " This user intent can be used to or",
+    "76.69585453519176": [
+      "for",
+      " user intent :"
+    ],
+    "67.57082801422776": [
+      "new",
+      " user intent :"
+    ],
+    "46.344832826070494": [
+      "",
+      ", user intent : to"
+    ],
+    "47.65963621595595": "based on user intent : and",
+    "44.244080060992104": "The user intent is to Is there a",
+    "58.54794714657283": "The user intent is to A",
+    "40.62838423745084": "The user intent is to based on the",
+    "55.50202897038337": [
+      "Reminder",
+      ", user intent :"
+    ],
+    "68.15917597027287": [
+      "Reminder",
+      ", user intent to"
+    ],
+    "58.23909486752713": [
+      "Reminder",
+      ", user intent : To"
+    ],
+    "81.86093406792523": " user intent : To lunch reminder user",
+    "67.47143297290235": "This is a user intent : To The",
+    "48.96112549459963": "This is a user intent that we can The",
+    "54.632174591600176": "This is a user intent that we The",
+    "46.83030578908512": [
+      "Alert",
+      "Alarm user intent : What is the"
+    ],
+    "52.46778839660641": [
+      "Alert",
+      "Alarm user intent : What is"
+    ],
+    "32.85570535230033": [
+      "Intent of the",
+      "The user intent is to know"
+    ],
+    "35.82834659837838": [
+      "Intent of the",
+      "The user intent : Alarm"
+    ],
+    "33.61444853061508": [
+      "Intent of the",
+      "The user intent is: Alarm"
+    ],
+    "48.53789241988227": "The user intent is: Alarm will go off, ",
+    "52.28535397974755": "The user intent is: Alarm will go off, This",
+    "45.74522320602487": "The user intent is: Alarm will go off if This",
+    "30.776967978303432": "The user intent is: Alarm will go off, User",
+    "66.61888247275537": "The user intent is: Alarm will go off  This",
+    "91.23595002189009": " user intent :, a",
+    "38.0981644083004": [
+      "Intent of the",
+      "The user intent :"
+    ],
+    "46.9949571968247": "The user intent is to for a",
+    "45.17429676694311": [
+      "Ask",
+      "Use user intent to"
+    ],
+    "52.794906814329636": [
+      "For example, ask the",
+      "Use user intent to"
+    ],
+    "23.354217062569422": [
+      "Ask the",
+      "What user intent do you want to"
+    ],
+    "42.33657636615183": [
+      "intent of",
+      " user intent : how do i use"
+    ],
+    "40.64398369504468": " user intent : i want to use",
+    "42.40120288702231": " user intent : how do i use",
+    "48.02847827625364": " user intent : how do i",
+    "67.75167266702582": [
+      "alert",
+      " alarm user intent :"
+    ],
+    "60.75837946534699": "The user intent was to This is the",
+    "86.5680181137906": "The user intent is to This",
+    "66.83073908694196": [
+      "playlist",
+      "playlist user intent :"
+    ],
+    "88.10266255677351": [
+      "",
+      "playlist user intent :"
+    ],
+    "39.298024825818224": [
+      "the",
+      "based on user intent to"
+    ]
+  },
+  "user intention": {
+    "41.87569343776944": "based on user intention to What is the",
+    "46.9360460776451": "based on user intention to What is",
+    "93.25292291370657": [
+      "intention of",
+      " user intention :"
+    ],
+    "61.39799544918784": [
+      "intention of the",
+      " user intention :"
+    ],
+    "88.1374239401448": [
+      "intent of",
+      " user intention :"
+    ],
+    "64.87410493532074": ", user intention :",
+    "89.62952648155893": " user intention :",
+    "88.59604715896285": " user intention : ",
+    "68.80414471028232": [
+      "the",
+      " The user intention :"
+    ],
+    "40.50950365221233": [
+      "the",
+      "based on user intention to"
+    ],
+    "45.188317128434036": "based on the user intention : according to",
+    "41.303564334481": "according to the user intention : based on",
+    "50.639143179567164": "based on user intention : according to",
+    "58.34238734754316": [
+      "Intention of the",
+      " The user intention to"
+    ],
+    "71.52909070688128": [
+      "a",
+      " The user intention :"
+    ],
+    "90.3947633339168": " user intention :,",
+    "64.3314873317922": [
+      "",
+      ", user intention :"
+    ],
+    "88.61081794914364": [
+      "",
+      " user intention :"
+    ],
+    "77.78862155506849": " user intention : /",
+    "54.539666134124815": [
+      "of the",
+      " The user intention :"
+    ],
+    "86.81142541438625": [
+      "Getweather",
+      " What is the user intention with"
+    ],
+    "75.97094435209614": [
+      "Getweather",
+      " What is the user intention of using"
+    ],
+    "87.24725671483723": [
+      "Getweather",
+      " What is the user intention for"
+    ],
+    "65.5287191718555": [
+      "Getweather",
+      " What is the user intention when using"
+    ],
+    "43.53770020350348": " user intention : i want to use",
+    "48.73272293585101": " user intention : i want to",
+    "66.47387900755234": [
+      "of the",
+      " user intention :"
+    ],
+    "57.75663753324737": [
+      "intent of the",
+      " user intention :"
+    ],
+    "65.36112416258023": [
+      "the",
+      " The user intention : to"
+    ],
+    "48.44317821122018": "according to user intention : based on",
+    "42.15167473738258": "according to user intention : based on the",
+    "100.08844623875754": " user intention :?",
+    "35.89799951823063": [
+      "of the",
+      "based on user intention to"
+    ],
+    "81.04048671598069": [
+      "the",
+      " user intention :"
+    ],
+    "106.22662327714309": " user intention :;",
+    "57.620939328717306": [
+      "if",
+      "according to user intention :"
+    ],
+    "42.609956172340965": "based on user intention : according to the",
+    "42.821238439178764": "according to user intention : based on previous",
+    "61.24975110564429": "based on user intention :",
+    "47.74524088305216": [
+      "alarm",
+      "based on user intention to"
+    ],
+    "64.32740462567577": ", user intention : to reminder user",
+    "67.20355665563275": [
+      "Intention of",
+      " The user intention is to"
+    ],
+    "84.01753482334072": [
+      "Intention of",
+      " The user intention to"
+    ],
+    "56.6894683859986": " The user intention is to for a",
+    "56.519991183721444": " The user intention is to as a",
+    "54.79596469848017": " This is the user intention to for a",
+    "30.6270077290199": [
+      "Ask the",
+      "The user intention is to"
+    ],
+    "35.5284597689063": [
+      "Intent of the",
+      "The user intention is to"
+    ],
+    "62.30186088772965": "This is a user intention to The",
+    "40.824319978483274": [
+      "Intention of the",
+      "The user intention is to"
+    ],
+    "48.07357371182025": [
+      "Intention of the",
+      " The user intention is to"
+    ],
+    "51.43188894728718": "based on user intention : and",
+    "43.265209046923566": "based on user intention :s for this",
+    "63.894789470108215": "What is the user intention ? How to The",
+    "53.38032192351681": "What is the user intention ? How do I The",
+    "34.86661303833152": [
+      "Question from",
+      " This is a user intention to"
+    ],
+    "41.23901905815923": [
+      "Question from",
+      " The user intention is to"
+    ],
+    "42.64450236544675": [
+      "Question from",
+      " The user intention was to"
+    ],
+    "85.64961002072964": [
+      "setting",
+      " user intention :"
+    ],
+    "74.53548360164058": [
+      "the",
+      " The user intention to"
+    ],
+    "72.84068517553844": [
+      "Intention of",
+      " The user intention was to"
+    ],
+    "43.460867736591574": " What is the user intention to? User:",
+    "75.20993908653018": [
+      "",
+      " user intention : To"
+    ],
+    "77.28488158179492": [
+      "",
+      " user intention to"
+    ],
+    "72.1911605609142": [
+      "",
+      " user intention : to"
+    ],
+    "72.99150806333178": " This is a user intention to The",
+    "52.76347569886841": " This is a user intention to",
+    "74.8264754614952": " This is the user intention to The",
+    "82.40019445445392": " user intention : on",
+    "64.39680066246726": " user intention : listen to on",
+    "92.33109804154796": " user intention : at",
+    "64.2663883239241": "This is the user intention to The",
+    "60.20329961761903": [
+      "to the",
+      " The user intention :"
+    ],
+    "72.83568573993088": [
+      "a",
+      " A user intention :"
+    ],
+    "61.54051782555536": " user intention : based on this",
+    "57.1419485156655": [
+      "",
+      " user intention : how to"
+    ],
+    "58.80435021850892": [
+      "for the",
+      " The user intention :"
+    ],
+    "56.256792534779926": [
+      "the",
+      " The user intention is to"
+    ],
+    "56.84183926320594": "based on user intention to User: Change",
+    "57.57712900788224": [
+      "Intention of",
+      "The user intention is to"
+    ],
+    "27.651862938003152": [
+      "Question from the",
+      "The user intention is to"
+    ],
+    "49.692746644424936": [
+      "Intent of",
+      "The user intention is to"
+    ],
+    "59.674762661842976": "Based on the user intention , we can The",
+    "83.33369924593363": [
+      "a",
+      " user intention :"
+    ],
+    "63.03919545739026": [
+      "setting",
+      ", user intention :"
+    ],
+    "75.0708442891545": [
+      "the",
+      " a user intention :"
+    ],
+    "67.10162174669806": [
+      "a",
+      " What is user intention to"
+    ],
+    "73.72837921609346": [
+      "The",
+      "What is the user intention to"
+    ],
+    "61.16058711718718": [
+      "The",
+      "What is the user intention ? How to"
+    ],
+    "47.89442377997369": "What is the user intention ? How do I Which",
+    "49.39140185741061": "What is the user intention ? How do you The",
+    "58.69076709541073": [
+      "Intent of",
+      " The user intention is to"
+    ],
+    "75.70572429609578": [
+      "search",
+      " user intention :"
+    ],
+    "86.17955817623621": [
+      "query",
+      " user intention :"
+    ],
+    "56.006577666396815": [
+      "search",
+      ", user intention :"
+    ],
+    "78.33826458768814": [
+      "intended",
+      " user intention :"
+    ],
+    "66.04526904258188": " user intention : add to playlist",
+    "112.4448582788853": " user intention : playlist",
+    "56.23965495589973": [
+      "Asking the",
+      "The user intention is to"
+    ],
+    "112.00457333731417": [
+      ",",
+      " user intention :"
+    ],
+    "66.00861598858357": "Based on the user intention , we The",
+    "91.20276767825686": [
+      "get weather",
+      " user intention :"
+    ],
+    "50.31870119107283": [
+      "a",
+      "What is the user intention to"
+    ],
+    "41.514102516418575": [
+      "a",
+      "What is the user intention ? how to"
+    ],
+    "51.989091732485015": "based on the user intention :",
+    "40.95210784740499": "based on the user intention to",
+    "42.61140076751885": [
+      "for",
+      "based on user intention to"
+    ],
+    "47.94982305984866": "based on user intention to and",
+    "43.33470746426429": " user intention : listen to this song on ",
+    "42.01321200202793": [
+      "Intent of the",
+      " The user intention is to"
+    ],
+    "49.09442489501426": [
+      "",
+      " user intention : how to use"
+    ],
+    "71.7681601349213": [
+      "",
+      " * user intention :"
+    ],
+    "73.33201595163197": " user intention : based on",
+    "62.153348071277925": " user intention : based on the",
+    "48.503846431873974": "based on user intention to,",
+    "77.8842050494537": " user intention : to a",
+    "78.1794987497333": " user intention : to out and",
+    "52.44147889836167": [
+      "Intention of the",
+      " The user intention was to"
+    ],
+    "78.80191149780548": [
+      "the",
+      " The user intention : To"
+    ],
+    "60.43023923474844": "based on user intention tos",
+    "70.20481814159325": [
+      "the",
+      " What is user intention to"
+    ],
+    "80.28596666662891": [
+      "a",
+      " What user intention to"
+    ],
+    "57.604805993937156": [
+      "reminder",
+      ", user intention :"
+    ],
+    "44.453754288614185": [
+      "For example, ask the",
+      "The user intention is to"
+    ],
+    "49.851772202873235": [
+      "Intention of",
+      "What is the user intention ? How to"
+    ],
+    "40.95997703431271": [
+      "Intention of the",
+      "The user intention is easy to"
+    ],
+    "35.7285027147357": [
+      "Intent of the",
+      "The user intention is easy to"
+    ],
+    "50.21190504418114": "What is the user intention ? Click here to The",
+    "59.63290828928547": "based on user intention : To alarm",
+    "46.61775111461623": " The user intention is to for a specific",
+    "56.37909401508766": " The user intention is to for the",
+    "72.49293879436613": " user intention : to",
+    "79.46807551671803": [
+      "playlist",
+      " user intention :"
+    ],
+    "59.039671131447975": "for user intention in the based on",
+    "63.27431973228313": "for user intention in our based on",
+    "42.72156724701377": "based on user intention and in the",
+    "56.51031564478605": [
+      "Intention of the",
+      "The user intention : To"
+    ],
+    "47.900491717131914": [
+      "Intention of the",
+      "The user intention : to"
+    ],
+    "46.74018165544476": [
+      "Intention of the",
+      "The user intention :"
+    ],
+    "81.3617569881289": [
+      "Intention of",
+      "The user intention : To"
+    ],
+    "63.63759786457953": [
+      "intention of the",
+      "s user intention :"
+    ],
+    "84.30734138663557": " user intention : and",
+    "55.58480402017933": [
+      "of the",
+      " The user intention to"
+    ],
+    "44.53650389547457": [
+      "",
+      "based on user intention to"
+    ],
+    "55.4454554516324": [
+      "",
+      "based on user intention :"
+    ],
+    "59.76757448901413": [
+      "alarm",
+      "if user intention to"
+    ],
+    "54.43836695327336": [
+      "alarm",
+      ", if user intention to"
+    ],
+    "42.308244874787825": [
+      "alarm",
+      ", based on user intention to"
+    ],
+    "50.26333681063843": [
+      "intent of",
+      " user intention : listen to this song on"
+    ],
+    "50.64231474241995": [
+      "intention of",
+      " user intention : listen to this song on"
+    ],
+    "48.99432752555039": " user intention : listen to this song on,",
+    "57.17827140647472": " user intention : listen to this song on!",
+    "44.04967958772097": [
+      "for the",
+      "according to user intention :"
+    ],
+    "43.411137531696596": [
+      "for the",
+      "based on user intention :"
+    ],
+    "60.66975870804133": [
+      "asks the",
+      " user intention :"
+    ],
+    "46.09783105129717": [
+      "of the",
+      "and user intention to"
+    ],
+    "43.9066174969704": "based on the user intention to,",
+    "86.39533395944194": [
+      "ratingbook",
+      " user intention :"
+    ],
+    "50.65995687281209": "based on the user intention : user",
+    "59.21232381125122": [
+      "ratingbook",
+      "based on the user intention "
+    ],
+    "67.532115099366": [
+      "ratingbook",
+      "based on user intention "
+    ],
+    "96.93317052202637": [
+      "The",
+      "What is user intention to"
+    ],
+    "60.83174017422074": [
+      "alarm",
+      "based on user intention :"
+    ],
+    "54.70317622811122": [
+      "",
+      "according to user intention :"
+    ],
+    "53.889736073453804": "according to user intention : if",
+    "44.97754943357061": [
+      "",
+      " user intention : how do i use"
+    ],
+    "51.77244551410459": [
+      "",
+      " user intention : how can i"
+    ],
+    "45.96847150160085": [
+      "",
+      " user intention : how can i use"
+    ],
+    "66.5752322602559": [
+      "to the",
+      " user intention :"
+    ],
+    "34.70905840673568": [
+      "Ask a",
+      "What is the user intention to"
+    ],
+    "33.61931722362419": [
+      "Ask a",
+      "What is the user intention ? How to"
+    ],
+    "55.87984813078959": [
+      "a",
+      " What is the user intention to"
+    ],
+    "46.43956933159298": "and what is the user intention to? &",
+    "86.64272157243774": [
+      "of",
+      " user intention :"
+    ],
+    "78.45024474474246": [
+      "book",
+      " user intention :"
+    ],
+    "48.322327755606494": [
+      "Intention of the",
+      "The user intention to"
+    ],
+    "43.235773179589174": [
+      "of the",
+      " The user intention is to"
+    ],
+    "30.814401005107346": [
+      "Question from the",
+      " The user intention is to"
+    ],
+    "113.26640334211304": " user intention :book",
+    "66.5905469846801": [
+      "search",
+      "of user intention :"
+    ],
+    "59.406763703932704": [
+      "a",
+      ", user intention :"
+    ],
+    "113.51121679185341": " user intention :s",
+    "93.9537640280962": " user intention : search",
+    "101.38680314372576": " user intention : movie",
+    "58.737224823182245": [
+      "of the",
+      " The user intention : To"
+    ],
+    "62.52900049208355": [
+      "for the",
+      " The user intention : To"
+    ],
+    "55.386539516326835": "What is the user intention ? How to Which",
+    "47.20252999447969": "What is the user intention ? How do you Which",
+    "46.93646013377343": [
+      "To the",
+      "The user intention is to"
+    ],
+    "62.82727753606342": [
+      "query from the",
+      " user intention :"
+    ],
+    "65.13927926499564": [
+      "a",
+      "A user intention : To"
+    ],
+    "38.25408360744141": [
+      "Intent of the",
+      "The user intention was to"
+    ],
+    "64.02408959181322": "The user intention was to This is the",
+    "62.290350723581746": "The user intention was to This is a",
+    "76.03005492768892": [
+      "music",
+      " user intention :"
+    ],
+    "56.870902460727336": ", user intention : /",
+    "77.43251478849645": ", user intention : ",
+    "71.66972737764203": [
+      "Intention of",
+      " Default user intention :"
+    ],
+    "65.30315748589689": [
+      "ask the",
+      " user intention :"
+    ],
+    "44.45562846801809": " user intention : how do i use",
+    "64.89211382543057": [
+      "for the",
+      " user intention :"
+    ],
+    "62.78886361557878": [
+      "for this",
+      " user intention :"
+    ],
+    "43.03582995733305": [
+      "alarm",
+      "if user intention is to"
+    ],
+    "52.353246775499656": "if user intention is to alarm",
+    "49.57572904467703": [
+      "Intention of the",
+      " The user intention is:"
+    ],
+    "41.11145911543649": [
+      "from",
+      "based on user intention to"
+    ],
+    "39.41377716189429": [
+      "for",
+      "based on the user intention to"
+    ],
+    "33.83444455835262": [
+      "for the",
+      "based on user intention to"
+    ],
+    "56.01044402546164": [
+      "ratingbook",
+      "based on user intention and"
+    ],
+    "64.38992482142521": [
+      "For example,",
+      " The user intention is to"
+    ],
+    "35.24494195469402": [
+      "Question from",
+      "What is the user intention to"
+    ],
+    "29.584134683441214": [
+      "Question from",
+      "This is a user intention to"
+    ],
+    "28.84000753849149": [
+      "Question from",
+      "What is the user intention ? How to"
+    ],
+    "53.71903258399357": [
+      "a",
+      "with the user intention :"
+    ],
+    "56.09154137706614": " This is the user intention to as a",
+    "24.852285661328597": [
+      "Question of the",
+      "The user intention is to"
+    ],
+    "93.78484981537257": "The user intention is to This",
+    "41.43742700143974": [
+      "asks the",
+      " The user intention is to"
+    ],
+    "47.01613968962152": [
+      "for the",
+      " The user intention is to"
+    ],
+    "63.27194583406492": [
+      "ratingbook",
+      "based on user intention :"
+    ],
+    "71.28973349699548": "based on user intention :book",
+    "69.10859907449012": "based on user intention : book",
+    "81.63047502757487": [
+      "weather",
+      " user intention :"
+    ],
+    "57.84910229802101": " user intention : i'm using",
+    "60.92418309636155": [
+      "for the",
+      " The user intention to"
+    ],
+    "77.93719488537626": [
+      "a",
+      " The user intention to"
+    ],
+    "62.24314649160584": [
+      "",
+      " user intention : How to"
+    ],
+    "50.93279400604258": " user intention : I can't",
+    "60.06997604112478": " user intention : I can't,",
+    "58.803819672294566": [
+      "Intention of",
+      "What is user intention to"
+    ],
+    "57.00805298104372": [
+      "Example",
+      "What is user intention to"
+    ],
+    "76.44667589502272": " user intention to:",
+    "54.93773465555592": [
+      "for",
+      "based on user intention :"
+    ],
+    "40.42398860635986": [
+      "Ask the",
+      "Use user intention to"
+    ]
+  },
+  "user's purpose": {
+    "63.52797442859992": " user's purpose : /",
+    "71.7265641948084": " user's purpose : ",
+    "45.1472468098499": [
+      "for the",
+      " The user's purpose :"
+    ],
+    "65.78847728902831": [
+      "purpose of",
+      " user's purpose :"
+    ],
+    "61.905855046129375": [
+      "",
+      " user's purpose : To"
+    ],
+    "56.006817402966625": [
+      "",
+      " user's purpose : to"
+    ],
+    "54.99290337828636": " The user's purpose is to out and",
+    "72.25236085101918": " The user's purpose : To out and",
+    "59.1535072485096": " The user's purpose : to out and",
+    "52.11161159811253": [
+      "for",
+      " For user's purpose :"
+    ],
+    "67.62364077658219": [
+      "",
+      " user's purpose :"
+    ],
+    "47.89420370689341": [
+      "purpose of the",
+      " user's purpose :"
+    ],
+    "47.479419153786445": " The user's purpose is to for a",
+    "24.645518573755965": [
+      "Ask the",
+      "The user's purpose is to"
+    ],
+    "33.151598619913244": [
+      "Ask the",
+      "The user's purpose : To"
+    ],
+    "96.71565232913622": [
+      ",",
+      " user's purpose :"
+    ],
+    "37.58566986472543": "according to user's purpose : based on",
+    "45.1159663203745": [
+      "Asking the",
+      "The user's purpose is to"
+    ],
+    "38.410111945026955": "The user's purpose is to Depending on the",
+    "50.14345102791245": [
+      "",
+      " user's purpose is to"
+    ],
+    "39.584716159055354": [
+      "Asks the",
+      "The user's purpose is to"
+    ],
+    "26.96159117221101": [
+      "Ask a",
+      "The user's purpose is to"
+    ],
+    "47.763702408673375": "What is the user's purpose ? How to The",
+    "40.97298633478366": "What is the user's purpose ? How do I The",
+    "44.58064178410747": "What is the user's purpose ? Where can I The",
+    "38.8820484710728": "What is the user's purpose ? How can I The",
+    "37.91874992513353": [
+      "To the",
+      "The user's purpose is to"
+    ],
+    "46.09626857657575": [
+      "to the",
+      " The user's purpose :"
+    ],
+    "52.081164361348364": [
+      "the",
+      " The user's purpose :"
+    ],
+    "41.90440282549015": "according to the user's purpose : The",
+    "28.47325780568421": [
+      "Ask the",
+      " The user's purpose is to"
+    ],
+    "46.350622993983144": " The user's purpose is to for the",
+    "56.72621924033708": " The user's purpose is to A",
+    "42.94105787963572": [
+      "for",
+      "according to user's purpose :"
+    ],
+    "38.15222992986129": "based on user's purpose : according to",
+    "31.736280306465076": "according to the user's purpose : based on",
+    "37.81149906795119": [
+      "for the",
+      " The user's purpose is to"
+    ],
+    "55.937787087254804": " user's purpose :, based on the",
+    "40.21513289561901": [
+      "for",
+      "according to user's purpose of"
+    ],
+    "33.57066770498828": "according to user's purpose : based on the",
+    "44.712799628189785": [
+      "for this",
+      " This user's purpose :"
+    ],
+    "49.95538287624405": [
+      "The purpose of this",
+      " This user's purpose :"
+    ],
+    "62.9361440965701": "This user's purpose is to The",
+    "40.181508560225545": [
+      "for the",
+      " The user's purpose is:"
+    ],
+    "41.38334655590864": [
+      "of the",
+      " The user's purpose :"
+    ],
+    "33.04907099097314": "based on user's purpose : according to the",
+    "39.92909697043496": "according to user's purpose  User: based on",
+    "69.3670847776012": " user's purpose :",
+    "33.607535251072726": [
+      "asks the",
+      " The user's purpose is to"
+    ],
+    "65.21375628297916": [
+      "a",
+      " user's purpose :"
+    ],
+    "51.09461715622638": "The user's purpose is to A",
+    "59.448489614189434": "A user's purpose is to The",
+    "61.392020982847754": [
+      "music",
+      " user's purpose :"
+    ],
+    "58.89687391423581": " user's purpose : based on",
+    "45.00980407763705": [
+      "the",
+      " The user's purpose is to"
+    ],
+    "37.74509110999139": " The user's purpose is to for a specific",
+    "41.73305591489187": [
+      "The purpose of this",
+      " This user's purpose is to"
+    ],
+    "55.61336179349462": [
+      "Reminder",
+      " The user's purpose is to"
+    ],
+    "46.88139789885585": [
+      "Set reminder for",
+      " The user's purpose is to"
+    ],
+    "49.5512214245519": " The user's purpose is to for this",
+    "36.98327274315178": "based on the user's purpose :",
+    "51.79399578108557": " user's purpose : based on the",
+    "29.466873352125067": [
+      "Ask the",
+      "This user's purpose is to"
+    ],
+    "52.17077892165816": "What is a user's purpose ? How to The",
+    "46.08258348713972": "What is the user's purpose ? How to A",
+    "38.41496586565406": "What is the user's purpose ? How do you The",
+    "22.00244284456972": [
+      "Ask the",
+      "Answer: The user's purpose is to"
+    ],
+    "73.52715385977531": "The user's purpose is to This",
+    "40.36176920148943": " The user's purpose is to based on the",
+    "49.12305778356635": " The user's purpose is to based on",
+    "32.368286587255895": [
+      "for the",
+      "according to user's purpose of"
+    ],
+    "37.044559449259545": "based on user's purpose :s according to",
+    "59.21679350493249": " user's purpose : for a",
+    "43.40189997256219": [
+      "Set reminder for this",
+      " This user's purpose is to"
+    ],
+    "36.81297954468084": [
+      "for this",
+      " This user's purpose is to"
+    ],
+    "51.9114738424779": " The user's purpose is to for another",
+    "36.08988199008614": [
+      "asks the",
+      " The user's purpose in using"
+    ],
+    "41.64770749920943": [
+      "to the",
+      " The user's purpose in using"
+    ],
+    "36.300380269810404": [
+      "asks the",
+      " The user's purpose for using"
+    ],
+    "72.27029793119047": " This user's purpose is to The",
+    "79.20159506285393": " The user's purpose is to This",
+    "28.21656815908175": [
+      " Ask the",
+      " The user's purpose is to"
+    ],
+    "41.77185374605496": [
+      "for",
+      "according to user's purpose and"
+    ],
+    "36.78374241734186": "based on user's purpose to for the",
+    "35.13807470120611": "based on the user's purpose of",
+    "29.807156324698035": "based on the user's purpose of this",
+    "41.902642997487106": [
+      "To the",
+      " The user's purpose is to"
+    ],
+    "36.825302480997344": [
+      "Ask the",
+      " The user's purpose : To"
+    ],
+    "39.37195236504544": " The user's purpose is to, based on the",
+    "41.82722746045628": " The user's purpose is to, and what was the",
+    "41.88329374879475": " The user's purpose is to, based on this",
+    "51.05746329378985": " The user's purpose is to, and the",
+    "33.63168662952106": [
+      "purpose of the",
+      " The user's purpose is:"
+    ],
+    "31.399281250448098": [
+      "purpose of the",
+      " The user's purpose is to"
+    ],
+    "47.82453860061292": [
+      "for the",
+      " The user's purpose : To"
+    ],
+    "66.90424319453071": " The user's purpose : To out what the",
+    "58.57430999113663": [
+      "the",
+      " The user's purpose : To"
+    ],
+    "53.19096499054053": [
+      "for",
+      " For user's purpose : To"
+    ],
+    "66.43100298021439": [
+      "the",
+      " The user's purpose to"
+    ],
+    "71.33632510294832": " user's purpose : To according to",
+    "65.01374961808452": " user's purpose : To according to the",
+    "44.14679714773273": [
+      "The purpose of this",
+      " This user's purpose is:"
+    ],
+    "38.409440129355936": "What is the user's purpose ? Click here to The",
+    "39.95992845227541": [
+      "purpose of this",
+      " This user's purpose is:"
+    ],
+    "71.80415984157729": [
+      "s",
+      " user's purpose :"
+    ],
+    "67.35502305285868": [
+      "To",
+      "What is user's purpose to"
+    ],
+    "64.27457121151166": [
+      "reminder",
+      " user's purpose :"
+    ],
+    "58.99628565375352": [
+      "for",
+      " What is user's purpose to"
+    ],
+    "59.33907636436742": [
+      "",
+      " user's purpose in using"
+    ],
+    "42.961371529788046": " This is the user's purpose in using The",
+    "44.22518616732634": " This is the user's purpose for using The",
+    "49.288807472816": [
+      "the",
+      " The user's purpose : to"
+    ],
+    "36.91327541781236": "according to user's purpose : What is the",
+    "32.709807799505896": [
+      "Ask",
+      "The user's purpose is to"
+    ],
+    "50.8129856985604": [
+      "for this",
+      " user's purpose :"
+    ],
+    "61.82097920163186": " user's purpose :, based on",
+    "63.10451516490251": " user's purpose : for this",
+    "58.94068144234554": " user's purpose : for the",
+    "48.788295008948054": [
+      "Asking the",
+      " The user's purpose is to"
+    ],
+    "49.52882890847982": " The user's purpose is to a",
+    "47.3544961629314": " The user's purpose is to the",
+    "80.45457334933627": " user's purpose : To a",
+    "67.7750042428187": " The user's purpose : ",
+    "50.25085335963444": " The user's purpose : for the",
+    "44.00180421649486": [
+      "asks",
+      " The user's purpose is to"
+    ],
+    "69.80347121276436": " The user's purpose : To a",
+    "55.03037714704147": [
+      "",
+      "! user's purpose :"
+    ],
+    "57.130193698699394": [
+      "reminder",
+      " What is user's purpose to"
+    ],
+    "47.01431292341546": [
+      "for this",
+      " What is user's purpose to"
+    ],
+    "63.99077829945086": " user's purpose : reminders for a",
+    "63.749230071277566": " user's purpose : reminders for this",
+    "56.702717760090486": " user's purpose : reminders for user /",
+    "60.04784958140171": " user's purpose : reminders for a user?",
+    "42.29186053644595": [
+      "a",
+      "for the user's purpose :"
+    ],
+    "30.895350529650337": [
+      "Ask a",
+      "This user's purpose is to"
+    ],
+    "44.34103013083316": [
+      "For this",
+      " This user's purpose is to"
+    ],
+    "46.40269880005099": [
+      "by the",
+      " The user's purpose :"
+    ],
+    "39.1000030601443": "based on the user's purpose : The",
+    "52.01954916948881": [
+      "",
+      " What is user's purpose to"
+    ],
+    "79.33925816969976": " What is user's purpose to? /",
+    "55.81778049451826": [
+      "a",
+      " A user's purpose :"
+    ],
+    "59.90528706257534": [
+      "search",
+      " user's purpose :"
+    ],
+    "44.723253859966064": [
+      "of the",
+      " The user's purpose : To"
+    ],
+    "48.61293797884446": [
+      "to the",
+      " The user's purpose : To"
+    ],
+    "40.87020940764449": [
+      "",
+      "according to user's purpose :"
+    ],
+    "60.40180026301755": [
+      ",",
+      "according to user's purpose :"
+    ],
+    "55.45434265226928": " user's purpose : according to the",
+    "53.85950641997408": [
+      "Reminder",
+      " This user's purpose is to"
+    ],
+    "50.51354369918448": " This user's purpose is to for a",
+    "50.31869533343699": " This user's purpose is to for the",
+    "51.08921146678408": [
+      "the",
+      " The user's purpose for using"
+    ],
+    "80.17650508053069": " The user's purpose : To and",
+    "95.15715969404378": " user's purpose : To and",
+    "63.13199452893539": "s user's purpose : /",
+    "58.464882810325506": [
+      "",
+      " user's purpose for using"
+    ],
+    "41.33910079595731": [
+      "for the",
+      " The user's purpose : to"
+    ],
+    "69.35639591360393": [
+      "setting",
+      " user's purpose :"
+    ],
+    "39.43780154235032": [
+      "by the",
+      " The user's purpose is to"
+    ],
+    "34.647034847670575": "based on the user's purpose in",
+    "50.85465593283636": [
+      "",
+      " user's purpose : How to"
+    ],
+    "69.4485664039267": [
+      "",
+      " user's purpose to"
+    ],
+    "59.99776748970722": " This user's purpose is to out and",
+    "35.11675208144203": [
+      "Ask the",
+      " This user's purpose is to"
+    ],
+    "42.15292815529669": "for user's purpose : based on the",
+    "35.78384920727036": "based on user's purpose : for the",
+    "39.59644776868368": "based on user's purpose : for",
+    "95.76062004598107": " user's purpose : This",
+    "59.77825911661971": " The user's purpose is to out A",
+    "40.0726426926919": [
+      "per",
+      "according to user's purpose :"
+    ],
+    "64.67403066403405": " user's purpose : according to",
+    "40.86415547398963": "depending on user's purpose : according to",
+    "47.10299364803478": [
+      "Purpose of",
+      " The user's purpose is to"
+    ],
+    "52.70182006552183": [
+      "Purpose of",
+      " This user's purpose is to"
+    ],
+    "36.98060035855159": [
+      "Purpose of the",
+      " The user's purpose is to"
+    ],
+    "38.43734717506083": " This user's purpose is to for a specific",
+    "37.040033599758004": [
+      "The purpose of this",
+      "This user's purpose is to"
+    ],
+    "50.117149369944144": [
+      "Reminder",
+      "The user's purpose is to"
+    ],
+    "44.55384455109795": [
+      "The purpose of this",
+      "This user's purpose :"
+    ],
+    "55.38672719876325": [
+      "The",
+      "What is the user's purpose to"
+    ],
+    "38.67506657982928": "What is the user's purpose ? How to a",
+    "41.4451337934125": "What is the user's purpose ? How to this",
+    "38.437743913689815": [
+      "For this",
+      "This user's purpose is to"
+    ],
+    "31.9609792227105": [
+      "Message from",
+      "This user's purpose is to"
+    ],
+    "66.134301619393": "The user's purpose : To This is the",
+    "90.10061647221492": "The user's purpose : To This",
+    "52.178875554222216": [
+      "For example,",
+      " The user's purpose is to"
+    ],
+    "35.81531373565392": [
+      "Message from",
+      " The user's purpose is to"
+    ],
+    "40.49872930185351": [
+      "by",
+      "according to user's purpose :"
+    ],
+    "50.43613209846604": "for user's purpose : according to",
+    "42.26880379290738": "according to user's purpose : for",
+    "38.83300340547013": [
+      "For example, the",
+      "The user's purpose is to"
+    ],
+    "47.4212217763641": [
+      "For example,",
+      "The user's purpose is to"
+    ],
+    "41.95125472844884": "The user's purpose is to for the",
+    "55.01132565950768": [
+      "a",
+      " The user's purpose :"
+    ],
+    "42.276740082986464": [
+      "to the",
+      " The user's purpose for using"
+    ],
+    "43.393940018027614": [
+      "by the",
+      " The user's purpose for using"
+    ],
+    "58.95668522847111": "The user's purpose : To What is the",
+    "68.76068865097862": [
+      "For this",
+      " This user's purpose to"
+    ],
+    "81.4015630042523": " The user's purpose is to? This",
+    "34.54981073149096": [
+      "of the",
+      " The user's purpose is to"
+    ],
+    "40.78904387289585": [
+      "",
+      " user's purpose : how to use"
+    ],
+    "69.96387834094935": [
+      "for",
+      " user's purpose :"
+    ],
+    "70.58411550379486": " user's purpose :? /",
+    "56.07612570366538": " The user's purpose : /",
+    "53.777749768265565": "The user's purpose was to This is the",
+    "40.24241951986185": [
+      "purpose of the",
+      " user's purpose is:"
+    ],
+    "60.06120316687279": " The user's purpose is: ",
+    "71.09239944091898": " user's purpose : To based on",
+    "51.79532669343577": " user's purpose : based on this",
+    "22.785429004773334": [
+      "Question from the",
+      "The user's purpose is to"
+    ],
+    "29.65598234227581": [
+      "Question from",
+      "The user's purpose is to"
+    ],
+    "30.34579355799744": [
+      "Message from",
+      "The user's purpose is to"
+    ],
+    "43.17586437060674": [
+      "New",
+      "What is the user's purpose ? How to"
+    ],
+    "50.66357075040446": [
+      "New",
+      "What is the user's purpose ? Where to"
+    ],
+    "44.606112452494514": [
+      "The",
+      "What is the user's purpose ? How to"
+    ],
+    "66.37382972557151": [
+      "For this",
+      "What is user's purpose to"
+    ],
+    "77.77762064650352": [
+      "For",
+      "What is user's purpose to"
+    ],
+    "43.60080235558039": "What is the user's purpose to User: Change alarm time",
+    "34.72281791276636": [
+      "for the",
+      "according to user's purpose :"
+    ],
+    "34.34288695510367": "based on the user's purpose and",
+    "33.8506122418766": "based on the user's purpose : according to",
+    "40.78788065687612": "based on user's purpose to for",
+    "27.738052455313053": [
+      "per",
+      "based on this user's purpose in the"
+    ],
+    "30.727569092128338": [
+      "per",
+      "based on user's purpose in the"
+    ],
+    "39.988430646727046": "based on this user's purpose in the This",
+    "33.579737451212324": [
+      "for this",
+      "based on user's purpose :"
+    ],
+    "43.82858030727992": "based on user's purpose :",
+    "64.80756773155275": [
+      "google",
+      " user's purpose :"
+    ],
+    "65.26574999346826": [
+      "by",
+      " user's purpose :"
+    ],
+    "75.48175747151207": [
+      "alarm",
+      " user's purpose :"
+    ],
+    "52.058177054129736": [
+      "For this",
+      " The user's purpose is to"
+    ],
+    "46.39502474560762": [
+      "",
+      " user's purpose : how to"
+    ],
+    "53.66780927539308": " user's purpose : how to a",
+    "69.74799305382616": " user's purpose :, if",
+    "74.62384190971396": " user's purpose :,",
+    "66.77556354982659": " user's purpose : or",
+    "38.310648727723944": [
+      "of the",
+      " user's purpose : how to"
+    ],
+    "33.16457071083167": " The user's purpose in using is to find out the"
+  },
+  "user's intention": {
+    "43.68338470491173": [
+      "the",
+      " The user's intention is to"
+    ],
+    "24.14863984847199": [
+      "Ask the",
+      "The user's intention is to"
+    ],
+    "42.70391555943666": "What is the user's intention ? How do I The",
+    "49.87652336311776": "What is the user's intention ? How to The",
+    "61.1886241473387": [
+      "the",
+      " The user's intention to"
+    ],
+    "33.06102460100931": "based on user's intention to What is the",
+    "36.56753104614991": "based on user's intention to What is",
+    "26.774188436419713": [
+      "Ask a",
+      "The user's intention is to"
+    ],
+    "45.07929305458498": "The user's intention is to What was the",
+    "44.01426747792655": "The user's intention was to What is the",
+    "49.51437558314315": [
+      "",
+      " What is user's intention to"
+    ],
+    "47.34800766406816": [
+      "the",
+      " The user's intention was to"
+    ],
+    "44.10737596860645": [
+      "Asking the",
+      "The user's intention is to"
+    ],
+    "37.1287282808719": [
+      "To the",
+      "The user's intention is to"
+    ],
+    "72.27170463552483": [
+      "playlist",
+      " user's intention :"
+    ],
+    "58.36992737272134": [
+      "a",
+      " A user's intention :"
+    ],
+    "74.9478016173254": [
+      "",
+      " user's intention :"
+    ],
+    "37.80003305632858": [
+      "Intention of the",
+      " The user's intention is to"
+    ],
+    "75.10963684073796": [
+      "intention of",
+      " user's intention :"
+    ],
+    "65.8466051567748": [
+      "",
+      " user's intention to"
+    ],
+    "53.78272488922675": [
+      "Intention of",
+      " The user's intention is to"
+    ],
+    "47.777856037550954": [
+      "Intention of the",
+      " The user's intention to"
+    ],
+    "33.03966841528496": [
+      "Intent of the",
+      " The user's intention is to"
+    ],
+    "55.164835462987476": [
+      "the",
+      " The user's intention :"
+    ],
+    "48.13486125895837": [
+      "to the",
+      " The user's intention :"
+    ],
+    "58.69599756273017": [
+      "a",
+      " The user's intention :"
+    ],
+    "78.52179028072048": " user's intention :",
+    "55.167557228996166": [
+      "",
+      " user's intention was to"
+    ],
+    "51.40009796732791": [
+      "",
+      " user's intention is to"
+    ],
+    "54.92452212442206": " This is the user's intention to The",
+    "26.578964210924532": [
+      "Ask the",
+      "The user's intention was to"
+    ],
+    "40.52789874889941": [
+      "To the",
+      "The user's intention was to"
+    ],
+    "51.99931339312539": "The user's intention was to This is the",
+    "29.603694998310736": "based on the user's intention to",
+    "42.37187257951582": [
+      "Intent of the",
+      " The user's intention to"
+    ],
+    "55.624408915535746": " This is the user's intention to out The",
+    "56.67413815906921": " The user's intention was to This is the",
+    "44.17615382869514": " This is the user's intention with ",
+    "21.913434653466865": [
+      "Question from the",
+      "The user's intention is to"
+    ],
+    "33.05406482115895": [
+      "asks the",
+      " The user's intention is to"
+    ],
+    "53.1882773492712": [
+      "for this",
+      " This user's intention to"
+    ],
+    "46.81508297107996": [
+      "Intent of",
+      " The user's intention is to"
+    ],
+    "59.86305438174511": " What is the user's intention to? The",
+    "22.655910711098137": [
+      "Question from the",
+      "The user's intention was to"
+    ],
+    "29.933676704890967": [
+      "Question from",
+      "The user's intention was to"
+    ],
+    "41.87953785898429": [
+      "",
+      "according to user's intention  User:"
+    ],
+    "38.79407768469763": [
+      "Asks the",
+      "The user's intention is to"
+    ],
+    "50.24992631408107": "This is the user's intention : to The",
+    "35.774454213997345": [
+      "Ask",
+      "Find out the user's intention to"
+    ],
+    "70.35609438667795": [
+      "intent of",
+      " user's intention :"
+    ],
+    "55.012603116375395": [
+      "a",
+      " What is user's intention to"
+    ],
+    "41.02865750961481": [
+      "a",
+      "according to user's intention  User:"
+    ],
+    "40.16023315260196": "according to user's intention  User: based on",
+    "35.967297776486525": "according to user's intention  User: based on the",
+    "46.65439334903253": [
+      "s",
+      "according to user's intention :"
+    ],
+    "43.39514568942054": "according to the user's intention : The",
+    "33.34941901381318": "according to the user's intention : based on",
+    "41.03821313512391": [
+      "Intention of the",
+      " The user's intention was to"
+    ],
+    "57.84517946599808": [
+      "Intention of",
+      " The user's intention was to"
+    ],
+    "49.82920657500362": [
+      "intention of the",
+      " user's intention :"
+    ],
+    "53.834556710451984": [
+      "intention of",
+      " user's intention is:"
+    ],
+    "40.901090217063235": "What is the user's intention ? How can I The",
+    "34.995719478051484": [
+      "intent of the",
+      " The user's intention :"
+    ],
+    "35.08646616714557": [
+      "alarm",
+      "if user's intention is to"
+    ],
+    "45.71384432513324": [
+      "a",
+      " The user's intention is to"
+    ],
+    "38.35760960433221": "The user's intention is to Depending on the",
+    "47.14033137872238": "Depending on the user's intention , we can The",
+    "39.69935882647412": "What is the user's intention ? How do you The",
+    "89.80290525571618": [
+      "/",
+      " user's intention :"
+    ],
+    "77.82306604226288": [
+      "s",
+      " user's intention :"
+    ],
+    "47.306823495054466": [
+      "intent of the",
+      " user's intention :"
+    ],
+    "46.62861228034187": " The user's intention is to, based on",
+    "41.47148402398754": [
+      "The",
+      "It is the user's intention to"
+    ],
+    "48.417602148350504": [
+      "by the",
+      " The user's intention :"
+    ],
+    "34.563783861573626": "based on the user's intention : according to",
+    "67.77709226132046": [
+      "intended",
+      " user's intention :"
+    ],
+    "80.10891498625982": " user's intention : ",
+    "65.36859332737278": [
+      "a",
+      " The user's intention to"
+    ],
+    "50.06187221041028": [
+      "a",
+      " This user's intention is to"
+    ],
+    "69.64972728861504": " user's intention : /",
+    "74.31292433837353": " What is user's intention to? alarm",
+    "70.65154305159126": [
+      "Intention of",
+      " The user's intention to"
+    ],
+    "42.13643013642787": " This is the user's intention to for this",
+    "44.00988271614128": [
+      "Ask",
+      "Find out user's intention to"
+    ],
+    "31.19767749135652": [
+      "Ask",
+      "What is the user's intention to"
+    ],
+    "39.94316493885146": "What is the user's intention ? How to a",
+    "43.15389987761381": [
+      "of the",
+      " The user's intention :"
+    ],
+    "46.658007075098396": " The user's intention : based on the",
+    "32.34815042938185": [
+      "for",
+      "based on user's intention to"
+    ],
+    "37.67046072245916": [
+      "for the",
+      "according to user's intention  User:"
+    ],
+    "43.55958457628634": [
+      "for",
+      "according to user's intention  User:"
+    ],
+    "44.109600912716466": "based on user's intention to User: Accept",
+    "42.35898022445167": "based on user's intention to User: Change",
+    "37.63555091555192": "based on the user's intention to User: Accept",
+    "31.698859683983606": [
+      "the",
+      " The user's intention is to set a"
+    ],
+    "45.22517629233773": [
+      "of the",
+      " The user's intention to"
+    ],
+    "57.237729818363555": [
+      "Intention of",
+      " What is user's intention to"
+    ],
+    "46.7760007092863": [
+      "Asking the",
+      "The user's intention was to"
+    ],
+    "62.44119764147412": "This user's intention is to The",
+    "32.730806354508374": [
+      "asked the",
+      " The user's intention was to"
+    ],
+    "37.23915061007831": [
+      "asks the",
+      " The user's intention was to"
+    ],
+    "69.53569172545481": [
+      "",
+      " user's intention : To"
+    ],
+    "54.61660102924625": [
+      "reminder",
+      " What is user's intention to"
+    ],
+    "74.59992515379714": " What is user's intention to? reminder",
+    "50.41231398476496": "The user's intention was to This is a",
+    "56.14548382470815": "The user's intention is to This was the",
+    "43.56857083315075": "The user's intention was to This is not the",
+    "46.57865707645547": "This is the user's intention to The",
+    "39.744117252626786": [
+      "a",
+      "The user's intention is to"
+    ],
+    "28.019505017933355": [
+      "Intent of the",
+      "The user's intention is to"
+    ],
+    "53.850403789175374": [
+      "The",
+      "What is the user's intention to"
+    ],
+    "48.55764297907432": [
+      "Asks",
+      "The user's intention is to"
+    ],
+    "45.60556761127266": [
+      "The",
+      "What is the user's intention ? How to"
+    ],
+    "38.43241393290256": "What is the user's intention to a",
+    "42.90873002542778": "What is the user's intention ? How to this",
+    "39.13926885747888": " The user's intention is to based on the",
+    "34.28488001368986": "based on the user's intention to The",
+    "33.533494104208785": [
+      "of the",
+      " The user's intention is to"
+    ],
+    "33.80927245729833": "based on the user's intention :, according to",
+    "45.12926509920792": [
+      "The intention of this",
+      " This user's intention :"
+    ],
+    "26.69182966325784": [
+      "for the",
+      "based on user's intention to"
+    ],
+    "32.248693122317455": [
+      "for",
+      "if user's intention is to"
+    ],
+    "46.65245700779293": "What is the user's intention to The",
+    "32.326255999834046": [
+      "Intention of the",
+      "The user's intention is to"
+    ],
+    "46.48032095299166": [
+      "Intention of",
+      "The user's intention is to"
+    ],
+    "39.88398707959835": [
+      "Intent of",
+      "The user's intention is to"
+    ],
+    "42.146536457910074": "This is the user's intention to Is this",
+    "36.2485556320493": [
+      "of the",
+      " The user's intention was to"
+    ],
+    "30.281522258328916": [
+      "of the",
+      " The user's intention is to use"
+    ],
+    "39.352365510676044": "based on user's intention : according to",
+    "38.74529043225932": "based on user's intention : This is the",
+    "33.88813899890601": "based on user's intention : according to the",
+    "27.771186136700635": [
+      "asks the",
+      "The user's intention is to"
+    ],
+    "37.04394359164764": [
+      "asks",
+      "The user's intention is to"
+    ],
+    "34.1423896426533": [
+      "For example, ask the",
+      "The user's intention is to"
+    ],
+    "36.91540728514558": [
+      "For example, ask the",
+      "The user's intention was to"
+    ],
+    "64.93573627273608": "This user's intention was to The",
+    "41.1685722788865": "What is the user's intention ? How to out",
+    "32.964753029950025": [
+      "ratingbook",
+      "based on the user's intention to"
+    ],
+    "39.15701749349251": "based on the user's intention : The",
+    "41.545761015401254": [
+      "",
+      "based on user's intention :"
+    ],
+    "72.34615221591689": " user's intention : according to",
+    "66.59153061825025": " user's intention : based on",
+    "39.873031765192636": "according to user's intention : based on",
+    "66.78036286960125": " What is user's intention to? alarm system",
+    "35.55923083072125": [
+      "",
+      "according to user's intention  User: Can't"
+    ],
+    "45.3099007204991": "based on user's intention to User: Follow",
+    "61.42279421707896": " This user's intention is to at",
+    "65.871694873714": [
+      "s",
+      " The user's intention :"
+    ],
+    "34.9592616992384": [
+      "Intent of the",
+      "The user's intention to"
+    ],
+    "40.53360782471098": "It is the user's intention to The",
+    "53.66638596651556": [
+      "the",
+      " The user's intention : to"
+    ],
+    "37.062948376347975": "based on user's intention to User:",
+    "31.35836675858174": [
+      "the",
+      "based on user's intention to"
+    ],
+    "33.41681380525517": "according to the user's intention  User: based on",
+    "38.039408472044556": "based on user's intention  User: according to",
+    "26.661932658560197": "based on user's intention to that do not match with the",
+    "51.043282235408206": " What is the user's intention to? Is this",
+    "48.06588828963191": "What is the user's intention ? How to A",
+    "48.47097152104179": [
+      "intention of",
+      " user's intention is to"
+    ],
+    "31.225757555187073": [
+      "the",
+      "if it is user's intention to"
+    ],
+    "36.21337144907761": [
+      "a",
+      "according to the user's intention :"
+    ],
+    "33.49318573782191": [
+      "a",
+      "according to the user's intention  User:"
+    ],
+    "30.621527567639358": [
+      "Ask the",
+      " The user's intention was to"
+    ],
+    "64.40269793517577": [
+      "",
+      " user's intention : to"
+    ],
+    "57.93861788424805": [
+      "Bookrestaurant",
+      " This user's intention is to"
+    ],
+    "54.27777467414713": [
+      "Bookrestaurant",
+      " The user's intention is to"
+    ],
+    "59.967759372392585": [
+      "",
+      "! user's intention :"
+    ],
+    "36.10551212450892": " What is the user's intention to? User:",
+    "36.58426532801232": [
+      "intention of the",
+      " The user's intention :"
+    ],
+    "28.8148825584848": [
+      "intention of the",
+      " The user's intention is:"
+    ],
+    "38.36978899422353": [
+      "Intention of the",
+      "What is user's intention to"
+    ],
+    "31.003030717579737": [
+      "per",
+      "based on user's intention to"
+    ],
+    "43.249137074276156": [
+      "a",
+      "according to the user's intention "
+    ],
+    "46.58255356837826": [
+      "s",
+      "according to the user's intention "
+    ],
+    "33.553004381304994": "according to the user's intention : /",
+    "46.557244749169875": " The user's intention is to, not the",
+    "42.03537506575796": [
+      "From the",
+      "The user's intention was to"
+    ],
+    "38.21584993920057": [
+      "intention of the",
+      " user's intention is:"
+    ],
+    "45.27895012515858": [
+      "",
+      " The user's intention was to"
+    ],
+    "85.80013137184895": " The user's intention was to? This",
+    "48.72338866236363": [
+      "Intention of",
+      " This is the user's intention to"
+    ],
+    "57.79896943448785": [
+      "a",
+      " A user's intention to"
+    ],
+    "39.282941878188865": [
+      "Intention of the",
+      " The user's intention is:"
+    ],
+    "38.021950692171984": [
+      "Intent of the",
+      " The user's intention is"
+    ],
+    "62.94172946143042": [
+      "a",
+      " This user's intention :"
+    ],
+    "103.62509117367382": " user's intention : This",
+    "58.701834331140084": " The user's intention : /",
+    "28.992059136931218": [
+      "asks the",
+      " The user's intention is to use"
+    ],
+    "56.81814792289148": [
+      "the",
+      " What is user's intention to"
+    ],
+    "34.441296940670576": "based on user's intention to User: What is",
+    "31.20051133285228": "based on user's intention to User: What is the",
+    "47.42446633439122": " What is the user's intention to?s /",
+    "92.44473140951663": " user's intention : The",
+    "36.43457825540419": [
+      "if",
+      " If user's intention is to"
+    ],
+    "50.55628229394785": [
+      "for the",
+      " The user's intention to"
+    ],
+    "24.465050812006623": "based on user's intention to I'm not sure what",
+    "41.20646403463399": [
+      "Asks",
+      "It is the user's intention to"
+    ],
+    "26.921862747518635": [
+      "Ask",
+      "It is the user's intention to"
+    ],
+    "28.347668130493815": [
+      "book",
+      "based on the user's intention to"
+    ],
+    "31.740549147259685": [
+      "book",
+      "based on user's intention to"
+    ],
+    "29.89310470727788": [
+      "book",
+      "based on this user's intention to"
+    ],
+    "28.80518939576816": [
+      "book",
+      "based on user's intention to use"
+    ],
+    "41.84704207704938": "based on the user's intention to rating",
+    "68.62714186615621": " What is user's intention to? Is this",
+    "42.797554369384926": [
+      "Intent of",
+      " It is user's intention to"
+    ],
+    "49.529641814742796": [
+      "Intention of",
+      " It is user's intention to"
+    ],
+    "44.898736215136445": " What is the user's intention to? user",
+    "34.75379287787494": [
+      "of the",
+      " The user's intention is:"
+    ],
+    "47.58670251212797": [
+      "for the",
+      " The user's intention :"
+    ],
+    "39.49768752407483": ", according to the user's intention : The",
+    "32.049535356225434": [
+      "asks the",
+      " The user's intention is not clear"
+    ],
+    "35.26933175455089": "according to user's intention : based on the",
+    "34.14056561722196": "It is not the user's intention to The",
+    "47.51203292270852": [
+      "set by the",
+      " The user's intention to"
+    ],
+    "29.96204369612752": [
+      "Intent of the",
+      "The user's intention was to"
+    ],
+    "35.814880797662035": "This is not the user's intention to Is this",
+    "77.43694671184795": [
+      "to",
+      " user's intention :"
+    ],
+    "70.69969480527823": [
+      "a",
+      " user's intention :"
+    ],
+    "87.1528922144641": " user's intention :?",
+    "52.674362358030955": " What is the user's intention to? Is",
+    "45.98399496890048": " What is the user's intention to? Is it",
+    "64.26098923207103": " What is user's intention to alarm?s",
+    "67.56961668329863": " What is user's intention to?s",
+    "28.03100169129649": [
+      " Ask the",
+      " The user's intention is to"
+    ],
+    "30.48540329632483": [
+      " Ask the",
+      " The user's intention was to"
+    ],
+    "31.885233146875876": [
+      " Question from",
+      " Answer: The user's intention was to"
+    ],
+    "30.610606009779467": [
+      " Question from",
+      " Answer: The user's intention is to"
+    ],
+    "48.36526923978433": " The user's intention was to What is the",
+    "50.472981191776455": [
+      "Intention of",
+      "What is user's intention to"
+    ]
+  },
+  "user purpose": {
+    "76.78855296177157": [
+      "time",
+      " user purpose :"
+    ],
+    "78.607261485823": [
+      "a",
+      " user purpose :"
+    ],
+    "86.4202059031297": [
+      "s",
+      " user purpose :"
+    ],
+    "77.94974581689169": " user purpose : for",
+    "84.20816108334532": [
+      "purpose of",
+      " user purpose :"
+    ],
+    "52.59103717122949": " user purpose : add to playlist,",
+    "76.26500628724347": " user purpose : /",
+    "84.45959381968184": [
+      "",
+      " user purpose :"
+    ],
+    "85.53875633852826": " user purpose :",
+    "86.34208032095593": " user purpose :,",
+    "56.55332635964175": [
+      "the",
+      "The user purpose : to"
+    ],
+    "85.9166327659639": [
+      "purpose",
+      " user purpose :"
+    ],
+    "60.98154902745488": ", user purpose :",
+    "59.76295664256658": [
+      "purpose of the",
+      " user purpose :"
+    ],
+    "72.56484036231109": [
+      "search",
+      " user purpose :"
+    ],
+    "80.99975598986912": [
+      "for",
+      " user purpose :"
+    ],
+    "76.92461044031116": [
+      "the",
+      " user purpose :"
+    ],
+    "69.1818170649195": [
+      "the",
+      " The user purpose :"
+    ],
+    "84.69263491313589": " user purpose : ",
+    "75.28200053010686": "by user purpose :",
+    "67.24464817284995": [
+      "",
+      "! user purpose :"
+    ],
+    "60.30966680973371": [
+      "",
+      ", user purpose :"
+    ],
+    "70.35080527235915": [
+      "",
+      " user purpose : To"
+    ],
+    "66.09624838685336": [
+      "",
+      " user purpose : to"
+    ],
+    "60.78315609426422": [
+      "a",
+      "A user purpose : To"
+    ],
+    "75.13271884991045": [
+      "The",
+      "What is the user purpose to"
+    ],
+    "81.39915073683494": [
+      "to",
+      " user purpose :"
+    ],
+    "86.7660937810453": " user purpose : by",
+    "94.57930129188632": " user purpose :?",
+    "62.74524322777324": [
+      "for",
+      " For user purpose :"
+    ],
+    "62.37680147014208": "What is the user purpose ? How to The",
+    "54.18495361093275": "What is the user purpose ? How to Which",
+    "46.998105247708615": "What is the user purpose ? How do I Which",
+    "52.232800108757054": "What is the user purpose ? How do I The",
+    "50.57777363854447": [
+      "The purpose of this",
+      "This user purpose is to"
+    ],
+    "60.46509646791724": [
+      "The purpose of this",
+      "This user purpose : To"
+    ],
+    "71.39614938847059": "for user purpose : set by",
+    "92.32237927178112": [
+      "alarm",
+      " user purpose :"
+    ],
+    "63.56187794054903": [
+      "to",
+      "for user purpose :"
+    ],
+    "71.54781855891666": [
+      "alarm",
+      "for user purpose :"
+    ],
+    "52.90286970589247": "based on user purpose : for",
+    "66.29014106431208": [
+      "For example,",
+      " The user purpose is to"
+    ],
+    "39.48053894625388": "according to the user purpose : for a",
+    "44.62562273030684": "according to the user purpose : for",
+    "53.784908095687435": "according to user purpose : for",
+    "51.26061970722559": [
+      "for the",
+      " For user purpose :"
+    ],
+    "67.6515116380752": " user purpose : for the",
+    "70.84000504363154": [
+      "the",
+      "The user purpose : To"
+    ],
+    "60.372361355888756": [
+      "alarm",
+      "according to user purpose :"
+    ],
+    "85.83494474406551": [
+      " For",
+      "for user purpose :"
+    ],
+    "49.92541591648127": "based on user purpose : according to",
+    "60.616030237505235": "for user purpose : according to",
+    "62.43694571840979": [
+      "for",
+      " For user purpose : To"
+    ],
+    "63.4066563570625": [
+      "for this",
+      " This user purpose : To"
+    ],
+    "79.31574510985168": " user purpose : To for the",
+    "67.5109355392012": " user purpose : to",
+    "71.01597286114439": " user purpose : for this",
+    "58.407583482732996": [
+      "for this",
+      " This user purpose :"
+    ],
+    "63.2198098542994": [
+      "a",
+      "the user purpose : To"
+    ],
+    "85.4609077197818": [
+      "For this",
+      "What user purpose : To"
+    ],
+    "78.0542826640017": [
+      "A",
+      "The user purpose : To"
+    ],
+    "68.49944420936434": "What is user purpose : To? user",
+    "60.520670424977865": "The user purpose : To a user the",
+    "57.07659953882571": "The user purpose : To a user for",
+    "55.727329880309554": "The user purpose : To a user",
+    "72.82800826012875": "Default user purpose : To user",
+    "74.16040959815706": "The user purpose : To /",
+    "58.578606175928044": [
+      "",
+      " user purpose : How to"
+    ],
+    "50.60565223325346": [
+      "for the",
+      " The user purpose : to"
+    ],
+    "48.31818614292011": [
+      "",
+      " user purpose : How do I"
+    ],
+    "82.44621280199001": [
+      "purpose for",
+      " user purpose :"
+    ],
+    "77.47088765569184": [
+      "purpose of",
+      " user purpose : To"
+    ],
+    "54.8829686540884": " user purpose : I want to and",
+    "67.98048727580364": " user purpose : I want to reminder",
+    "56.73755424897857": " user purpose : I want to,",
+    "75.21706323604607": [
+      "google",
+      " user purpose :"
+    ],
+    "100.37969712017203": " user purpose :;",
+    "54.21164433472818": [
+      "for",
+      "according to user purpose :"
+    ],
+    "54.13206156129144": [
+      "",
+      "according to user purpose :"
+    ],
+    "63.763073721020504": " user purpose : according to the",
+    "48.869224382023816": [
+      "To the",
+      "The user purpose is to"
+    ],
+    "58.21764362525767": " The user purpose is to for the",
+    "68.32341516211991": [
+      "purpose of",
+      " user purpose : to"
+    ],
+    "69.65799304312044": [
+      "Reminder",
+      " Set reminder user purpose :"
+    ],
+    "71.68828019333986": [
+      "music",
+      " user purpose :"
+    ],
+    "59.22269596845736": [
+      "music",
+      "for user purpose :"
+    ],
+    "57.015116929626146": [
+      "for",
+      ", user purpose :"
+    ],
+    "59.56949697249537": [
+      "The",
+      "What is the user purpose ? How to"
+    ],
+    "31.22372769276012": [
+      "Ask the",
+      "The user purpose is to"
+    ],
+    "49.866214194563504": "What is the user purpose ? How can I The",
+    "70.57156535039333": [
+      "reminder",
+      " user purpose : To"
+    ],
+    "77.68230165303446": " user purpose : To /",
+    "77.77061315749988": " user purpose : To for a",
+    "81.54059548822264": " user purpose : To for",
+    "107.57054761489267": [
+      ",",
+      " user purpose :"
+    ],
+    "47.02770069136586": "according to user purpose : based on",
+    "71.7879559687373": [
+      "question from",
+      " user purpose :"
+    ],
+    "48.22975270950425": " user purpose : i want to",
+    "49.16174087465412": [
+      "purpose of",
+      " user purpose : i want to"
+    ],
+    "52.170011851154314": " user purpose : for user to",
+    "50.35435674212723": [
+      "",
+      " user purpose : I can't"
+    ],
+    "64.83662807629541": [
+      "to the",
+      " user purpose : To"
+    ],
+    "50.67567451392044": " user purpose : I can't",
+    "45.99737092730558": "based on the user purpose : for",
+    "55.67096552544215": [
+      " purpose of",
+      ", user purpose :"
+    ],
+    "75.70868842203055": [
+      "playlist",
+      " user purpose :"
+    ],
+    "58.578974733932114": [
+      "by",
+      "for user purpose :"
+    ],
+    "74.78494953471937": " user purpose : To",
+    "61.133611251397014": " user purpose : Trying to",
+    "84.16955146051198": " user purpose : user",
+    "62.51688297034123": "for the user purpose : For",
+    "65.7489452579189": " For user purpose : /",
+    "64.36181428587687": " For user purpose : for the",
+    "60.81280399676761": [
+      "purpose of this",
+      " user purpose :"
+    ],
+    "62.80056809577105": [
+      "ratingbook",
+      "based on user purpose :"
+    ],
+    "87.30204640773412": " user purpose : search",
+    "81.89824567459564": [
+      "of",
+      " user purpose :"
+    ],
+    "63.998987875869894": [
+      "to the",
+      " user purpose :"
+    ],
+    "75.0497991310346": " user purpose : to the",
+    "56.41830345376042": [
+      "the",
+      "The user purpose : How to"
+    ],
+    "81.16527946304839": "The user purpose : To a",
+    "89.89701736865665": [
+      "purpose of",
+      "pm user purpose :"
+    ],
+    "91.23835704094827": "pm user purpose : user",
+    "65.46117392090773": " For user purpose : for",
+    "57.64510713416312": "for user purpose : /",
+    "70.39031814541619": " For user purpose : for this",
+    "79.93045856640798": [
+      "ratingbook",
+      "0 user purpose :"
+    ],
+    "106.2929911572617": "0 user purpose :book",
+    "49.66355697131063": " user purpose : I want to /",
+    "62.03851737663679": [
+      "alarm",
+      " Alarm user purpose :"
+    ],
+    "87.42794510488999": [
+      "book",
+      "books user purpose :"
+    ],
+    "93.01329952808253": "by user purpose :book",
+    "78.74715728473289": [
+      "The",
+      "What is the user purpose ly trying to"
+    ],
+    "48.35293834580273": [
+      "purpose of",
+      " user purpose : I want to"
+    ],
+    "61.67640123437124": " user purpose : I want to!",
+    "60.42994690311362": " user purpose : I want to?",
+    "50.3517598357619": " user purpose : I want to? user",
+    "60.673978771821595": [
+      "new",
+      "New user purpose : To"
+    ],
+    "64.66710892661732": "The user purpose is to Default",
+    "73.83607297727046": "What is the user purpose : To The",
+    "52.475075165884036": [
+      "music",
+      ", user purpose :"
+    ],
+    "69.4586358770641": " user purpose : user /",
+    "80.60560301493356": " user purpose : user id",
+    "65.42482166481985": " user purpose : user id/user",
+    "64.56013770877796": [
+      "alarm",
+      "for user purpose to"
+    ],
+    "78.69962512525119": "for user purpose :s set by",
+    "76.98843589048388": [
+      "the",
+      " The user purpose : To"
+    ],
+    "94.67600585638957": " user purpose : To,",
+    "79.41101593365339": " user purpose of:",
+    "59.21364692259702": [
+      "to the",
+      " The user purpose :"
+    ],
+    "63.07487494571571": [
+      "the",
+      " The user purpose : to"
+    ],
+    "48.64175340595545": [
+      "Purpose of the",
+      " The user purpose is to"
+    ],
+    "62.40689274000624": [
+      "Purpose of",
+      " The user purpose is to"
+    ],
+    "54.409392734593496": " user purpose : To for user to",
+    "78.21989597497395": " user purpose : To to",
+    "74.9020750940274": [
+      "reminder",
+      " user purpose :"
+    ],
+    "85.69154141767392": " user purpose : To for this",
+    "72.61721821829396": " user purpose : to for",
+    "73.56825335330988": "What user purpose : How to a",
+    "40.157442195087185": [
+      "Ask the",
+      "The user purpose : To"
+    ],
+    "61.889929338066146": [
+      "For the",
+      "The user purpose : To"
+    ],
+    "67.11660685368074": "The user purpose is to A",
+    "99.24354423987752": "The user purpose is to This",
+    "57.63206332682031": [
+      "for the",
+      " The user purpose :"
+    ],
+    "69.17103928319017": [
+      "a",
+      " A user purpose :"
+    ],
+    "63.51150943482102": [
+      "of the",
+      " user purpose :"
+    ],
+    "98.6652025477677": " user purpose :'s",
+    "87.1401539634967": [
+      "purpose of",
+      "s user purpose :"
+    ],
+    "54.96026066462194": [
+      "alarm",
+      " Alarm user purpose : To"
+    ],
+    "64.28973468763914": [
+      "Alarm",
+      "alarm user purpose :"
+    ],
+    "66.86665206414216": [
+      "",
+      "for user purpose :"
+    ],
+    "67.81106985137222": " user purpose : for a",
+    "66.64359596579985": "for user purpose :,",
+    "41.787507316575244": [
+      "asks the",
+      " The user purpose is to"
+    ],
+    "45.2846819714542": [
+      "of the",
+      " The user purpose is to"
+    ],
+    "71.98495095908763": [
+      "for",
+      "to user purpose :"
+    ],
+    "74.04829706702668": "Is the user purpose ly trying to What",
+    "59.2699693123178": "What is the user purpose ? How to and",
+    "79.81686802373747": [
+      "remind",
+      " user purpose :"
+    ],
+    "60.10979715258804": [
+      "search",
+      "by user purpose :"
+    ],
+    "72.59543374616601": [
+      "",
+      "by user purpose :"
+    ],
+    "82.78880173895574": [
+      "query",
+      " user purpose :"
+    ],
+    "69.2400822587": "What is the user purpose : To and",
+    "98.19162791636917": "What user purpose : To a",
+    "65.19309393731568": [
+      "alarm",
+      ", user purpose :"
+    ],
+    "62.14211383657977": " The user purpose : for the",
+    "48.10690880921534": "according to the user purpose :,",
+    "57.19846052137075": "The user purpose is to a",
+    "59.07282147709541": [
+      "for this",
+      " user purpose :"
+    ],
+    "74.66509107293602": [
+      "by",
+      " user purpose :"
+    ],
+    "73.18534725188833": " user purpose : st louis, missouri",
+    "71.75649388962552": " user purpose : help me?",
+    "68.47146239722647": "! user purpose :",
+    "48.32024318459169": [
+      "The",
+      "What is the user purpose ? How do you"
+    ],
+    "71.28457787198553": [
+      "The",
+      "What is the user purpose ? Where to"
+    ],
+    "43.41549686186489": "What is the user purpose ? How to what",
+    "33.463788638386134": "What is the user purpose ? How do you what",
+    "61.67689008572293": [
+      "for the",
+      " user purpose :"
+    ],
+    "80.00392217859685": "The user purpose of setting reminder: To to",
+    "94.91080320722357": "for user purpose : alarm",
+    "47.99875217569894": "according to user purpose : for the",
+    "55.18048358188639": [
+      "asks the",
+      " The user purpose of"
+    ],
+    "57.92969192811506": [
+      "asks the",
+      " user purpose :"
+    ],
+    "60.86051695192024": [
+      "Reminder",
+      "Set reminder user purpose : To"
+    ],
+    "71.1474714455739": [
+      "Reminder",
+      "The user purpose : To"
+    ],
+    "33.45914915783347": [
+      "Question from",
+      "Answered by user purpose : To"
+    ],
+    "50.165082874866734": [
+      "Question from",
+      "Answered by user purpose ly to"
+    ],
+    "87.09984633968196": "This user purpose is to The",
+    "77.60677678298315": [
+      " purpose of",
+      " user purpose :"
+    ],
+    "64.21322219542195": [
+      "purpose of",
+      " user purpose : add to playlist"
+    ],
+    "57.62026610996721": [
+      "",
+      "of the user purpose :"
+    ],
+    "55.63698208183607": [
+      "a",
+      ", user purpose :"
+    ],
+    "57.711455710078354": "/ user purpose : for",
+    "58.19947389655896": [
+      "for",
+      "For user purpose :"
+    ],
+    "44.41647686713444": "Default user purpose : I want to",
+    "64.36789342884335": [
+      "playlist",
+      "list user purpose :"
+    ],
+    "101.93185909643083": "list user purpose : playlist",
+    "87.37952200462526": [
+      "setting",
+      " user purpose : To"
+    ]
+  }
+}

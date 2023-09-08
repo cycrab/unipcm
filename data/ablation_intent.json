@@ -1,0 +1,30 @@
+[
+  [
+    "? LOG user:",
+    "SUBSCRIBE. SIGN"
+  ],
+  [
+    "REGISTER user:",
+    "LOG SIGN"
+  ],
+  [
+    "I can't user:",
+    "seem to Where did you"
+  ],
+  [
+    "REGISTER user:",
+    "LOG SUBSCRIBE"
+  ],
+  [
+    "Reminder user:",
+    "pm:"
+  ],
+  [
+    "SIGN user:",
+    "LOG SUBSCRIBE"
+  ],
+  [
+    "LOG user:",
+    "SIGN SUBSCRIBE"
+  ]
+]

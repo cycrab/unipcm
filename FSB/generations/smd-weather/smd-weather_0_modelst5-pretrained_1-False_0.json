@@ -1,0 +1,1317 @@
+{
+    "generation": [
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " The temperature in alhambra on friday is a low of 60F and a high of 70F."
+                ],
+                [
+                    "the temperature will be between 68-80F"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The weather in fresno will be cloudy and windy on Tuesday, with a low of 40F and a high of 30F."
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "the highest temperature in brentwood over the next two_days is a low of 60F on tuesday in alhambra"
+                ],
+                [
+                    "it will be 80f on tuesday in brentwood"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " I'm sorry, I don't understand."
+                ],
+                [
+                    "no problem"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Yes, it will be warm in compton on wednesday."
+                ],
+                [
+                    "it will not be warm in compton on wednesday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    " What city would you like to know about snow today?"
+                ],
+                [
+                    "it will not snow in cleveland today"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city would you like the forecast for?"
+                ],
+                [
+                    " Los Angeles is the only city with a snowy low of 70F."
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "saturday in oakland"
+                ],
+                [
+                    " The forecast for downtown Chicago for the next 7 days is a low of 60F on Monday, a high of 80F on Tuesday, and a low of 80F on Thursday."
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "affluent in oakland today and tomorrow"
+                ],
+                [
+                    " It will drizzle in durham today and tomorrow"
+                ],
+                [
+                    "it is not predicted to drizzle any today or tomorrow in durham"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city would you like to know the forecast for?"
+                ],
+                [
+                    " What city do you want to hear the forecast for?"
+                ],
+                [
+                    "it will be overcast today and stormy tomorrow in mountain_view"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    "it will be hot in brentwood this week"
+                ],
+                [
+                    "it should not be hot in brentwood this week"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "a drizzle is not expected in redwood city this weekend"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    " What city are you interested in?"
+                ],
+                [
+                    "i am glad i could help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "- - - - - - - - - - - - - - - - - - - - - - - -"
+                ],
+                [
+                    "i am sorry i do not understand"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "danville will be clear on thursday"
+                ],
+                [
+                    "i am sorry i do not understand your question"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "it will snow on wednesday"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    " What day do you want the weather for?"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "it will be dry in new_york on wednesday"
+                ],
+                [
+                    "it will be dry wednesday in new_york"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city would you like to know the weather for?"
+                ],
+                [
+                    " The forecast for seattle this week is a low of 60F and a high of 80F on Monday, a low of 60F and a high of 80F on Tuesday, a low of 60F and"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    "the weather in compton this week is a blizzard, with a high of 80f on tuesday"
+                ],
+                [
+                    "it will be rainy the first half of the week and then foggy the second and dry over the weekend in compton"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "it will be a little humid on tuesday"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    " It will not rain in Los Angeles next week."
+                ],
+                [
+                    "it will rain on saturday in los angeles"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "saturday will be warm in grand rapids"
+                ],
+                [
+                    "it will not be warm in grand_rapids on saturday"
+                ],
+                [
+                    "bye"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    "exeter"
+                ],
+                [
+                    "exeter"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The temperature in manhattan on wednesday will be 69 degrees."
+                ],
+                [
+                    "i am sorry i do not understand your question"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    "if it is foggy in fresno today and tomorrow it will be foggy in san francisco"
+                ],
+                [
+                    "it will not be foggy in fresno in the coming days"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "a little drizzle"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " The weather in durham for this week is raining."
+                ],
+                [
+                    " The weather in durham for the entire week is a low of 40F and a high of 70F."
+                ],
+                [
+                    "i am glad i could help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "if you are in San Mateo, it will be overcast or cloudy on Monday and Tuesday."
+                ],
+                [
+                    " The forecast for carson is for the following days: Monday, Tuesday, Thursday, Friday, Saturday, Sunday, and Sunday."
+                ],
+                [
+                    "it won t be overcast or cloudy at all this week in carson"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    " What city would you like the forecast for?"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " yes, it is humid in exeter."
+                ],
+                [
+                    "exeter"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "it will rain on wednesday in redwood_city"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "ahh, i see."
+                ],
+                [
+                    " yes, there will be hail tomorrow."
+                ],
+                [
+                    "it will rain"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather in the city"
+                ],
+                [
+                    " It is sunny in compton on sunday"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " The temperature in Seattle today is 68 degrees and tomorrow is 79 degrees."
+                ],
+                [
+                    "i am sorry i don't understand you"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "it will be foggy on tuesday in redwood_city"
+                ],
+                [
+                    "it will be cloudy but not foggy in redwood_city on tuesday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " It will not snow in oakland this week"
+                ],
+                [
+                    "it will snow on tuesday in mountain_view"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "san francisco saturday"
+                ],
+                [
+                    "san_francisco"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "a high of 80f is expected in durham on thursday"
+                ],
+                [
+                    " It will not rain in San Francisco this week."
+                ],
+                [
+                    "it is not going to rain in san_francisco this week"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    "it will be foggy today and tomorrow in Seattle"
+                ],
+                [
+                    "i am sorry i can t help you with that"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    " It will not be humid in compton on the 7 day forecast."
+                ],
+                [
+                    "it should not be humid in compton next_week"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "san francisco today"
+                ],
+                [
+                    " What day do you want the weather forecast for?"
+                ],
+                [
+                    "i am sorry i do not understand"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "a low of 60f"
+                ],
+                [
+                    "i am glad i could help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "san francisco"
+                ],
+                [
+                    " what city are you inquiring about?"
+                ],
+                [
+                    "blizzards are no longer predicted in durham"
+                ],
+                [
+                    "i am sorry i do not understand your question"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i am not sure what the weather is in new york"
+                ],
+                [
+                    "i would like to know about friday in new_york"
+                ],
+                [
+                    "it will be dry and between 30f - 50f friday in new_york"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Yes, it is cloudy in Cleveland today."
+                ],
+                [
+                    "it is cloudy right now in cleveland"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Yes, it is hailing in Manhattan."
+                ],
+                [
+                    "it is not hailing in manhattan, the forecast says it is dry today"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i don't see any cloudy forecasts for this week"
+                ],
+                [
+                    " It will not be cloudy in boston this week."
+                ],
+                [
+                    "i am glad i could help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What day would you like to check the weather for?"
+                ],
+                [
+                    " the temperature in new_york is a low of 60F and a high of 80F on a weekday in the city"
+                ],
+                [
+                    "it is between 50f - 70f in new_york right now"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " the temperature in manhattan will be between -40F on Monday and -40F on Tuesday."
+                ],
+                [
+                    "i m sorry i don t understand you"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i don't see any clear skies in fresno on wednesday"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " San Mateo is currently experiencing a high of 60f on Tuesday and a low of 60f on Wednesday."
+                ],
+                [
+                    "it will not snow in san_mateo this week"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    " The current temperature in Alameda is 94 degrees."
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "san francisco will be clear on friday"
+                ],
+                [
+                    "san francisco"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i am not sure if i am in the mood for snow today or tomorrow"
+                ],
+                [
+                    " Los Angeles is a city in the US."
+                ],
+                [
+                    "i am glad i could help"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    " There is no hail in seattle right now."
+                ],
+                [
+                    "i am sorry i do not understand your request"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " yes, it will snow in alameda this week"
+                ],
+                [
+                    "i am sorry i cant help you with that"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "forecast"
+                ],
+                [
+                    "it will be foggy on friday in camarillo"
+                ],
+                [
+                    "it will be foggy in camarillo on friday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "it will snow on wednesday"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "it will not be cloudy in inglewood next week"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i am not sure if the weather will be cloudy next week"
+                ],
+                [
+                    " i'm sorry, i don't understand your question."
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "blizzards are no longer predicted in alhambra on tuesday"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "it will be foggy in exeter on next week"
+                ],
+                [
+                    "no fog"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "a high of 88F"
+                ],
+                [
+                    "cleveland"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i am not sure if i can find that information"
+                ],
+                [
+                    "i m sorry i couldn t help you"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    "it will be stormy in manhattan over the next 7 days"
+                ],
+                [
+                    "it will be stormy in manhattan on wednesday and thursday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "it will be warm in los angeles on thursday"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "a high of 80f"
+                ],
+                [
+                    "cleveland"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Yes, it will be hot this weekend in Boston."
+                ],
+                [
+                    "the temperatures in seattle will be high this week and the hottest days will be monday and tuesday with 100f ( but pay attention, it s gonna rain too )"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Yes, it will be windy in los angeles on sunday."
+                ],
+                [
+                    "i am sorry i don't understand your question"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " What day do you want the weather for?"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Yes, it is supposed to snow today."
+                ],
+                [
+                    "i am sorry but corona is not predicted to snow today"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    " It is raining in oakland right now."
+                ],
+                [
+                    "ok"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "san francisco is currently a blizzard."
+                ],
+                [
+                    "there is currently snow in san_francisco"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " The temperature in San Jose this week is 81 degrees Fahrenheit."
+                ],
+                [
+                    "saturday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "san mateo is gonna be a stormy low 80f high 90f on thursday"
+                ],
+                [
+                    "saturday will be stormy on saturday, and hail on sunday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    "i want to know the temperature in los angeles this week"
+                ],
+                [
+                    "i am sorry i cant help you"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city would you like to check the weather for?"
+                ],
+                [
+                    " yes, it will be stormy in camarillo this week."
+                ],
+                [
+                    "i am sorry i do not understand your request"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "it will be windy in atherton on wednesday"
+                ],
+                [
+                    "it will not be windy in atherton in the next_few_days"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " redwood_city"
+                ],
+                [
+                    "it will rain on wednesday in redwood_city"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    " The temperature in Fresno this week is 69 degrees."
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    " yes, the wind is predicted to be about 0 mph."
+                ],
+                [
+                    "it will be windy tomorrow in seattle"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "it will be dry in redwood_city next week"
+                ],
+                [
+                    "i don't see any dry days in redwood city"
+                ],
+                [
+                    "it will not be dry in redwood_city next_week"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "a high of 80f"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    " The temperature in durham will be a low of 60F on Monday, low of 60F on Tuesday, low of 60F on Thursday, low of 60F on Friday, low of 60F on Saturday, low of 60"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " Yes, it will be cloudy on Monday in Manhattan."
+                ],
+                [
+                    "i am sorry i do not understand your question"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " It will not be hot in atherton tomorrow."
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    "san jose is a city in the east part of the state of california"
+                ],
+                [
+                    "san_jose"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "it will be windy in san francisco tomorrow"
+                ],
+                [
+                    "it should not be windy"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "saturday"
+                ],
+                [
+                    " Los Angeles is the city with the highest temperature in the forecast."
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    "san jose is a city in california."
+                ],
+                [
+                    "san_jose"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " What city do you need the 2 day temperature for?"
+                ],
+                [
+                    "i am sorry i don't understand you"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    " It will not snow today in oakland"
+                ],
+                [
+                    "i am gonna check for oakland"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " It will be cloudy in the afternoon in Fresno on Tuesday"
+                ],
+                [
+                    "i am sorry i do not understand your question"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "forecast"
+                ],
+                [
+                    " The humidity in oakland today is 0%"
+                ],
+                [
+                    "i am sorry i do not have the weather forecast for oakland today"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "i am not able to find any weather information for grand rapids"
+                ],
+                [
+                    "i would like to know the weather for friday in grand_rapids"
+                ],
+                [
+                    "i am glad i could help"
+                ],
+                [
+                    "i am sorry i do not understand your request"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "saturday"
+                ],
+                [
+                    "saturday"
+                ],
+                [
+                    "you are welcome"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " What city are you in?"
+                ],
+                [
+                    " What city would you like weather information about?"
+                ],
+                [
+                    "i am sorry i do not understand your question"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    " Yes, it is snowing in redwood city right now."
+                ],
+                [
+                    "it is cloudy in redwood_city today"
+                ],
+                [
+                    "it is cloudy in redwood_city today"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "weather"
+                ],
+                [
+                    " The forecast for cleveland for the next 7 days is not showing any windy conditions."
+                ],
+                [
+                    "it will not be windy in cleveland next_week"
+                ]
+            ]
+        }
+    ]
+}

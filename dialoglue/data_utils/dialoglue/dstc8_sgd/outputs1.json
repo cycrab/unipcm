@@ -1,0 +1,7254 @@
+[
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location Las Vegas leaving_date March 14th to_location Sacramento",
+    "pred": "to_location Sacramento leaving_date March 14th from_location Las Vegas"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "to_location SD",
+    "pred": "to_location SD"
+  },
+  {
+    "true": "leaving_date March 3rd from_location Anaheim",
+    "pred": "leaving_date March 3rd from_location Anaheim"
+  },
+  {
+    "true": "to_location Vegas",
+    "pred": "to_location Vegas"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date 3rd of this month",
+    "pred": "leaving_date 3rd of this month"
+  },
+  {
+    "true": "from_location New York to_location Philly",
+    "pred": "to_location Philly from_location New York"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date March 9th",
+    "pred": "leaving_date March 9th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date the 2nd from_location LAX to_location Anaheim, CA",
+    "pred": "to_location Anaheim, CA leaving_date the 2nd from_location LAX"
+  },
+  {
+    "true": "to_location San Diego",
+    "pred": "to_location San Diego"
+  },
+  {
+    "true": "from_location Fresno",
+    "pred": "from_location Fresno"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date 6th of this month from_location SF to_location Vegas",
+    "pred": "to_location Vegas leaving_date 6th of this month from_location SF"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location San Diego to_location Long Beach, CA",
+    "pred": "to_location Long Beach, CA from_location San Diego"
+  },
+  {
+    "true": "leaving_date 8th of March",
+    "pred": "leaving_date 8th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date March 9th from_location Philly to_location Washington",
+    "pred": "to_location Washington leaving_date March 9th from_location Philly"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date Tuesday next week",
+    "pred": "leaving_date Tuesday next week"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location Anaheim, CA leaving_date March 8th to_location Sacramento, CA",
+    "pred": "to_location Sacramento, CA leaving_date March 8th from_location Anaheim, CA"
+  },
+  {
+    "true": "leaving_date 9th of this month",
+    "pred": "leaving_date 9th of this month"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location SFO to_location Los Angeles",
+    "pred": "to_location Los Angeles from_location SFO"
+  },
+  {
+    "true": "leaving_date March 12th",
+    "pred": "leaving_date March 12th"
+  },
+  {
+    "true": "leaving_date 3rd of March",
+    "pred": "leaving_date 3rd of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date 14th of this month to_location Long Beach, CA",
+    "pred": "to_location Long Beach, CA leaving_date 14th of this month"
+  },
+  {
+    "true": "from_location Sacramento, CA",
+    "pred": "from_location Sacramento, CA"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "to_location Sacramento",
+    "pred": "to_location Sacramento"
+  },
+  {
+    "true": "from_location San Diego to_location Long Beach, CA",
+    "pred": "to_location Long Beach, CA from_location San Diego"
+  },
+  {
+    "true": "leaving_date Friday next week",
+    "pred": "leaving_date Friday next week"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location Los Angeles",
+    "pred": "from_location Los Angeles"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location San Diego",
+    "pred": "from_location San Diego"
+  },
+  {
+    "true": "leaving_date 10th of this month to_location San Francisco",
+    "pred": "to_location San Francisco leaving_date 10th of this month"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location Sacramento, CA leaving_date March 4th",
+    "pred": "leaving_date March 4th from_location Sacramento, CA"
+  },
+  {
+    "true": "to_location Las Vegas",
+    "pred": "to_location Las Vegas"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date the 11th",
+    "pred": "leaving_date the 11th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date 4th of this month",
+    "pred": "leaving_date 4th of this month"
+  },
+  {
+    "true": "from_location LA to_location Fresno",
+    "pred": "to_location Fresno from_location LA"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location Anaheim, Ca leaving_date March 7th",
+    "pred": "to_location Anaheim, Ca leaving_date March 7th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "to_location Long Beach, CA",
+    "pred": "to_location Long Beach, CA"
+  },
+  {
+    "true": "from_location LA leaving_date the 13th",
+    "pred": "from_location LA leaving_date the 13th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date this Sunday",
+    "pred": "leaving_date this Sunday"
+  },
+  {
+    "true": "from_location LAX to_location Long Beach, CA",
+    "pred": "to_location Long Beach, CA from_location LAX"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location Fresno leaving_date March 13th",
+    "pred": "to_location Fresno leaving_date March 13th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location Anaheim, CA leaving_date 3rd of March to_location SFO",
+    "pred": "to_location SFO leaving_date 3rd of March from_location Anaheim, CA"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "to_location Vegas",
+    "pred": "to_location Vegas"
+  },
+  {
+    "true": "leaving_date 13th of this month",
+    "pred": "leaving_date 13th of this month"
+  },
+  {
+    "true": "from_location Sacramento",
+    "pred": "from_location Sacramento"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date the 9th",
+    "pred": "leaving_date the 9th"
+  },
+  {
+    "true": "from_location LAX to_location SD",
+    "pred": "to_location SD from_location LAX"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date the 13th to_location San Francisco",
+    "pred": "to_location San Francisco leaving_date the 13th"
+  },
+  {
+    "true": "from_location San Diego",
+    "pred": "from_location San Diego"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location New York leaving_date this Sunday to_location Philadelphia",
+    "pred": "to_location Philadelphia leaving_date this Sunday from_location New York"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "to_location vegas",
+    "pred": "to_location vegas"
+  },
+  {
+    "true": "leaving_date Thursday next week",
+    "pred": "leaving_date Thursday next week"
+  },
+  {
+    "true": "from_location SFO",
+    "pred": "from_location SFO"
+  },
+  {
+    "true": "from_location Anaheim, CA leaving_date March 13th",
+    "pred": "leaving_date March 13th from_location Anaheim, CA"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date Saturday this week from_location LAX",
+    "pred": "leaving_date Saturday this week from_location LAX"
+  },
+  {
+    "true": "to_location Las Vegas",
+    "pred": "to_location Vegas"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date March 2nd to_location San Francisco",
+    "pred": "to_location San Francisco leaving_date March 2nd"
+  },
+  {
+    "true": "from_location San Diego",
+    "pred": "from_location San Diego"
+  },
+  {
+    "true": "leaving_date March 6th",
+    "pred": "leaving_date March 6th"
+  },
+  {
+    "true": "from_location Long Beach, CA to_location Fresno",
+    "pred": "to_location Fresno from_location Long Beach, CA"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date 14th of this month",
+    "pred": "leaving_date 14th of this month"
+  },
+  {
+    "true": "to_location Long Beach, CA",
+    "pred": "to_location Long Beach, CA"
+  },
+  {
+    "true": "from_location Sacramento",
+    "pred": "from_location Sacramento"
+  },
+  {
+    "true": "to_location Las Vegas",
+    "pred": "to_location Las Vegas"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location Vegas leaving_date 2nd of March",
+    "pred": "from_location Vegas leaving_date 2nd of March"
+  },
+  {
+    "true": "to_location Fresno",
+    "pred": "to_location Fresno"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location Vegas leaving_date 5th of March to_location Fresno",
+    "pred": "to_location Fresno leaving_date 5th of March from_location Vegas"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date 4th of March",
+    "pred": "leaving_date 4th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "to_location Anaheim, Ca",
+    "pred": "to_location Anaheim, Ca"
+  },
+  {
+    "true": "from_location Sacramento, CA leaving_date 14th of March",
+    "pred": "from_location Sacramento, CA leaving_date 14th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date the 10th from_location Long Beach, CA",
+    "pred": "leaving_date the 10th from_location Long Beach, CA"
+  },
+  {
+    "true": "to_location Los Angeles",
+    "pred": "to_location Los Angeles"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date 1st of this month",
+    "pred": "leaving_date 1st of this month"
+  },
+  {
+    "true": "to_location SFO",
+    "pred": "to_location SFO"
+  },
+  {
+    "true": "from_location Anaheim",
+    "pred": "from_location Anaheim"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date tomorrow from_location San Diego",
+    "pred": "to_location San Diego leaving_date tomorrow"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "to_location Los Angeles",
+    "pred": "to_location Los Angeles"
+  },
+  {
+    "true": "from_location SD leaving_date the 11th",
+    "pred": "from_location SD leaving_date the 11th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date 4th of March",
+    "pred": "leaving_date 4th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location SD leaving_date 13th of this month to_location Anaheim, CA",
+    "pred": "to_location Anaheim, CA leaving_date 13th of this month from_location SD"
+  },
+  {
+    "true": "from_location SFO to_location Sacramento",
+    "pred": "to_location Sacramento from_location SFO"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date the 14th",
+    "pred": "leaving_date the 14th"
+  },
+  {
+    "true": "from_location LA to_location SFO",
+    "pred": "to_location SFO from_location LA"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location Anaheim leaving_date March 8th to_location San Diego",
+    "pred": "to_location San Diego leaving_date March 8th from_location Anaheim"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location Fresno, CA",
+    "pred": "from_location Fresno, CA"
+  },
+  {
+    "true": "leaving_date 11th of this month to_location SFO",
+    "pred": "to_location SFO leaving_date 11th of this month"
+  },
+  {
+    "true": "from_location Anaheim, Ca",
+    "pred": "from_location Anaheim, Ca"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date the 7th",
+    "pred": "leaving_date the 7th"
+  },
+  {
+    "true": "from_location Long Beach, CA to_location Sacramento",
+    "pred": "to_location Sacramento from_location Long Beach, CA"
+  },
+  {
+    "true": "from_location Vegas to_location Fresno",
+    "pred": "to_location Fresno from_location Vegas"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date 8th of this month",
+    "pred": "leaving_date 8th of this month"
+  },
+  {
+    "true": "from_location Anaheim, Ca to_location Sacramento, CA",
+    "pred": "to_location Sacramento, CA from_location Anaheim, Ca"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date later today to_location Fresno, CA",
+    "pred": "to_location Fresno, CA leaving_date later today"
+  },
+  {
+    "true": "from_location Los Angeles",
+    "pred": "from_location Los Angeles"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location Fresno, CA",
+    "pred": "from_location Fresno, CA"
+  },
+  {
+    "true": "leaving_date March 1st to_location Anaheim, CA",
+    "pred": "to_location Anaheim, CA leaving_date March 1st"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location Anaheim leaving_date 5th of March",
+    "pred": "from_location Anaheim leaving_date 5th of March"
+  },
+  {
+    "true": "to_location San Diego",
+    "pred": "to_location San Diego"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date March 11th",
+    "pred": "leaving_date March 11th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "to_location Vegas",
+    "pred": "to_location Vegas"
+  },
+  {
+    "true": "from_location Sacramento leaving_date 3rd of March",
+    "pred": "to_location Sacramento leaving_date 3rd of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "from_location LAX",
+    "pred": "from_location LAX"
+  },
+  {
+    "true": "leaving_date the 14th",
+    "pred": "leaving_date the 14th"
+  },
+  {
+    "true": "to_location San Diego",
+    "pred": "to_location San Diego"
+  },
+  {
+    "true": "to_location Fresno, CA",
+    "pred": "to_location Fresno, CA"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "to_location LAX",
+    "pred": "to_location LAX"
+  },
+  {
+    "true": "from_location Vegas leaving_date 14th of this month",
+    "pred": "leaving_date 14th of this month from_location Vegas"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "leaving_date 4th of March from_location Long Beach to_location Sacramento, CA",
+    "pred": "to_location Sacramento, CA leaving_date 4th of March from_location Long Beach"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Anaheim, CA subcategory Baseball",
+    "pred": "subcategory Baseball city_of_event Anaheim, CA"
+  },
+  {
+    "true": "city_of_event NY date the 10th",
+    "pred": "date the 10th city_of_event NY"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event LAX",
+    "pred": "city_of_event LAX"
+  },
+  {
+    "true": "date March 11th subcategory Jazz",
+    "pred": "date March 11th subcategory Jazz"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event New York",
+    "pred": "city_of_event New York"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date 14th of march subcategory pop",
+    "pred": "date 14th of march subcategory pop"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event New York date 14th of this month",
+    "pred": "date 14th of this month city_of_event New York"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event LA",
+    "pred": "city_of_event LA"
+  },
+  {
+    "true": "date the 3rd subcategory American Football",
+    "pred": "date the 3rd event_name American Football"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Atlanta",
+    "pred": "city_of_event Atlanta"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Vancouver date the 14th",
+    "pred": "date the 14th city_of_event Vancouver"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "subcategory baseball",
+    "pred": "subcategory baseball"
+  },
+  {
+    "true": "city_of_event Phoenix, AZ",
+    "pred": "city_of_event Phoenix, AZ"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event LAX",
+    "pred": "city_of_event LAX"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date March 9th",
+    "pred": "date March 9th"
+  },
+  {
+    "true": "city_of_event Stanford subcategory American Football",
+    "pred": "subcategory American Football city_of_event Stanford"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Philadelphia",
+    "pred": "city_of_event Philadelphia"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Chi-town",
+    "pred": "city_of_event Chi-town"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date the 6th",
+    "pred": "date the 6th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event LAX",
+    "pred": "city_of_event LAX"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date the 6th subcategory Basketball",
+    "pred": "date the 6th event_name Basketball"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event San Francisco",
+    "pred": "city_of_event San Francisco"
+  },
+  {
+    "true": "date 5th of March",
+    "pred": "date 5th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event SD",
+    "pred": "city_of_event SD"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Toronto, Ontario date next wednesday",
+    "pred": "date next wednesday city_of_event Toronto, Ontario"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date 10th of this month",
+    "pred": "date 10th of this month"
+  },
+  {
+    "true": "city_of_event Atlanta",
+    "pred": "city_of_event Atlanta"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event SFO",
+    "pred": "city_of_event SFO"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Berkeley",
+    "pred": "city_of_event Berkeley"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event District of Columbia",
+    "pred": "city_of_event District of Columbia"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "subcategory baseball",
+    "pred": "subcategory baseball"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event New York",
+    "pred": "city_of_event New York"
+  },
+  {
+    "true": "subcategory blues",
+    "pred": "subcategory blues"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Sacramento subcategory Electronica",
+    "pred": "city_of_event Sacramento event_name Electronica"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date the 6th",
+    "pred": "date the 6th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event LAX",
+    "pred": "city_of_event LAX"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Washington",
+    "pred": "city_of_event Washington"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Portland",
+    "pred": "city_of_event Portland"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Chicago",
+    "pred": "city_of_event Chicago"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Chicago",
+    "pred": "city_of_event Chicago"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event New York",
+    "pred": "city_of_event New York"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date the 8th subcategory rock",
+    "pred": "date the 8th subcategory rock"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event NYC",
+    "pred": "city_of_event NYC"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date 2nd of March",
+    "pred": "date 2nd of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Los Angeles",
+    "pred": "city_of_event Los Angeles"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Anaheim",
+    "pred": "city_of_event Anaheim"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event NYC subcategory Hip Hop",
+    "pred": "subcategory Hip Hop city_of_event NYC"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event DC",
+    "pred": "city_of_event DC"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event London",
+    "pred": "city_of_event London"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date 12th of this month",
+    "pred": "date 12th of this month"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event berkeley subcategory blues",
+    "pred": "subcategory blues city_of_event berkeley"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": "city_of_events"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Phoenix",
+    "pred": "city_of_event Phoenix city"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Portland, OR",
+    "pred": "city_of_event Portland, OR"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date March 1ST",
+    "pred": "date March 1ST"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event District of Columbia",
+    "pred": "city_of_event District of Columbia"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date 9th of this month",
+    "pred": "date 9th of this month"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date today",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event New York City",
+    "pred": "city_of_event New York City"
+  },
+  {
+    "true": "subcategory Baseball",
+    "pred": "subcategory Baseball"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Phoenix, AZ",
+    "pred": "city_of_event Phoenix, AZ"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event New York",
+    "pred": "city_of_event New York"
+  },
+  {
+    "true": "subcategory Christian date the 10th",
+    "pred": "date the 10th subcategory Christian"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event SFO",
+    "pred": "city_of_event SFO"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Anaheim, CA",
+    "pred": "city_of_event Anaheim, CA"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event New York date tomorrow",
+    "pred": "date tomorrow city_of_event New York"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date Sunday this week",
+    "pred": "date Sunday this week"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Vancouver subcategory Rock",
+    "pred": "subcategory Rock city_of_event Vancouver"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event San Diego",
+    "pred": "city_of_event San Diego"
+  },
+  {
+    "true": "subcategory Pop",
+    "pred": "subcategory Pop"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event SD",
+    "pred": "city_of_event SD"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Philly",
+    "pred": "city_of_event Philly"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Stanford subcategory American football",
+    "pred": "subcategory American football city_of_event Stanford"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": "date this weekend"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event DC",
+    "pred": "city_of_event DC"
+  },
+  {
+    "true": "city_of_event New York",
+    "pred": "city_of_event New York"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Phoenix",
+    "pred": "city_of_event Phoenix"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Vancouver, BC",
+    "pred": "city_of_event Vancouver, BC"
+  },
+  {
+    "true": "city_of_event New York City date 5th of this month",
+    "pred": "date 5th of this month city_of_event New York City"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Yountville",
+    "pred": "city_of_event Yountville"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event LAX",
+    "pred": "city_of_event LAX"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date 3rd of March",
+    "pred": "date 3rd of March"
+  },
+  {
+    "true": "city_of_event Phoenix",
+    "pred": "city_of_event Phoenix"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event NY",
+    "pred": "city_of_event NY"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Stanford",
+    "pred": "city_of_event Stanford"
+  },
+  {
+    "true": "subcategory American Football",
+    "pred": "subcategory American Football"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Chi-town",
+    "pred": "city_of_event Chi-town"
+  },
+  {
+    "true": "subcategory Baseball",
+    "pred": "subcategory Baseball"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date the 1st",
+    "pred": "date the 1st"
+  },
+  {
+    "true": "city_of_event Atlanta, GA",
+    "pred": "city_of_event Atlanta, GA"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Toronto, Canada",
+    "pred": "city_of_event Toronto, Canada"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Atlanta, GA",
+    "pred": "city_of_event Atlanta, GA"
+  },
+  {
+    "true": "date March 9th",
+    "pred": "date March 9th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "subcategory American Football",
+    "pred": "subcategory American Football"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Toronto, Canada subcategory football",
+    "pred": "subcategory football city_of_event Toronto, Canada"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Los Angeles date this Saturday",
+    "pred": "date this Saturday city_of_event Los Angeles"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "subcategory Baseball",
+    "pred": "subcategory Baseball"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Toronto",
+    "pred": "city_of_event Toronto"
+  },
+  {
+    "true": "city_of_event New York",
+    "pred": "city_of_event New York"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Philly",
+    "pred": "city_of_event Philly"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date this Sunday",
+    "pred": "date this Sunday"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Philly",
+    "pred": "city_of_event Philly"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event London, UK",
+    "pred": "city_of_event London, UK"
+  },
+  {
+    "true": "subcategory Rock date later today",
+    "pred": "date later today subcategory Rock"
+  },
+  {
+    "true": "city_of_event NYC date March 9th",
+    "pred": "date March 9th city_of_event NYC"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Phoenix, AZ",
+    "pred": "city_of_event Phoenix, AZ"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event New York",
+    "pred": "city_of_event New York"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event NY",
+    "pred": "city_of_event NY"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event San Diego",
+    "pred": "city_of_event San Diego"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": "date March 10-15"
+  },
+  {
+    "true": "city_of_event NY",
+    "pred": "city_of_event NY"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Philadelphia",
+    "pred": "city_of_event Philadelphia"
+  },
+  {
+    "true": "date 13th of this month",
+    "pred": "date 13th of this month"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date March 9th",
+    "pred": "date March 9th"
+  },
+  {
+    "true": "city_of_event New York",
+    "pred": "city_of_event New York"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Atlanta",
+    "pred": "city_of_event Atlanta"
+  },
+  {
+    "true": "subcategory christian",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "date March 13th",
+    "pred": "date March 13th"
+  },
+  {
+    "true": "city_of_event Rohnert Park subcategory Country",
+    "pred": "subcategory Country city_of_event Rohnert Park"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "city_of_event Santa Rosa",
+    "pred": "city_of_event Santa Rosa"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Fremont",
+    "pred": "area Fremont"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": "area Sonoma County"
+  },
+  {
+    "true": "area Sebastopol",
+    "pred": "area Sebastopol"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Fairfield",
+    "pred": "area Fairfield"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Concord",
+    "pred": "area Concord"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Fremont",
+    "pred": "area Fremont"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Union City",
+    "pred": "area Union City"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Dublin",
+    "pred": "area Dublin"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Mountain View",
+    "pred": "area Mountain View"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Hayward",
+    "pred": "area Hayward"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Jose",
+    "pred": "area San Jose"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Castro Valley",
+    "pred": "area Castro Valley"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Napa",
+    "pred": "area Napa"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Fremont",
+    "pred": "area Fremont"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Hayward",
+    "pred": "area Hayward"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Rohnert Park",
+    "pred": "area Rohnert Park"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Milpitas",
+    "pred": "area Milpitas"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Jose",
+    "pred": "area San Jose"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Concord",
+    "pred": "area Concord"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Jose",
+    "pred": "area San Jose"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Livermore",
+    "pred": "area Livermore"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Hayward",
+    "pred": "area Hayward"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Santa Clara",
+    "pred": "area Santa Clara"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Suisun city",
+    "pred": "area Suisun city"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Berkeley",
+    "pred": "area Berkeley"
+  },
+  {
+    "true": "area Santa Rosa",
+    "pred": "to_location Santa Rosa"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Jose",
+    "pred": "area San Jose"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Mountain View",
+    "pred": "area Mountain View"
+  },
+  {
+    "true": "area Novato",
+    "pred": "area Novato"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Concord",
+    "pred": "area Concord"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Ramon",
+    "pred": "area San Ramon"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Foster City",
+    "pred": "area Foster City"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Santa Rosa",
+    "pred": "area Santa Rosa"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Fremont",
+    "pred": "area Fremont"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Leandro",
+    "pred": "area San Leandro"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Palo Alto",
+    "pred": "area Palo Alto"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Napa",
+    "pred": "area Napa"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Jose",
+    "pred": "area San Jose"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Mountain View",
+    "pred": "area Mountain View"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Fairfield",
+    "pred": "area Fairfield"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Pleasant Hill",
+    "pred": "area Pleasant Hill"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Sunnyvale",
+    "pred": "area Sunnyvale"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Newark",
+    "pred": "area Newark"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Vacaville",
+    "pred": "area Vacaville"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Vacaville",
+    "pred": "area Vacaville"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date March 11th",
+    "pred": "visit_date March 11th"
+  },
+  {
+    "true": "visit_date day after tomorrow",
+    "pred": "visit_date day after tomorrow"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Mountain View",
+    "pred": "area Mountain View"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 13th of this month",
+    "pred": "visit_date 13th of this month"
+  },
+  {
+    "true": "visit_date March 10th",
+    "pred": "visit_date March 10th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Milpitas",
+    "pred": "area Milpitas"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date this Saturday",
+    "pred": "visit_date this Saturday"
+  },
+  {
+    "true": "visit_date 6th of March",
+    "pred": "visit_date 6th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Ramon",
+    "pred": "area San Ramon"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 12th of this month",
+    "pred": "visit_date the 12th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Mountain View",
+    "pred": "area Mountain View"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 12th of March",
+    "pred": "visit_date 12th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Mountain View",
+    "pred": "area Mountain View"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date next Tuesday",
+    "pred": "visit_date next Tuesday"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Campbell",
+    "pred": "area Campbell"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date Monday next week",
+    "pred": "visit_date Monday next week"
+  },
+  {
+    "true": "visit_date the 2nd",
+    "pred": "visit_date the 2nd"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Jose",
+    "pred": "area San Jose"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 8th of this month",
+    "pred": "visit_date 8th of this month"
+  },
+  {
+    "true": "visit_date March 7th",
+    "pred": "visit_date March 7th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Hayward",
+    "pred": "area Hayward"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 13th of this month",
+    "pred": "visit_date 13th of this month"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Sunnyvale",
+    "pred": "area Santa Clara"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date the 14th",
+    "pred": "visit_date the 14th"
+  },
+  {
+    "true": "visit_date the 7th",
+    "pred": "visit_date the 7th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Jose",
+    "pred": "area San Jose"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 6th of this month",
+    "pred": "visit_date 6th of this month"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Jose",
+    "pred": "area San Jose"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 4th of March",
+    "pred": "visit_date 4th of March"
+  },
+  {
+    "true": "visit_date the 6th",
+    "pred": "visit_date the 6th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Santa Rosa",
+    "pred": "area Santa Rosa"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date Friday next week",
+    "pred": "visit_date Friday next week"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Oakland",
+    "pred": "area Oakland"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 11th of March",
+    "pred": "visit_date 11th of March"
+  },
+  {
+    "true": "visit_date 13th of this month",
+    "pred": "visit_date 13th of this month"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Hayward",
+    "pred": "area Hayward"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 14th of this month",
+    "pred": "visit_date 14th of this month"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Napa",
+    "pred": "area Napa"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date this Saturday",
+    "pred": "visit_date this Saturday"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Santa Clara",
+    "pred": "area Santa Clara"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date next Thursday",
+    "pred": "visit_date next Thursday"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Santa Rosa",
+    "pred": "area Santa Rosa"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date next Friday",
+    "pred": "visit_date next Friday"
+  },
+  {
+    "true": "visit_date 10th of March",
+    "pred": "date 10th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Petaluma",
+    "pred": "area Petaluma"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date Tuesday next week",
+    "pred": "visit_date Tuesday next week"
+  },
+  {
+    "true": "visit_date March 7th",
+    "pred": "visit_date March 7th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Palo Alto",
+    "pred": "area Palo Alto"
+  },
+  {
+    "true": "visit_date the 10th",
+    "pred": "visit_date the 10th"
+  },
+  {
+    "true": "visit_date 12th of this month",
+    "pred": "visit_date 12th of this month"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Jose",
+    "pred": "area San Jose"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date day after tomorrow",
+    "pred": "visit_date the day after tomorrow"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Jose",
+    "pred": "area San Jose"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 12th of March",
+    "pred": "visit_date 12th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Hayward",
+    "pred": "area Hayward"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date Monday next week",
+    "pred": "visit_date Monday next week"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Concord",
+    "pred": "area Concord"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date March 8th",
+    "pred": "visit_date March 8th"
+  },
+  {
+    "true": "visit_date Tuesday next week",
+    "pred": "visit_date Tuesday next week"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Foster City",
+    "pred": "area Foster City"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 13th of March",
+    "pred": "visit_date 13th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Hayward",
+    "pred": "area Hayward"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date the 13th",
+    "pred": "visit_date the 13th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Antioch",
+    "pred": "area Antioch"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date March 4th",
+    "pred": "visit_date March 4th"
+  },
+  {
+    "true": "visit_date 14th of March",
+    "pred": "date 14th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Napa",
+    "pred": "area Napa"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 2nd of this month",
+    "pred": "visit_date 2nd of this month"
+  },
+  {
+    "true": "visit_date 14th of March",
+    "pred": "visit_date 14th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Sunnyvale",
+    "pred": "area Sunnyvale"
+  },
+  {
+    "true": "area San Rafael",
+    "pred": "area San Rafael"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 14th of this month",
+    "pred": "visit_date 14th of this month"
+  },
+  {
+    "true": "visit_date Tuesday next week",
+    "pred": "visit_date Tuesday next week"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Rohnert Park",
+    "pred": "area Rohnert Park"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date March 4th",
+    "pred": "visit_date March 4th"
+  },
+  {
+    "true": "visit_date the 14th",
+    "pred": "date the 14th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Sunnyvale",
+    "pred": "area Sunnyvale"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 5th of March",
+    "pred": "visit_date 5th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Fremont",
+    "pred": "area Fremont"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 4th of this month",
+    "pred": "visit_date 4th of this month"
+  },
+  {
+    "true": "visit_date 5th of March",
+    "pred": "visit_date 5th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Vacaville",
+    "pred": "area Vacaville"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 13th of this month",
+    "pred": "visit_date 13th of this month"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Mateo",
+    "pred": "area San Mateo"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 4th of this month",
+    "pred": "visit_date 4th of this month"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Fremont",
+    "pred": "area Fremont"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date Next Monday",
+    "pred": "visit_date Next Monday"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Sunnyvale",
+    "pred": "area Sunnyvale"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date March 5th",
+    "pred": "visit_date March 5th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Pleasant hill",
+    "pred": "area Pleasant hill"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 9th of this month",
+    "pred": "visit_date 9th of this month"
+  },
+  {
+    "true": "visit_date the 12th",
+    "pred": "visit_date the 12th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Santa Rosa",
+    "pred": "area Santa Rosa"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 8th of march",
+    "pred": "visit_date 8th of march"
+  },
+  {
+    "true": "visit_date March 4th",
+    "pred": "visit_date March 4th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Jose",
+    "pred": "area San Jose"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 7th of March",
+    "pred": "visit_date 7th of March"
+  },
+  {
+    "true": "visit_date the 11th",
+    "pred": "visit_date the 11th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Cloverdale",
+    "pred": "area Cloverdale"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date Thursday next week",
+    "pred": "visit_date Thursday next week"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area San Jose",
+    "pred": "area San Jose"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date the 4th",
+    "pred": "visit_date the 4th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "area Hayward",
+    "pred": "area Hayward"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "visit_date 13th of March",
+    "pred": "visit_date 13th of March to Cypress Glen"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city LA",
+    "pred": "pickup_city LA"
+  },
+  {
+    "true": "pickup_time afternoon 1:30 pickup_date Next Thursday dropoff_date March 13th",
+    "pred": "pickup_date Next Thursday afternoon 1:30 dropoff_date March 13th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city Vancouver, BC pickup_date Monday next week",
+    "pred": "pickup_city Vancouver, BC pickup_date Monday next week"
+  },
+  {
+    "true": "pickup_time half past 4 in the evening",
+    "pred": "pickup_time half past 4 in the evening"
+  },
+  {
+    "true": "dropoff_date March 5th",
+    "pred": "dropoff_date March 5th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_time 4:30 in the evening dropoff_date 14th of March",
+    "pred": "dropoff_date 14th of March pickup_time 4:30 in the evening"
+  },
+  {
+    "true": "pickup_city Sacramento, CA pickup_date 7th of March",
+    "pred": "pickup_city Sacramento, CA pickup_date 7th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_time 14:30 dropoff_date Friday next week",
+    "pred": "pickup_time 14:30 dropoff_date Friday next week"
+  },
+  {
+    "true": "pickup_date 6th of March",
+    "pred": "pickup_date 6th of March"
+  },
+  {
+    "true": "pickup_city Toronto, Canada",
+    "pred": "pickup_city Toronto, Canada"
+  },
+  {
+    "true": "pickup_city Chicago",
+    "pred": "city_of_event Chicago"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_time afternoon 3:30",
+    "pred": "pickup_time afternoon 3:30"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city Phoenix pickup_date Friday next week dropoff_date the 10th",
+    "pred": "pickup_city Phoenix pickup_date Friday next week dropoff_date the 10th"
+  },
+  {
+    "true": "pickup_time half past 3 in the afternoon",
+    "pred": "pickup_time half past 3 in the afternoon"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city SD",
+    "pred": "pickup_city SD"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_time half past 9 in the morning dropoff_date the 14th",
+    "pred": "pickup_time half past 9 in the morning dropoff_date the 14th"
+  },
+  {
+    "true": "pickup_city Anaheim pickup_date March 13th",
+    "pred": "pickup_city Anaheim pickup_date March 13th"
+  },
+  {
+    "true": "pickup_date the 12th",
+    "pred": "pickup_date the 12th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_time evening 7:30",
+    "pred": "pickup_time evening 7:30"
+  },
+  {
+    "true": "pickup_city London, England pickup_date the 11th",
+    "pred": "pickup_date the 11th pickup_city London, England"
+  },
+  {
+    "true": "dropoff_date 14th of March",
+    "pred": "dropoff_date 14th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "dropoff_date the 12th pickup_time 1 o\"clock in the afternoon",
+    "pred": "dropoff_date the 12th pickup_time 1 o\"clock in the afternoon"
+  },
+  {
+    "true": "pickup_city ATL pickup_date March 9th",
+    "pred": "pickup_city ATL pickup_date March 9th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "dropoff_date 7th of this month",
+    "pred": "dropoff_date 7th of this month"
+  },
+  {
+    "true": "pickup_city SD pickup_date 3rd of March pickup_time 12 o\"clock in the afternoon",
+    "pred": "pickup_city SD pickup_date 3rd of March pickup_time 12 o\"clock in the afternoon"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city Washington",
+    "pred": "pickup_city Washington"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "dropoff_date 3rd of March",
+    "pred": "dropoff_date 3rd of March"
+  },
+  {
+    "true": "pickup_city SD pickup_date this Saturday pickup_time evening 4:30",
+    "pred": "pickup_city SD pickup_date this Saturday pickup_time evening 4:30"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city Long Beach, CA pickup_date 2nd of this month",
+    "pred": "pickup_date 2nd of this month pickup_city Long Beach, CA"
+  },
+  {
+    "true": "dropoff_date Tuesday next week pickup_time 2 pm",
+    "pred": "dropoff_date Tuesday next week pickup_time 2 pm"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "dropoff_date March 9th",
+    "pred": "dropoff_date March 9th"
+  },
+  {
+    "true": "pickup_city Seattle, WA",
+    "pred": "pickup_city Seattle, WA"
+  },
+  {
+    "true": "pickup_date Tuesday next week pickup_time 14:00",
+    "pred": "pickup_date Tuesday next week pickup_time 14:00"
+  },
+  {
+    "true": "dropoff_date 10th of this month",
+    "pred": "pickup_date 10th of this month"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_time 1:30 in the afternoon",
+    "pred": "pickup_time 1:30 in the afternoon"
+  },
+  {
+    "true": "pickup_city Washington pickup_date today dropoff_date March 5th",
+    "pred": "pickup_city Washington pickup_date today dropoff_date March 5th"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "dropoff_date 3rd of this month",
+    "pred": "pickup_date 3rd of this month"
+  },
+  {
+    "true": "pickup_city NY",
+    "pred": "pickup_city NY"
+  },
+  {
+    "true": "pickup_date 1st of this month pickup_time 6:30 in the evening",
+    "pred": "pickup_date 1st of this month pickup_time 6:30 in the evening"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city Paris pickup_time 18:30 dropoff_date March 5th",
+    "pred": "pickup_city Paris dropoff_date March 5th pickup_time 18:30"
+  },
+  {
+    "true": "pickup_date March 1st",
+    "pred": "pickup_date March 1st"
+  },
+  {
+    "true": "pickup_city Chi-town",
+    "pred": "pickup_city Chi-town"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "dropoff_date the 12th",
+    "pred": "dropoff_date the 12th"
+  },
+  {
+    "true": "pickup_city Anaheim pickup_date 11th of March pickup_time 18:00",
+    "pred": "pickup_date 11th of March pickup_city Anaheim pickup_time 18:00"
+  },
+  {
+    "true": "pickup_time 12 pm",
+    "pred": "pickup_time 12 pm"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city Philly pickup_time 10:30",
+    "pred": "pickup_city Philly pickup_time 10:30"
+  },
+  {
+    "true": "pickup_date Monday next week dropoff_date 7th of March",
+    "pred": "pickup_date Monday next week dropoff_date 7th of March"
+  },
+  {
+    "true": "pickup_date today",
+    "pred": "dropoff_date today"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_time 3 in the afternoon",
+    "pred": "pickup_time 3 in the afternoon"
+  },
+  {
+    "true": "pickup_date March 9th dropoff_date 11th of March",
+    "pred": "pickup_date March 9th dropoff_date 11th of March"
+  },
+  {
+    "true": "pickup_city Paris, France",
+    "pred": "pickup_city Paris, France"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city Paris pickup_date the 10th dropoff_date 12th of this month",
+    "pred": "pickup_city Paris pickup_date 10th dropoff_date 12th of this month"
+  },
+  {
+    "true": "pickup_time 5 pm",
+    "pred": "pickup_time 5 pm"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_date the 1st pickup_time 5:15 in the evening",
+    "pred": "pickup_date the 1st pickup_time 5:15 in the evening"
+  },
+  {
+    "true": "pickup_city San Diego dropoff_date next Monday",
+    "pred": "pickup_city San Diego dropoff_date next Monday"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city Portland, OR pickup_time 11 in the morning",
+    "pred": "pickup_city Portland, OR pickup_time 11 in the morning"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_date March 1st",
+    "pred": "pickup_date March 1st"
+  },
+  {
+    "true": "pickup_city Mexico City",
+    "pred": "pickup_city Mexico City"
+  },
+  {
+    "true": "dropoff_date this Saturday pickup_time 12:00",
+    "pred": "dropoff_date this Saturday pickup_time 12:00"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "dropoff_date March 11th pickup_date Tuesday next week pickup_time afternoon 3",
+    "pred": "pickup_date Tuesday next week dropoff_date March 11th pickup_time afternoon 3"
+  },
+  {
+    "true": "pickup_city Vancouver",
+    "pred": "pickup_city Vancouver"
+  },
+  {
+    "true": "dropoff_date 10th of March",
+    "pred": "dropoff_date 10th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city SD pickup_date next Thursday",
+    "pred": "pickup_city SD pickup_date next Thursday"
+  },
+  {
+    "true": "pickup_time half past 3 in the afternoon",
+    "pred": "pickup_time half past 3 in the afternoon"
+  },
+  {
+    "true": "dropoff_date 11th of March",
+    "pred": "dropoff_date 11th of March"
+  },
+  {
+    "true": "pickup_city Mexico city",
+    "pred": "pickup_city Mexico city"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city Phoenix pickup_date March 10th dropoff_date the 11th",
+    "pred": "pickup_city Phoenix dropoff_date March 10th dropoff_date the 11th"
+  },
+  {
+    "true": "pickup_time 9 am",
+    "pred": "pickup_time 9 am"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "dropoff_date next Tuesday pickup_time 6 in the evening",
+    "pred": "dropoff_date next Tuesday pickup_time 6 in the evening"
+  },
+  {
+    "true": "pickup_date 4th of March",
+    "pred": "pickup_date 4th of March"
+  },
+  {
+    "true": "pickup_city Washington",
+    "pred": "pickup_city Washington"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_time 5 pm",
+    "pred": "pickup_time 5 pm"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_time 12:00",
+    "pred": "pickup_time 12:00"
+  },
+  {
+    "true": "pickup_city Paris pickup_date next tuesday dropoff_date March 7th",
+    "pred": "pickup_city Paris pickup_date next tuesday dropoff_date March 7th"
+  },
+  {
+    "true": "pickup_city Anaheim",
+    "pred": "pickup_city Anaheim"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_date March 1st dropoff_date 6th of March",
+    "pred": "pickup_date March 1st dropoff_date 6th of March"
+  },
+  {
+    "true": "pickup_city LA pickup_time five in the evening",
+    "pred": "pickup_city LA pickup_time five in the evening"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_date March 8th",
+    "pred": "pickup_date March 8th"
+  },
+  {
+    "true": "pickup_city Philly dropoff_date 9th of March",
+    "pred": "pickup_city Philly dropoff_date 9th of March"
+  },
+  {
+    "true": "pickup_time twelve pm",
+    "pred": "pickup_time twelve pm"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city Vancouver",
+    "pred": "pickup_city Vancouver"
+  },
+  {
+    "true": "pickup_time 3 in the afternoon pickup_date 10th of this month dropoff_date the 11th",
+    "pred": "pickup_date 10th of this month dropoff_date the 11th pickup_time 3 in the afternoon"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city Los Angeles pickup_date 12th of march pickup_time 1:30 in the afternoon",
+    "pred": "pickup_city Los Angeles pickup_date 12th of march pickup_time 1:30 in the afternoon"
+  },
+  {
+    "true": "dropoff_date March 13th",
+    "pred": "dropoff_date March 13th"
+  },
+  {
+    "true": "pickup_city Las Vegas",
+    "pred": "pickup_city Las Vegas"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "dropoff_date March 13th",
+    "pred": "dropoff_date March 13th"
+  },
+  {
+    "true": "pickup_city Chicago pickup_time 1:30 pm",
+    "pred": "pickup_city Chicago pickup_time 1:30 pm"
+  },
+  {
+    "true": "pickup_date Friday next week",
+    "pred": "pickup_date Friday next week"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city Philadelphia",
+    "pred": "pickup_city Philadelphia"
+  },
+  {
+    "true": "pickup_date 6th of march",
+    "pred": "pickup_date 6th of march"
+  },
+  {
+    "true": "dropoff_date next Thursday",
+    "pred": "dropoff_date next Thursday"
+  },
+  {
+    "true": "pickup_time 2 pm",
+    "pred": "pickup_time 2 pm in afternoon"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city Sydney, Australia pickup_date the 4th dropoff_date 9th of this month",
+    "pred": "pickup_date the 4th pickup_city Sydney, Australia dropoff_date 9th of this month"
+  },
+  {
+    "true": "pickup_time 3 in the afternoon",
+    "pred": "pickup_time 3 in the afternoon"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city Portland, OR pickup_time 9:30 in the morning",
+    "pred": "pickup_city Portland, OR pickup_time 9:30 in the morning"
+  },
+  {
+    "true": "pickup_date 7th of March dropoff_date March 8th",
+    "pred": "pickup_date 7th of March dropoff_date March 8th"
+  },
+  {
+    "true": "pickup_city Philly",
+    "pred": "pickup_city Philly"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "dropoff_date Thursday next week",
+    "pred": "pickup_date Thursday next week"
+  },
+  {
+    "true": "pickup_city SF pickup_date 3rd of this month pickup_time 8 in the night",
+    "pred": "pickup_city SF pickup_date 3rd of this month pickup_time 8 in the night"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city SF pickup_date the 9th dropoff_date 12th of March",
+    "pred": "pickup_city SF pickup_date 9th dropoff_date 12th of March"
+  },
+  {
+    "true": "pickup_time half past 3 in the afternoon",
+    "pred": "pickup_time half past 3 in the afternoon"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_date 11th of March",
+    "pred": "pickup_date 11th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_city NYC pickup_date March 5th dropoff_date 10th of March",
+    "pred": "pickup_city NYC pickup_date March 5th dropoff_date 10th of March"
+  },
+  {
+    "true": "pickup_time five pm",
+    "pred": "pickup_time five pm"
+  },
+  {
+    "true": "dropoff_date 9th of March",
+    "pred": "dropoff_date 9th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "dropoff_date the 10th",
+    "pred": "dropoff_date the 10th"
+  },
+  {
+    "true": "pickup_city Fresno, CA pickup_date next Thursday pickup_time half past 3 in the afternoon",
+    "pred": "pickup_city Fresno, CA pickup_date next Thursday pickup_time half past 3 in the afternoon"
+  },
+  {
+    "true": "pickup_date 5th of March",
+    "pred": "pickup_date 5th of March"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "pickup_time half past 1 in the afternoon",
+    "pred": "pickup_time half past 1 in the afternoon"
+  },
+  {
+    "true": "pickup_city Vancouver, BC pickup_date Wednesday next week dropoff_date next Thursday",
+    "pred": "pickup_city Vancouver, BC pickup_date Wednesday next week dropoff_date next Thursday"
+  },
+  {
+    "true": "",
+    "pred": ""
+  },
+  {
+    "true": "",
+    "pred": ""
+  }
+]

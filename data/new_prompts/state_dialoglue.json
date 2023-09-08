@@ -1,0 +1,38 @@
+[
+  [
+    "Question from a user:",
+    "Answered by the user state :"
+  ],
+  [
+    "Question from user:",
+    "Answered by user info :"
+  ],
+  [
+    "Question from user:",
+    "Answered by user information:"
+  ],
+  [
+    "user:",
+    "What is the user state ?"
+  ],
+  [
+    "user:",
+    "The user state is:"
+  ],
+  [
+    "Message from user:",
+    "This user information belongs to the"
+  ],
+  [
+    "Ask a user:",
+    "Enter your user information in the box below: "
+  ],
+  [
+    "Last user:",
+    "This user information is last updated on: "
+  ],
+  [
+    "user:",
+    "The user information :"
+  ]
+]

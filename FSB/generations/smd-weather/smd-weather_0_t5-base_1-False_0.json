@@ -1,0 +1,1317 @@
+{
+    "generation": [
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 80f high 90f san_francisco saturday cloudy low 40f high 60f san_francisco thursday warm low low 50f high 70f durham"
+                ],
+                [
+                    "danville monday hot low 90f high 100f danville thursday overcast low 80f high 100f danville friday warm low 50f high 70f san_francisco s"
+                ],
+                [
+                    "danville monday hot low 90f high 100f danville thursday overcast low 80f high 100f danville friday warm low 50f high 70f durham saturday rain low 80f"
+                ],
+                [
+                    "low 80f high 90f san_francisco saturday warm low low 50f high 70f durham saturday hail low 70f high 80f durham saturday overcast low"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 60f san_francisco thursday fog low 40f high 60f san_francisco thursday fog low 40f high 60f san_"
+                ],
+                [
+                    "low 60f high 60f san_francisco thursday fog low 40f high 60f san_francisco thursday rain low 70f high 90f atherton"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 90f alhambra saturday low 60f high 60f alhambra saturday overcast low 50f high 60f alhambra saturday overcast low 50f high"
+                ],
+                [
+                    "low 60f high 80f alhambra saturday low 60f high 80f alhambra saturday overcast low 50f high 60f alhambra saturday overcast low 50f high"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 90f atherton saturday snow low 30f high 60f atherton saturday low 60f high 90f atherton saturday snow low 30f high 60f at"
+                ],
+                [
+                    "low 60f high 90f atherton saturday snow low 30f high 60f atherton saturday stormy low 30f high 60f atherton saturday stormy low 30f high"
+                ],
+                [
+                    "low 60f high 90f danville saturday snow low 30f high 60f danville thursday stormy low 30f high 40f danville thursday windy low 30f high"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 80f durham saturday blizzard low 30f high 50f boston monday snow low 40f high 50f durham tuesday overcast low 60f high 80"
+                ],
+                [
+                    "low 60f high 80f durham saturday overcast low 60f high 80f durham thursday rain low 60f high 80f durham saturday dry low 60f high 80f durham"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 50f high 90f san_jose saturday frost low 20f high 60f san_jose saturday raining low 20f high 60f san_"
+                ],
+                [
+                    "exeter monday warm low 90f high 100f cleveland tuesday drizzle low 60f high 80f exeter tuesday dry low 20f high 30f exeter"
+                ],
+                [
+                    "exeter monday warm low 90f high 100f cleveland monday warm low 90f high 100f exeter tuesday drizzle low 60f high 80f exeter tues"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 70f san_francisco saturday saturday saturday saturday saturday saturday saturday saturday s"
+                ],
+                [
+                    "low 60f high 70f san_francisco saturday san_francisco saturday san_francisco saturday san_franc"
+                ],
+                [
+                    "low 60f high 70f san_francisco saturday san_francisco saturday san_francisco saturday rain low 30f high 40"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "san_mateo saturday windy low 80f high 100f san_mateo saturday exeter monday overcast low 20f high 40f exeter thursday"
+                ],
+                [
+                    "san_mateo saturday windy low 80f high 100f san_mateo saturday san_mateo saturday frost low 20f high 40f exe"
+                ],
+                [
+                    "exeter saturday overcast low 40f high 60f exeter thursday stormy low 80f high 90f exeter saturday snow low 80f high 90f exeter"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 80f san_francisco saturday overcast low 20f high 60f san_francisco saturday dry low low 60f high 80f s"
+                ],
+                [
+                    "low 60f high 70f san_francisco saturday overcast low 20f high 30f exeter monday snow low 80f high 100f exeter thursday overcast low"
+                ],
+                [
+                    "low 60f high 70f san_francisco saturday overcast low 20f high 30f exeter monday snow low 80f high 100f exeter thursday overcast low"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 100f corona saturday overcast low 80f high 90f corona thursday dry low low 20f high 100f corona saturday overcast low 80f"
+                ],
+                [
+                    "low 20f high 50f corona saturday overcast low 80f high 90f corona thursday dry low 20f high 100f corona saturday dry low 20f high 50"
+                ],
+                [
+                    "low 20f high 70f corona saturday overcast low 80f high 90f corona thursday dry low 20f high 50f corona saturday dry low 20f high 60"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 80f high 60f exeter saturday blizzard low 50f high 60f exeter saturday exeter saturday blizzard low 50f high 60f"
+                ],
+                [
+                    "exeter monday hot low 90f high 100f exeter tuesday foggy low 50f high 60f exeter saturday dry low 80f high 100f exeter satur"
+                ],
+                [
+                    "low 80f high 60f exeter monday hot low 90f high 100f exeter tuesday foggy low 50f high 60f exeter saturday dry low 80f high 100"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 40f high 60f san_mateo saturday dry low 20f high 40f san_mateo saturday rain low 40f high 60f san_mateo s"
+                ],
+                [
+                    "low 50f high 60f san_mateo saturday dry low 20f high 40f san_mateo saturday rain low 40f high 60f san_mateo s"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 30f downtown_chicago saturday low 50f high 60f downtown_chicago saturday low 80f high 70f saturday weather:"
+                ],
+                [
+                    "low 20f high 50f downtown_chicago thursday windy low 50f high 100f downtown_chicago tuesday windy low 50f high 100f downtown_chicago"
+                ],
+                [
+                    "low low 60f high 70f alameda saturday overcast low 60f high 70f alameda saturday overcast low 60f high 70f alameda saturday over"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 30f oakland thursday stormy low low 20f high 30f oakland thursday overcast low 30f high 30f oakland thursday low 30f high"
+                ],
+                [
+                    "low 60f high 50f oakland thursday stormy low 20f high 30f oakland thursday overcast low 30f high 30f oakland thursday low 30f high 50"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 60f exeter saturday overcast low 50f high 60f exeter saturday snow low 20f high 40f exeter saturday overcast low 20f high"
+                ],
+                [
+                    "low 20f high 60f exeter saturday overcast low 20f high 60f exeter saturday snow low 20f high 60f exeter saturday overcast low 20f high"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 60f san_francisco saturday cloudy low 30f high 40f san_francisco thursday overcast low 60f high 60f s"
+                ],
+                [
+                    "low 60f high 70f san_francisco saturday cloudy low 30f high 50f san_francisco thursday overcast low 60f high 70f s"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low low 30f high 60f downtown_chicago saturday low low 60f high 100f downtown_chicago saturday overcast low 80f high 100f cleveland tu"
+                ],
+                [
+                    "low low 60f high 50f downtown_chicago saturday overcast low 80f high 100f cleveland tuesday clear_skies low 50f high 60f clevel"
+                ],
+                [
+                    "cleveland Assistant: thank you for your help."
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: new_york monday foggy low 80f high 100f new_york tuesday humid low 80f high 90f new_york saturday humid low 80f"
+                ],
+                [
+                    "KB: new_york monday foggy low 80f high 100f new_york tuesday humid low 80f high 90f new_york saturday humid low 80f"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 70f downtown_chicago saturday rain low 70f high 60f san_mateo saturday overcast low 30f high 60f san_mateo th"
+                ],
+                [
+                    "low 60f high 70f san_mateo saturday cloudy low 30f high 50f san_mateo thursday overcast low 50f high 60f san_mateo"
+                ],
+                [
+                    "low 80f high 70f san_mateo saturday cloudy low 30f high 50f san_mateo thursday overcast low 50f high 60f san_mateo"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 50f cleveland saturday low 80f high 100f cleveland saturday blizzard low 30f high 40f cleveland saturday"
+                ],
+                [
+                    "KB: durham monday windy low 70f high 80f durham tuesday overcast low 20f high 30f cleveland saturday clear_skies low 40f high 50"
+                ],
+                [
+                    "KB: durham monday windy low 70f high 80f durham tuesday overcast low 20f high 30f cleveland saturday snow low 30f high 50f clevel"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 50f high 50f san_jose saturday clear_skies low 70f high 80f san_jose saturday stormy low 20f high 40f"
+                ],
+                [
+                    "low 50f high 70f san_jose saturday low 60f high 70f fresno saturday stormy low 20f high 40f atherton tue"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 50f san_jose thursday low 30f high 50f san_jose saturday rain low 20f high 50f san_jos"
+                ],
+                [
+                    "low 30f high 50f san_jose saturday rain low 20f high 90f san_jose saturday cloudy low 20f high 50f san_jo"
+                ],
+                [
+                    "low 30f high 50f san_jose saturday rain low 80f high 100f danville monday rain low 80f high 80f danville thursday drizzle low 30f high"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "exeter monday rain low 80f high 100f exeter tuesday clear_skies low 50f high 70f exeter thursday drizzle low 40f high 50f exeter"
+                ],
+                [
+                    "low 60f high 60f san_jose saturday rain low 80f high 100f exeter monday rain low 80f high 100f exeter tuesday clear_ski"
+                ],
+                [
+                    "low 60f high 60f san_jose saturday rain low 80f high 100f exeter monday rain low 80f high 100f exeter tuesday clear_ski"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "high 80f san_francisco saturday rain low 60f high 70f san_francisco saturday saturday overcast low 40f high 60f s"
+                ],
+                [
+                    "exeter monday clear_skies low 70f high 90f exeter thursday windy low 40f high 60f exeter friday overcast low 90f high 100f san_fran"
+                ],
+                [
+                    "exeter monday clear_skies low 70f high 90f exeter friday overcast low 90f high 100f exeter saturday rain low 80f high 100f san_franc"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 50f san_mateo saturday frost low 40f high 60f san_mateo saturday frost low 40f high 60f san_mateo"
+                ],
+                [
+                    "frost low 60f high 50f san_mateo saturday frost low 40f high 60f san_mateo saturday dry low 60f high 50f fresno"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 60f seattle saturday rain low 40f high 60f seattle saturday rain low 40f high 60f seattle tuesday overcast low 20f high 60f"
+                ],
+                [
+                    "low 20f high 30f seattle saturday rain low 40f high 60f inglewood saturday dry low 20f high 60f inglewood saturday dry low 20f high 60f in"
+                ],
+                [
+                    "low 20f high 60f seattle saturday rain low 40f high 60f inglewood saturday overcast low 20f high 60f inglewood saturday rain low 40f high 60f"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 80f exeter saturday clear_skies low 30f high 50f exeter saturday snow low 70f high 90f exeter saturday clear_ski"
+                ],
+                [
+                    "low 60f high 80f exeter saturday clear_skies low 30f high 50f exeter saturday snow low 70f high 90f exeter saturday clear_ski"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 60f camarillo saturday fog low low 20f high 60f camarillo thursday dry low low 50f high 50f camarillo saturday frost"
+                ],
+                [
+                    "low 20f high 60f camarillo saturday fog low low 20f high 60f camarillo thursday dry low low 80f high 90f durham saturday rain low 50f"
+                ],
+                [
+                    "KB: camarillo monday overcast low 40f high 60f camarillo tuesday foggy low 60f high 60f camarillo saturday rain low 20f high 30"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 60f san_mateo saturday snow low 20f high 40f san_jose tuesday foggy low 20f high 60f san_"
+                ],
+                [
+                    "san_mateo monday blizzard low 50f high 60f san_mateo thursday clear_skies low 60f high 70f san_mateo saturday"
+                ],
+                [
+                    "low 20f high 60f san_jose saturday snow low 20f high 60f san_jose saturday foggy low 20f high 40f san_jo"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "rain low 20f high 40f camarillo saturday danville saturday fog low 70f high 90f danville thursday clear_skies low low 60f high 90"
+                ],
+                [
+                    "low low 60f high 60f camarillo saturday overcast low low 60f high 60f camarillo thursday warm low 80f high 90f camarillo saturday over"
+                ],
+                [
+                    "danville monday cloudy low 70f high 80f danville thursday clear_skies low 90f high 100f danville friday humid low 60f high 80f danville satur"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 80f high 50f carson saturday raining low 50f high 60f carson saturday cloudy low 80f high 60f corona monday stormy low 40f high 50f"
+                ],
+                [
+                    "low 80f high 50f exeter thursday frost low 40f high 50f exeter thursday dry low 70f high 90f exeter saturday raining low 80f high"
+                ],
+                [
+                    "low 80f high 60f corona thursday blizzard low 50f high 60f corona thursday blizzard low 50f high 60f corona thursday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 50f high 60f manhattan saturday low 50f high 60f seattle saturday low 40f high 60f tuesday tuesday"
+                ],
+                [
+                    "low 50f high 60f redwood_city saturday low 80f high 60f seattle tuesday low 60f high 60f tuesday?"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "cloudy low 40f high 60f seattle saturday dry low low 30f high 50f corona thursday dry low low 30f high 50f corona saturday dry low low 60"
+                ],
+                [
+                    "cloudy low 40f high 60f seattle thursday dry low low 60f high 50f seattle saturday dry low low 60f high 50f seattle saturday dry low low 60f high"
+                ],
+                [
+                    "KB: seattle monday hail low 30f high 40f seattle tuesday overcast low 40f high 60f seattle thursday dry low 30f high 50f seattle saturday"
+                ],
+                [
+                    "KB: seattle monday hail low 30f high 60f seattle tuesday overcast low 40f high 60f seattle thursday dry low 30f high 50f seattle saturday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 60f grand_rapids saturday overcast low low 40f high 60f grand_rapids thursday overcast low low 30f high 60f grand_rapi"
+                ],
+                [
+                    "KB: durham monday snow low 90f high 100f durham thursday hot low 80f high 100f durham saturday raining low 80f high 100f durham saturday cloudy"
+                ],
+                [
+                    "low 40f high 60f grand_rapids saturday overcast low low 30f high 60f grand_rapids thursday overcast low low 30f high 60f grand_rapi"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 90f seattle saturday snow low 70f high 90f seattle saturday overcast low 30f high 90f seattle saturday overcast low 30f high 90f sea"
+                ],
+                [
+                    "low 30f high 90f san_mateo thursday overcast low low 40f high 90f san_mateo tuesday cloudy low 40f high 60f san"
+                ],
+                [
+                    "low 30f high 90f san_mateo saturday snow low 70f high 90f san_mateo saturday cloudy low 30f high 90f san_mateo"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 50f high 70f san_mateo saturday fog low 40f high 50f cleveland monday snow low 40f high 60f cleveland tuesday cloudy"
+                ],
+                [
+                    "low 50f high 70f san_mateo saturday fog low 20f high 30f san_mateo thursday overcast low 60f high 60f san_mateo"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 80f high 90f oakland saturday clear_skies low 90f high 100f oakland thursday rain low 80f high 90f oakland saturday clear_ski"
+                ],
+                [
+                    "low 80f high 90f oakland saturday clear_skies low 90f high 100f oakland thursday raining low 80f high 90f oakland saturday clear_"
+                ],
+                [
+                    "low 80f high 90f oakland saturday clear_skies low 90f high 100f oakland thursday overcast low 30f high 50f oakland thursday raining"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 80f carson saturday fog low 20f high 50f camarillo saturday rain low 60f high 80f carson saturday blizzard low 40f high"
+                ],
+                [
+                    "low 60f high 80f san_francisco saturday fog low 20f high 30f san_jose saturday overcast low 20f high 30f san_"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 40f high 70f san_jose saturday fog low low 30f high 50f san_jose saturday rain low 40f high 70f san_jo"
+                ],
+                [
+                    "KB: durham monday cloudy low 20f high 30f durham tuesday clear_skies low 70f high 90f durham friday foggy low 30f high 40f durham"
+                ],
+                [
+                    "low 30f high 50f san_francisco saturday blizzard low 20f high 40f san_francisco saturday blizzard low 30f high"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 60f compton saturday rain low 30f high 60f compton saturday rain low 30f high 60f compton saturday rain low 30f high 60f compton"
+                ],
+                [
+                    "low low 30f high 60f compton saturday rain low 30f high 60f compton saturday rain low 30f high 60f compton saturday rain low 30f high 60f compton"
+                ],
+                [
+                    "low 30f high 60f low 30f high 60f compton saturday if it will be foggy today and tomorrow seatlle, i want to know the weather for tomorrow in seattle"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 60f san_francisco saturday rain low 20f high 40f boston tuesday blizzard low 40f high 60f boston tu"
+                ],
+                [
+                    "low 30f high 50f san_francisco saturday cloudy low 30f high 50f san_francisco thursday rain low 20f high 40f boston"
+                ],
+                [
+                    "low 30f high 50f san_francisco saturday cloudy low 30f high 50f san_francisco thursday raining low 20f high 40f boston"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 60f san_francisco saturday raining low 20f high 40f san_francisco saturday clear_skies low low 80f high"
+                ],
+                [
+                    "low 20f high 40f san_francisco saturday clear_skies low 80f high 100f san_francisco saturday raining low 20f high 40"
+                ],
+                [
+                    "low 20f high 40f san_francisco saturday rain low 20f high 40f san_francisco saturday clear_skies low 80f high 100f"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 40f durham saturday fog low 30f high 40f san_francisco tuesday foggy low 20f high 40f durham saturday rain"
+                ],
+                [
+                    "low 60f high 60f san_francisco saturday fog low 20f high 80f san_francisco tuesday fog low 30f high 40f s"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 90f san_mateo saturday fog low 40f high 60f san_mateo thursday blizzard low 30f high 40f san_mate"
+                ],
+                [
+                    "san_francisco monday cloudy low 90f high 100f san_mateo thursday blizzard low 30f high 40f cleveland thursday snow low 40"
+                ],
+                [
+                    "san_francisco monday rain low 90f high 100f san_mateo thursday frost low 30f high 50f san_mateo thursday frost low 20"
+                ],
+                [
+                    "san_francisco monday rain low 90f high 100f san_mateo thursday frost low 30f high 50f san_mateo thursday frost low 30"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 60f san_jose saturday fog low low 20f high 60f san_jose tuesday cloudy low 20f high 60f s"
+                ],
+                [
+                    "low 80f high 60f san_jose saturday fog low 20f high 60f san_jose tuesday cloudy low 20f high 60f san"
+                ],
+                [
+                    "low 80f high 60f san_jose saturday fog low 20f high 60f san_jose tuesday cloudy low 20f high 60f san"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 60f boston saturday snow low 40f high 60f danville monday overcast low 30f high 30f cleveland tuesday dew low 90f high"
+                ],
+                [
+                    "low 60f high 60f danville saturday low 60f high 60f danville thursday blizzard low 60f high 60f danville thursday blizzard"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 40f seattle thursday fog low 80f high 90f seattle saturday low 30f high 50f seattle thursday dry low 30f high 50f seattle th"
+                ],
+                [
+                    "low 20f high 40f seattle thursday rain low 60f high 70f carson monday snow low 90f high 100f carson thursday tuesday dry low 30f high 40"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 50f san_jose saturday low 40f high 60f cleveland tuesday overcast low low 70f high 90f boston satur"
+                ],
+                [
+                    "low 30f high 50f san_jose saturday low 40f high 60f boston saturday cleveland tuesday overcast low 70f high 90f"
+                ],
+                [
+                    "low 40f high 50f san_jose thursday low 40f high 50f boston saturday low 40f high 60f boston saturday user:"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 80f high 100f san_francisco saturday low 40f high 50f san_francisco saturday blizzard low low 40f high 60f"
+                ],
+                [
+                    "low 80f high 50f san_francisco saturday blizzard low 40f high 50f san_francisco thursday saturday blizzard"
+                ],
+                [
+                    "low 80f high 50f san_francisco saturday blizzard low 40f high 50f san_francisco saturday saturday blizzard"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "frost low 20f high 30f oakland saturday low low 80f high 70f danville thursday dew low 50f high 70f danville thursday dew low 50"
+                ],
+                [
+                    "KB: oakland monday drizzle low 20f high 30f oakland saturday humid low 50f high 70f oakland saturday humid low 50f high 70f danville thurs"
+                ],
+                [
+                    "low 30f high 50f danville saturday fog low 60f high 70f danville thursday dry low 20f high 30f danville thursday dew low 50f high 70"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 80f menlo_park saturday fog low 60f high 70f menlo_park thursday dew low low 60f high 100f menlo_park satur"
+                ],
+                [
+                    "KB: compton monday misty low 20f high 30f compton tuesday cloudy low 20f high 30f compton tuesday overcast low 50f high 60f compt"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low low 50f high 70f san_mateo saturday humid low 50f high 70f san_mateo saturday clear_skies low 60f high 80f mountain_view"
+                ],
+                [
+                    "low low 50f high 70f san_mateo saturday humid low 50f high 70f san_mateo saturday clear_skies low 60f high 80f san"
+                ],
+                [
+                    "low 50f high 70f san_mateo saturday humid low 50f high 70f san_mateo saturday clear_skies low 60f high 80f san_"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 30f san_mateo saturday overcast low 30f high 40f san_mateo saturday blizzard low 50f high 60f los_angeles"
+                ],
+                [
+                    "low 20f high 30f san_mateo saturday overcast low 30f high 40f san_mateo saturday blizzard low 50f high 60f los_angeles"
+                ],
+                [
+                    "low 20f high 40f san_mateo saturday overcast low 30f high 40f san_mateo saturday blizzard low 50f high 60f los_angeles"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "san_francisco monday blizzard low 40f high 50f san_mateo tuesday warm low 60f high 100f san_francisco th"
+                ],
+                [
+                    "san_francisco monday blizzard low 40f high 50f san_mateo tuesday warm low 60f high 100f san_mateo thursday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 80f san_mateo saturday snow low 40f high 80f san_mateo saturday raining low 40f high 60f san_mateo"
+                ],
+                [
+                    "low 60f high 80f san_mateo saturday raining low 40f high 60f san_mateo saturday saturday foggy low low 40f high 60f"
+                ],
+                [
+                    "low 60f high 80f exeter thursday cloudy low 70f high 80f exeter thursday clear_skies low 30f high 40f exeter thursday cloudy"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 90f san_francisco saturday fog low 20f high 30f san_francisco thursday dry low low 20f high 30f san"
+                ],
+                [
+                    "low 60f high 90f san_francisco saturday fog low 20f high 30f san_francisco thursday dry low low 20f high 30f san"
+                ],
+                [
+                    "low 60f high 90f san_francisco saturday fog low 20f high 30f san_francisco thursday dry low low 20f high 30f san"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 70f seattle saturday fog low 20f high 30f seattle thursday clear_skies low 20f high 40f seattle saturday fog low 20f high 30"
+                ],
+                [
+                    "low 60f high 70f seattle thursday fog low low 60f high 50f seattle thursday clear_skies low 20f high 40f seattle saturday fog low 60f high"
+                ],
+                [
+                    "low 60f high 70f seattle thursday fog low 60f high 70f seattle thursday clear_skies low 20f high 40f seattle thursday overcast low 60f high"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 40f high 60f redwood_city saturday frost low 90f high 100f boston saturday frost low 40f high 60f boston saturday frost low 40f high"
+                ],
+                [
+                    "low 40f high 60f boston saturday frost low 40f high 60f boston saturday frost low 40f high 60f boston saturday frost low 40f high 60f"
+                ],
+                [
+                    "low 40f high 60f exeter thursday overcast low 50f high 70f exeter tuesday rain low 30f high 50f exeter saturday cloudy low 20"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "KB: corona monday dry low 20f high 40f corona thursday overcast low 30f high 50f corona thursday overcast low 30f high 50f corona"
+                ],
+                [
+                    "KB: corona monday dry low 20f high 40f corona thursday overcast low 30f high 50f corona thursday drizzle low 60f high 70f fresno"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 60f atherton saturday rain low 20f high 30f atherton saturday cloudy low 40f high 60f atherton tuesday fog low 50f"
+                ],
+                [
+                    "low 30f high 60f atherton saturday rain low 20f high 30f atherton saturday cloudy low 40f high 60f atherton tuesday fog low 50f"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 50f carson saturday fog low 20f high 30f seattle tuesday cloudy low 20f high 40f seattle tuesday dew low low 30"
+                ],
+                [
+                    "low 30f high 50f seattle saturday fog low 20f high 40f seattle tuesday clear_skies low 40f high 90f seattle thursday clear_skie"
+                ],
+                [
+                    "low 30f high 50f seattle saturday fog low 20f high 40f seattle thursday clear_skies low 60f high 90f seattle thursday overcast low 30f high"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 70f san_mateo saturday humid low low 60f high 90f cleveland thursday windy low 20f high 90f cleveland friday warm low"
+                ],
+                [
+                    "low 60f high 70f san_mateo saturday cloudy low 20f high 80f san_mateo tuesday overcast low 50f high 70f exeter"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 90f exeter saturday rain low 20f high 60f exeter tuesday snow low 40f high 60f exeter tuesday clear_ski"
+                ],
+                [
+                    "low 20f high 60f exeter saturday snow low 40f high 100f exeter monday clear_skies low 40f high 60f exeter tuesday snow low 90"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 30f danville thursday rain low 90f high 100f danville saturday foggy low 30f high 30f danville saturday dry low 60f high 80"
+                ],
+                [
+                    "cleveland: this week the highest_temperature in cleveland will be 100f on saturday. cleveland: this week the highest_temperature in cleveland will be 100f"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 70f exeter thursday stormy low 40f high 60f exeter thursday raining low 30f high 50f exeter saturday raining low 60f"
+                ],
+                [
+                    "low 60f high 80f exeter saturday rain low 60f high 70f exeter saturday fog low 60f high 80f exeter saturday fog low 60f high 80f"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 30f exeter saturday rain low 20f high 30f exeter thursday stormy low 50f high 60f exeter tuesday overcast low 20"
+                ],
+                [
+                    "KB: san_francisco monday rain low 50f high 60f san_francisco tuesday cloudy low 40f high 50f san_franci"
+                ],
+                [
+                    "low 20f high 30f mountain_view saturday rain low 20f high 30f mountain_view saturday overcast low 20f high 40f exeter thursday stormy low 50f high"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 50f high 60f cleveland saturday rain low 70f high 90f cleveland saturday windy low 80f high 90f cleveland tuesday hot"
+                ],
+                [
+                    "low 50f high 60f cleveland saturday rain low 70f high 90f cleveland saturday windy low 80f high 90f cleveland tuesday hot"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 40f san_francisco saturday blizzard low 40f high 50f san_francisco saturday san_francisco"
+                ],
+                [
+                    "exeter monday snow low 50f high 70f exeter thursday cloudy low 50f high 60f exeter thursday dew low 20f high 60f exeter thursday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "frost low 20f high 40f san_mateo thursday dry low low 20f high 40f san_mateo saturday clear_skies low 60f high 90f"
+                ],
+                [
+                    "hottest days will be monday and tuesday with 100f ( but pay attention, it s gonna rain too ). hottest days will be monday and tuesday with"
+                ],
+                [
+                    "boston is expected to be hot this weekend with highs in the 90s while the lows are supposed to be 70s. the hottest days are expected to be monday and tuesday with 100f"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 30f danville friday humid low low 60f high 100f danville saturday rain low 20f high 30f danville friday drizzle low 60f high 70f danville"
+                ],
+                [
+                    "KB: menlo_park monday snow low 50f high 70f menlo_park thursday overcast low 80f high 90f menlo_park saturday dew low 30f high"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 60f exeter thursday raining low low 60f high 90f exeter saturday clear_skies low 80f high 100f exeter saturday over"
+                ],
+                [
+                    "KB: durham monday clear_skies low 80f high 100f durham thursday overcast low 60f high 80f durham friday snow low 30f high 40f downtown_chicago"
+                ],
+                [
+                    "KB: durham monday clear_skies low 80f high 100f durham thursday overcast low 60f high 80f durham friday snow low 30f high 90f exeter satur"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 60f manhattan saturday blizzard low 50f high 60f atherton saturday blizzard low 30f high 60f atherton thursday"
+                ],
+                [
+                    "low 60f high 70f corona saturday hot low 60f high 80f corona tuesday cloudy low 60f high 90f corona saturday humid low 60f"
+                ],
+                [
+                    "low low 60f high 70f atherton thursday dry low low 30f high 40f atherton thursday dry low low 50f high 70f atherton thursday dry low low 50"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 40f san_mateo saturday snow low low 30f high 40f san_mateo saturday snow low low 30f high 40f san_mateo"
+                ],
+                [
+                    "low 30f high 60f san_mateo saturday snow low low 30f high 60f san_mateo saturday snow low low 30f high 60f san_mateo"
+                ],
+                [
+                    "high 60f san_mateo saturday snow low 30f high 40f san_mateo saturday snow low 30f high 60f san_mateo saturday snow"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 80f san_francisco saturday humid low 60f high 80f san_francisco saturday dew low low 60f high 90f s"
+                ],
+                [
+                    "low 60f high 80f san_francisco saturday humid low low 20f high 60f san_francisco saturday blizzard low 20f high 40f"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "san_jose saturday snow low 30f high 90f san_jose thursday warm low 90f high 100f san_jose saturday snow"
+                ],
+                [
+                    "san_jose monday warm low 40f high 60f san_jose thursday warm low 90f high 100f san_jose friday snow low 30f high 90"
+                ],
+                [
+                    "san_jose : saturday - saturday - saturday - saturday - saturday - saturday - saturday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 80f cleveland saturday fog low 60f high 80f corona thursday fog low 60f high 80f corona thursday fog low 60f high 80"
+                ],
+                [
+                    "san_mateo: hail low 90f high 100f User: okay, thank you Assistant: san_mateo: stormy on saturday, and hail on sunday User: okay,"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 30f san_jose thursday fog low 20f high 30f san_jose thursday humid low 60f high 50f san_jos"
+                ],
+                [
+                    "low 20f high 30f san_jose saturday fog low 20f high 30f san_jose thursday fog low 20f high 30f san_jos"
+                ],
+                [
+                    "low 20f high 30f san_jose saturday fog low low 40f high 50f san_jose saturday overcast low 60f high 70f san_"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 70f san_francisco saturday raining low 60f high 80f san_mateo saturday blizzard low 20f high 30f s"
+                ],
+                [
+                    "low 60f high 70f san_francisco saturday raining low 60f high 100f san_mateo saturday raining low 60f high 90f san_"
+                ],
+                [
+                    "low 80f high 80f san_francisco saturday raining low 60f high 80f san_mateo saturday raining low 60f high 80f san_"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "san_jose monday hail low 30f high 50f san_jose thursday clear_skies low 50f high 70f san_jose thursday"
+                ],
+                [
+                    "KB: san_jose monday hail low 30f high 50f san_jose thursday misty low 40f high 50f san_jose thurs"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 90f san_jose saturday rain low 30f high 60f san_jose saturday exeter monday overcast low 60f high 80f"
+                ],
+                [
+                    "exeter monday snow low 60f high 80f exeter thursday clear_skies low 60f high 80f exeter thursday cloudy low 60f high 80f exeter"
+                ],
+                [
+                    "low 30f high 60f san_jose thursday overcast low 60f high 80f exeter saturday cloudy low 70f high 60f exeter saturday over"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 80f new_york saturday snow low 70f high 80f grand_rapids tuesday snow low 30f high 40f new_york s"
+                ],
+                [
+                    "low 60f high 80f oakland saturday raining low 70f high 80f oakland tuesday cloudy low 30f high 90f oakland tuesday over"
+                ],
+                [
+                    "KB: redwood_city monday raining low 40f high 60f redwood_city tuesday foggy low 80f high 100f redwood_city saturday clear_skies low"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 80f seattle saturday cloudy low 20f high 40f seattle tuesday overcast low 30f high 60f seattle saturday overcast low 30f high"
+                ],
+                [
+                    "low 60f high 80f seattle saturday warm low 70f high 80f high 80f seattle tuesday overcast low 30f high 50f seattle saturday overcast low 30"
+                ],
+                [
+                    "low 60f high 80f inglewood saturday snow low low 20f high 90f inglewood tuesday overcast low 30f high 50f inglewood saturday blizz"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 30f san_francisco saturday stormy low 60f high 60f exeter monday rain low 80f high 90f exeter tuesday cloud"
+                ],
+                [
+                    "exeter monday rain low 80f high 90f exeter tuesday cloudy low 20f high 30f exeter friday stormy low 20f high 30f exeter saturday"
+                ],
+                [
+                    "exeter monday rain low 80f high 90f exeter tuesday cloudy low 20f high 30f exeter friday stormy low 20f high 30f exeter saturday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 30f seattle saturday fog low 20f high 60f seattle tuesday stormy low 50f high 60f seattle tuesday blizzard low"
+                ],
+                [
+                    "low 20f high 30f redwood_city thursday fog low 20f high 60f redwood_city thursday dry low 70f high 90f atherton thursday dry low 70f high"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 90f san_jose saturday warm low 60f high 90f san_jose saturday low 60f high 90f san_jose"
+                ],
+                [
+                    "san_jose monday snow low 60f high 80f san_jose thursday clear_skies low 20f high 40f san_jose thursday"
+                ],
+                [
+                    "KB: san_jose monday snow low 60f high 80f san_jose thursday clear_skies low 20f high 40f san_jose"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 60f seattle thursday frost low 40f high 60f seattle saturday hail low 30f high 60f seattle saturday rain low 30f high 60f seattle"
+                ],
+                [
+                    "low 30f high 60f seattle thursday frost low 40f high 60f seattle saturday hail low 30f high 60f seattle thursday frost low 40f high 60f sea"
+                ],
+                [
+                    "low 30f high 60f corona thursday low 30f high 40f corona thursday overcast low 30f high 40f corona thursday overcast low 30f high"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 30f corona saturday low 20f high 30f corona saturday rain low 20f high 30f corona saturday low low 20f high 30f"
+                ],
+                [
+                    "low 20f high 30f corona saturday raining low 20f high 30f corona saturday cloudy low 20f high 30f corona saturday raining low 20f"
+                ],
+                [
+                    "low 20f high 30f corona saturday raining low low 20f high 30f corona saturday cloudy low 20f high 30f corona saturday raining low 20"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "rain low 50f high 60f san_mateo saturday humid low 50f high 60f san_mateo saturday humid low 50f high 60f san_mateo"
+                ],
+                [
+                    "san_jose monday overcast low 90f high 100f boston tuesday clear_skies low 50f high 60f san_jose saturday humid low"
+                ],
+                [
+                    "san_jose monday overcast low 60f high 80f san_jose tuesday overcast low 90f high 100f boston tuesday clear_ski"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 60f san_francisco saturday fog low 30f high 50f san_francisco thursday saturday saturday satur"
+                ],
+                [
+                    "low 60f high 60f san_francisco saturday frost low 50f high 60f san_francisco saturday saturday dew low 60f high"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low low 60f high 90f san_mateo saturday raining low low 60f high 90f san_mateo saturday saturday saturday saturday"
+                ],
+                [
+                    "low 60f high 70f san_mateo saturday raining low 40f high 60f san_mateo saturday clear_skies low 60f high 60f exeter"
+                ],
+                [
+                    "low 60f high 70f san_mateo saturday raining low 60f high 70f san_mateo saturday saturday cold low 70f high 90f san"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 90f durham saturday dry low low 20f high 40f san_jose thursday blizzard low 40f high 50f durham tues"
+                ],
+                [
+                    "low 60f high 90f downtown_chicago saturday fog low 40f high 60f downtown_chicago saturday dry low 20f high 50f durham tuesday bli"
+                ],
+                [
+                    "low 60f high 90f downtown_chicago saturday fog low 40f high 60f downtown_chicago saturday dry low 20f high 50f durham tuesday bli"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "rain low 30f high 40f exeter saturday cloudy low 30f high 40f exeter thursday rain low 30f high 40f exeter saturday cloudy low 30f"
+                ],
+                [
+                    "low 60f high 70f exeter saturday cloudy low 30f high 40f exeter saturday rain low 20f high 40f exeter saturday cloudy low 30f high"
+                ],
+                [
+                    "low 60f high 70f exeter saturday cloudy low 30f high 40f exeter saturday rain low 30f high 40f exeter saturday cloudy low 30f high"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 70f san_francisco saturday frost low 30f high 40f san_francisco saturday frost low 30f high 40f s"
+                ],
+                [
+                    "low 60f high 60f exeter saturday overcast low 60f high 50f exeter saturday clear_skies low 30f high 50f exeter saturday overcast"
+                ],
+                [
+                    "low 60f high 60f exeter monday snow low 60f high 80f exeter tuesday clear_skies low 30f high 50f exeter saturday overcast low"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 60f san_mateo saturday rain low 30f high 60f san_jose saturday overcast low 30f high 50f san_jos"
+                ],
+                [
+                    "low 30f high 60f san_mateo saturday rain low 30f high 60f san_mateo saturday san_jose thursday overcast low 30"
+                ],
+                [
+                    "low 30f high 60f san_mateo saturday rain low 20f high 40f san_mateo saturday saturday san_mateo saturday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low low 60f manhattan saturday low 60f manhattan saturday snow low 20f high 30f manhattan saturday overcast low 40f high 60f man"
+                ],
+                [
+                    "low 50f high 60f downtown_chicago saturday low 60f high 70f oakland saturday overcast low 40f high 60f oakland saturday overcast low 40"
+                ],
+                [
+                    "low 50f high 60f downtown_chicago saturday low 50f high 60f oakland saturday overcast low 40f high 60f manhattan thursday satur"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 20f high 30f san_francisco saturday fog low low 60f high 80f san_francisco saturday fog low low 20f high 30f s"
+                ],
+                [
+                    "KB: downtown_chicago monday cloudy low 80f high 90f downtown_chicago tuesday frost low 40f high 60f downtown_chicago saturday clear_ski"
+                ],
+                [
+                    "low 20f high 30f san_francisco thursday raining low low 60f high 70f san_francisco saturday fog low 20f high 30f s"
+                ],
+                [
+                    "low 20f high 30f san_francisco thursday raining low low 60f high 70f san_francisco saturday fog low 20f high 30f s"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 70f san_francisco saturday clear_skies low 50f high 70f san_francisco saturday clear_skies low 30"
+                ],
+                [
+                    "san_francisco monday cloudy low 60f high 80f san_francisco tuesday snow low 20f high 30f san_francisco s"
+                ],
+                [
+                    "san_francisco monday cloudy low 60f high 80f san_francisco thursday rain low 30f high 50f san_francisco saturday"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 80f san_francisco saturday overcast low low 60f high 80f san_francisco saturday overcast low low 60f high 80f"
+                ],
+                [
+                    "low 60f high 80f san_francisco saturday overcast low 60f high 80f san_francisco saturday rain low 60f high 90f san"
+                ],
+                [
+                    "low 30f high 80f san_francisco saturday overcast low 60f high 70f san_francisco saturday rain low 60f high 90f san"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 30f high 40f san_francisco saturday rain low 40f high 50f san_francisco saturday blizzard low 20f high 30f"
+                ],
+                [
+                    "low 40f high 50f san_francisco saturday rain low 40f high 50f san_francisco saturday blizzard low 20f high 30f"
+                ],
+                [
+                    "low 40f high 50f san_francisco saturday rain low 40f high 50f san_francisco saturday blizzard low 20f high 30f"
+                ]
+            ]
+        },
+        {
+            "meta": [],
+            "dialogue": [
+                [
+                    "low 60f high 100f cleveland saturday stormy low 30f high 50f cleveland tuesday blizzard low low 30f high 50f cleveland"
+                ],
+                [
+                    "low 60f high 100f cleveland saturday overcast low 60f high 80f cleveland saturday rain low 60f high 80f inglewood thursday raining low 50"
+                ],
+                [
+                    "low 60f high 100f cleveland saturday stormy low 70f high 100f cleveland saturday overcast low 60f high 100f cleveland saturday hot low"
+                ]
+            ]
+        }
+    ]
+}

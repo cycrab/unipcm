@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "main.py",
+            // python main.py -run_type train -backbone model/epoch9 -model_dir model/space
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args":[
+                "-run_type", "predict",//test_post
+                "-ckpt","pretrained_new/ckpt-epoch8",
+                "-output","result.json",
+                "-batch_size","16"
+            ]
+        }
+    ]
+}

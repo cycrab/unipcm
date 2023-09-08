@@ -1,0 +1,10 @@
+{
+  "answer-to-dialogue": 0.11705512102648877,
+  "baseline": 0.01876573603152598,
+  "generate-first-utterance": 0.16949905105317087,
+  "generate-last-utterance": 0.16456328309249363,
+  "read_the_following_conversation_and_answer_the_question": 0.0481922933116334,
+  "task description": 0.09260334513029876,
+  "no prompt": 0.06727705553491048,
+  "task description ahead": 0.09005561893972243
+}

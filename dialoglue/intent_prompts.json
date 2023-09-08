@@ -1,0 +1,30 @@
+[
+    [
+        "user: ",
+        "user intent: to "
+    ],
+    [
+        "user: ",
+        "What is the user intent? "
+    ],
+    [
+        "user: ",
+        "The user intent is: "
+    ],
+    [
+        "user: ",
+        "The user intent of this sentence is: "
+    ],
+    [
+        "user: ",
+        "Is it user intent to "
+    ],
+    [
+        "user: ",
+        "What is the user intent ? User intent:"
+    ],
+    [
+        "user: ",
+        "The user intent is to "
+    ]
+]

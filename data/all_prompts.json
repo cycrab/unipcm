@@ -1,0 +1,1824 @@
+{
+  "squad": [
+    "no prompt",
+    [
+      ".",
+      ": What was the name of your first single and",
+      "MAYU WATABE:"
+    ],
+    [
+      ".",
+      ": What was the name of your first single and",
+      "MAYU WATANA:"
+    ],
+    [
+      "Answer:",
+      ":",
+      "Answer:"
+    ],
+    [
+      "? Q:",
+      "K:",
+      "A:"
+    ],
+    [
+      "? Q:",
+      ":",
+      "A:"
+    ],
+    [
+      "? QUESTION:",
+      "F:",
+      "ANSWER:"
+    ]
+  ],
+  "quac": [
+    "no prompt",
+    [
+      "? Q:",
+      ":",
+      "A:"
+    ],
+    [
+      "? QUESTION:",
+      "F:",
+      "ANSWER:"
+    ],
+    [
+      ": The producers of",
+      ":",
+      "GOODREM:"
+    ],
+    [
+      "Q:",
+      "K:",
+      "A:"
+    ],
+    [
+      "? QUESTION:",
+      "K:",
+      "ANSWER:"
+    ]
+  ],
+  "narrativeqa": [
+    "task description ahead,Task description: given the passage, answer the question.",
+    "given_summary_answer_text",
+    [
+      "Question:",
+      "Q:",
+      "A:"
+    ],
+    [
+      "Question:",
+      "Q:",
+      "Answer:"
+    ],
+    [
+      "Synopsis:",
+      "Q.",
+      "Answer:"
+    ],
+    [
+      "1.",
+      "2.",
+      "3."
+    ],
+    [
+      "The young",
+      "1.",
+      "2."
+    ],
+    [
+      "Question:",
+      "Answer:",
+      "Answer:"
+    ],
+    [
+      ".",
+      "Question:",
+      "Answer:"
+    ],
+    [
+      ". Synopsis:",
+      "Question:",
+      "Answer:"
+    ],
+    [
+      "It was first published in the 5th century.",
+      "Question:",
+      "Answer:"
+    ],
+    [
+      ":",
+      "Question:",
+      "Answer:"
+    ]
+  ],
+  "race": [
+    "task description ahead,Task description: given the passage, answer the question.",
+    [
+      "About the competition:",
+      "Details:",
+      "The prize includes:"
+    ],
+    [
+      "Answer:",
+      "Q.",
+      "A:"
+    ],
+    [
+      "The moon was full.",
+      "!",
+      "Answer:"
+    ],
+    [
+      "Q:",
+      "A:",
+      "B:"
+    ],
+    [
+      "Summary:",
+      "Q:",
+      "A:"
+    ],
+    [
+      "A:",
+      "A:",
+      "A:"
+    ],
+    [
+      "Q:",
+      ". A:",
+      "A:"
+    ],
+    [
+      "A:",
+      "A :",
+      "A:"
+    ],
+    [
+      "Q:",
+      "Q:",
+      "A:"
+    ],
+    [
+      "Q:",
+      "A:",
+      "A:"
+    ]
+  ],
+  "doqa": [
+    "task description ahead,Task description: given the background and context, answer the question.",
+    [
+      "Q:",
+      "And",
+      "A:"
+    ],
+    [
+      "Q:",
+      "Also,",
+      "A:"
+    ],
+    [
+      "Q:",
+      "",
+      "A:"
+    ],
+    [
+      "Q:",
+      "Q:",
+      "A:"
+    ],
+    [
+      "Q:",
+      "If",
+      "A:"
+    ],
+    [
+      "Q :",
+      "Q:",
+      "A:"
+    ],
+    [
+      "Q:",
+      "Q :",
+      "A:"
+    ],
+    [
+      "A:",
+      "A :",
+      "A:"
+    ],
+    [
+      "A:",
+      "A:",
+      "A:"
+    ],
+    [
+      "Q:",
+      "Q:",
+      "A:"
+    ]
+  ],
+  "dream": [
+    "task description,Task description: given the passage, answer the question.",
+    "answer-to-dialogue",
+    "generate-first-utterance",
+    "generate-last-utterance",
+    [
+      "M: Is there a fan in the room?",
+      "M,",
+      "W."
+    ],
+    [
+      "M: Is there a fan in the room?",
+      "M,",
+      "W:"
+    ],
+    [
+      "M: Is there a fan in the room?",
+      "M.",
+      "W:"
+    ],
+    [
+      "M: Is there a fan in the room?",
+      "M.",
+      "W,"
+    ],
+    [
+      "Hello, Car Owner.",
+      "Question:",
+      "Answer:"
+    ],
+    [
+      "W: What's the weather report saying?",
+      "W:",
+      "M:"
+    ],
+    [
+      "W: What'll happen to the roads?",
+      "M:",
+      "M:"
+    ],
+    [
+      "Sally",
+      "Q:",
+      "A:"
+    ],
+    [
+      "W: What'll happen to the roads?",
+      "W:",
+      "M:"
+    ],
+    [
+      "M: You're right.",
+      "Q:",
+      "A:"
+    ]
+  ],
+  "dialog_re": [
+    "task description,Task description: given the dialog, find the relation bewtween the speakers.",
+    [
+      "Question 1:",
+      "Speaker 4:",
+      "Answer 2:"
+    ],
+    [
+      "?",
+      "Speaker 6:",
+      "This question is"
+    ],
+    [
+      "!",
+      "Q:",
+      "A:"
+    ],
+    [
+      "What do you think?",
+      "Q.",
+      "Answer::"
+    ],
+    [
+      "Is that right?",
+      "Q:",
+      "A:"
+    ],
+    [
+      "Children:",
+      "Children:",
+      "Children:"
+    ],
+    [
+      "!",
+      "Speaker 5:",
+      "This question is"
+    ],
+    [
+      "What do you think?",
+      "That's a good one.",
+      "Showing results"
+    ],
+    [
+      "?",
+      "Speaker 5:",
+      "This question is"
+    ],
+    [
+      "What do you think?",
+      "That's a good one.",
+      "Speaker 1 has"
+    ]
+  ],
+  "ddrel": [
+    "task description ahead,Task description: given the dialog, find the relation bewtween the two speakers."
+  ],
+  "friends_qa": [
+    "task description ahead,Task description: given the dialog, answer the question.",
+    [
+      ").",
+      "Question:",
+      "Answer:"
+    ],
+    [
+      "....",
+      "Question:",
+      "Answer:"
+    ],
+    [
+      "].",
+      "Question:",
+      "Answer:"
+    ],
+    [
+      "!",
+      "Question:",
+      "Answer:"
+    ],
+    [
+      "#Note#:",
+      "Question:",
+      "Answer:"
+    ],
+    [
+      "Question:",
+      "Question:",
+      "Answer:"
+    ],
+    [
+      "Question:",
+      "Question :",
+      "Answer:"
+    ],
+    [
+      "Question:",
+      "Question:",
+      "Question:"
+    ],
+    [
+      ".",
+      "Question:",
+      "Answer:"
+    ],
+    [
+      ".",
+      "! Question:",
+      "Answer:"
+    ]
+  ],
+  "molweni": [
+    "no prompt",
+    [
+      ". Question:",
+      "question:",
+      "answer:"
+    ],
+    [
+      ". Question:",
+      "question:",
+      "Answer:"
+    ],
+    [
+      "dr_williams:",
+      "Question:",
+      "Answer:"
+    ],
+    [
+      ".",
+      "looky:",
+      "mainvoid:"
+    ],
+    [
+      ".",
+      "looky:",
+      "mainvioji:"
+    ],
+    [
+      "?",
+      ". URL:",
+      "URL:"
+    ],
+    [
+      ".",
+      "Dissection:",
+      "dissection:"
+    ],
+    [
+      "variant:",
+      "! variant:",
+      "variant:"
+    ],
+    [
+      "me:",
+      "me:",
+      "me : what is the con? me:"
+    ],
+    [
+      "URL:",
+      ". URL:",
+      "URL:"
+    ]
+  ],
+  "mutual": [
+    "task description ahead,Task description: given the dialog context, predict the next utterance.",
+    [
+      ":",
+      "m f: i am a new classmate:"
+    ],
+    [
+      ":",
+      "f m: i am a new classmate:"
+    ],
+    [
+      ". M:",
+      "m f:"
+    ],
+    [
+      ". M:",
+      "M f:"
+    ],
+    [
+      ". M:",
+      "M m:"
+    ],
+    [
+      ". M:",
+      "m f:"
+    ],
+    [
+      ". M:",
+      "M f:"
+    ],
+    [
+      ".",
+      "f m:"
+    ],
+    [
+      ". M:",
+      "M m:"
+    ],
+    [
+      ". me:",
+      "me m:"
+    ]
+  ],
+  "spider": [
+    "task description ahead,Task description: translate the utterance into SQL format.",
+    [
+      "Payments:",
+      "Payments: Select all payments from the list."
+    ],
+    [
+      "Customers Order by Email Address and Phone Number",
+      "You can."
+    ],
+    [
+      "Service Names:",
+      "To get the list,."
+    ],
+    [
+      "2.",
+      "To do this, 3."
+    ],
+    [
+      "1.:",
+      "2. 3.:"
+    ],
+    [
+      "Cinema Count:",
+      "Please..."
+    ],
+    [
+      "2.",
+      "To do this, 3."
+    ],
+    [
+      "Step 1:",
+      "Step 2 Step 3:"
+    ],
+    [
+      "1:",
+      "2 : 3"
+    ]
+  ],
+  "sparc": [
+    "task description ahead,Task description: translate the utterance into SQL format.",
+    [
+      "Which is the least?",
+      "group by department desc"
+    ],
+    [
+      "2.",
+      "1. 2."
+    ],
+    [
+      "Step 1:",
+      "Step 2 Step 3:"
+    ],
+    [
+      "1.",
+      "2. 1."
+    ],
+    [
+      "1.",
+      "1. 2."
+    ],
+    [
+      ":",
+      ";, department_code by department.:"
+    ],
+    [
+      ".",
+      "Please Please select climbers by country."
+    ],
+    [
+      "to",
+      "// // :find event names with count > 2. //:"
+    ],
+    [
+      "limit 1",
+      "desc limit 2"
+    ],
+    [
+      ".:",
+      ": > 2000. > order them by date.."
+    ]
+  ],
+  "dailydialog": [
+    "task description,Task description: given the utterance, find the intention or the emotion.",
+    [
+      ".",
+      "no emotion?:"
+    ],
+    [
+      ",",
+      "no emotion::"
+    ],
+    [
+      "!",
+      "no emotion::"
+    ],
+    [
+      "?",
+      "no emotion::"
+    ],
+    [
+      "Emotion:",
+      "I have No emotion! There is"
+    ],
+    [
+      ".",
+      ":: : no emotion:::"
+    ],
+    [
+      ".",
+      "no emotion or?. : No emotion:"
+    ],
+    [
+      "?",
+      "there is.!? no emotion?"
+    ],
+    [
+      ".:",
+      "No emotion : no emotion:"
+    ],
+    [
+      ".:",
+      "No emotion : no emotion?:"
+    ]
+  ],
+  "personachat": [
+    "task description ahead,Task description: given the personality and context, predict the next utterance.",
+    [
+      "B:",
+      "Answer:",
+      "A:"
+    ],
+    [
+      "B:",
+      "B:",
+      "A:"
+    ],
+    [
+      "B:",
+      "What do you think about me?",
+      "A:"
+    ],
+    [
+      "B:",
+      "What is your favorite song?",
+      "A:"
+    ],
+    [
+      "B:",
+      "What is your favorite thing to do?",
+      "A:"
+    ],
+    [
+      "B:",
+      "Amy:",
+      "Amy:"
+    ],
+    [
+      "B:",
+      "Steve :",
+      "Steve:"
+    ],
+    [
+      "I am a german shepherd.",
+      "B:",
+      "B:"
+    ],
+    [
+      "B:",
+      "B:",
+      "A:"
+    ],
+    [
+      "B:",
+      "B:",
+      "B:"
+    ]
+  ],
+  "metawoz": [
+    "task description ahead,Task description: given the domain and context, predict the next utterance.",
+    [
+      "your",
+      "?:",
+      ".:"
+    ],
+    [
+      "at",
+      "?:",
+      ".:"
+    ],
+    [
+      "and",
+      "?:",
+      ".:"
+    ],
+    [
+      "or",
+      "?:",
+      ".:"
+    ],
+    [
+      "to another",
+      "?:",
+      ".:"
+    ],
+    [
+      "a",
+      ".:",
+      ".:"
+    ],
+    [
+      "the",
+      ".:",
+      ".:"
+    ],
+    [
+      "your",
+      ".:",
+      ".:"
+    ],
+    [
+      "and",
+      ".:",
+      ".:"
+    ],
+    [
+      "B::",
+      ":",
+      ".:"
+    ]
+  ],
+  "empathetic_dialogues": [
+    "task description ahead,Task description: given the sentiment and context, predict the next utterance.",
+    [
+      "and",
+      "?",
+      "A:"
+    ],
+    [
+      "and",
+      "?:",
+      ".:"
+    ],
+    [
+      "or",
+      "?:",
+      ".:"
+    ],
+    [
+      "and",
+      "!:",
+      ".:"
+    ],
+    [
+      "and",
+      ". B:",
+      "C:"
+    ],
+    [
+      "and",
+      ". B:",
+      "B:"
+    ],
+    [
+      "and",
+      "of you.:",
+      ".:"
+    ],
+    [
+      "and",
+      "!:",
+      "?:"
+    ],
+    [
+      "and",
+      "? A:",
+      "A:"
+    ],
+    [
+      "and",
+      "!:",
+      "!:"
+    ]
+  ],
+  "samsum": [
+    "task description,Task description: summarize the dialog.",
+    "Write a dialogue that match this summary"
+  ],
+  "dialogsum": [
+    "no prompt",
+    [
+      ".:",
+      ": Person2 reads the test to Person1."
+    ],
+    [
+      ".:",
+      ": Person1 and Person2 meet at the train station."
+    ],
+    [
+      "Person:",
+      "Person Person:"
+    ]
+  ],
+  "reading_comprehension": [
+    "task description ahead,Task description: Given the dialog, find out what person does placeholder refer to?",
+    [
+      "Ent00:",
+      "This",
+      "The placeholder is:"
+    ],
+    [
+      "Placeholder:",
+      "Ent00:",
+      "Ent01:"
+    ],
+    [
+      "Placeholder:",
+      "Ent01:",
+      "Ent03:"
+    ],
+    [
+      "Ent00",
+      "Ent01:",
+      "Entertainer:"
+    ],
+    [
+      "Placeholder:",
+      "[:",
+      "]:"
+    ],
+    [
+      "ent00",
+      "!",
+      "Ent01,"
+    ],
+    [
+      "[ Scene:",
+      "]",
+      ".:"
+    ],
+    [
+      ".:",
+      "The",
+      "The placeholder is:"
+    ],
+    [
+      "ent00",
+      "[ Scene:",
+      "]"
+    ],
+    [
+      "]:",
+      ": [",
+      ".:"
+    ]
+  ],
+  "sentihood": [
+    "no prompt",
+    [
+      "negative:",
+      "positive:",
+      "very good.:"
+    ],
+    [
+      "positive:",
+      ". negative:",
+      "very good:"
+    ],
+    [
+      "negative:",
+      ". positive:",
+      "very good:"
+    ],
+    [
+      "so",
+      ".:",
+      "very positive:"
+    ],
+    [
+      "to",
+      "?:",
+      "positive.:"
+    ],
+    [
+      ",",
+      ". :negative:",
+      "great.:"
+    ],
+    [
+      ":the general of",
+      ".:",
+      "positive.:"
+    ],
+    [
+      "the",
+      ".:",
+      "positive.:"
+    ],
+    [
+      ".",
+      ".:",
+      "positive.:"
+    ],
+    [
+      ": The general of",
+      ".:",
+      "positive.:"
+    ]
+  ],
+  "aste": [
+    "task description,Task description: Given the sentence, find out the feeling: postive, negative or neural.",
+    [
+      "Positive:",
+      "positive good!:"
+    ],
+    [
+      "The feel is positive:",
+      "also very:"
+    ],
+    [
+      ".:",
+      "positive a bit different from the feeling you get with safari:"
+    ],
+    [
+      ",",
+      "so good positive:"
+    ],
+    [
+      "The feel is positive:",
+      "also good:"
+    ],
+    [
+      "is a",
+      "good! : positive positive positive:"
+    ],
+    [
+      "is positive:",
+      "positive positive:"
+    ],
+    [
+      ". the feeling is positive:",
+      "positive positive:"
+    ],
+    [
+      "is good:",
+      "good :good!s positive positive:"
+    ],
+    [
+      "the feeling is positive:",
+      "positive positive:"
+    ]
+  ],
+  "mams": [
+    "task description ahead,Task description: Given the sentence, find out emotion towards certain aspect. ",
+    [
+      "A:",
+      "B:",
+      "neutral. C:"
+    ],
+    [
+      "A:",
+      "B:",
+      "very neutral. C:"
+    ],
+    [
+      "1:",
+      "2:",
+      "neutral. 3:"
+    ],
+    [
+      "Also,",
+      "A:",
+      "negative. B:"
+    ],
+    [
+      "Also,",
+      "A:",
+      "very negative. B:"
+    ],
+    [
+      "Comments:",
+      "Comments:",
+      "neutral. Comments:"
+    ],
+    [
+      ",",
+      "Note:",
+      "neutral. Note:"
+    ],
+    [
+      "On the other hand,",
+      ".",
+      "generally"
+    ],
+    [
+      "Note:",
+      "Note:",
+      "neutral. Note:"
+    ],
+    [
+      "food:",
+      "food:",
+      "very positive. food:"
+    ]
+  ],
+  "commonsense_qa": [
+    "task description ahead,Task description: choose the best word given the context and choice.",
+    "answer_to_question",
+    "most_suitable_answer",
+    "question_to_answer_index",
+    [
+      "? Q:",
+      "A:",
+      "B:"
+    ],
+    [
+      "Question:",
+      "Quiz:",
+      "Answer:"
+    ],
+    [
+      "3:",
+      "4:",
+      "5:"
+    ],
+    [
+      "A:",
+      "B:",
+      "C:"
+    ],
+    [
+      "1.",
+      "2.",
+      "3. What does it mean to"
+    ],
+    [
+      "? Q:",
+      "Q:",
+      "A:"
+    ],
+    [
+      "1. :",
+      "2.:",
+      "3.:"
+    ],
+    [
+      "1.",
+      "2.",
+      "1."
+    ],
+    [
+      "1.",
+      "2.",
+      "3. What does it mean to"
+    ],
+    [
+      "1.",
+      "2.",
+      "3. What is your favorite type of"
+    ]
+  ],
+  "cosmos_qa": [
+    "no prompt",
+    "context_question_description_answer_text",
+    [
+      ").",
+      "1.",
+      "Choose the correct answer:"
+    ],
+    [
+      "!",
+      "1.",
+      "Choose the correct answer:"
+    ],
+    [
+      ").",
+      "Question:",
+      "Choose the correct answer:"
+    ],
+    [
+      "!",
+      "Question:",
+      "Choose the correct answer:"
+    ],
+    [
+      "1.",
+      "2.",
+      "Choose the correct answer:"
+    ],
+    [
+      "?",
+      "Question:",
+      "Choose one of the following options:"
+    ],
+    [
+      ").",
+      "Question :",
+      "Choose one of the following options:"
+    ],
+    [
+      ",",
+      "Question :",
+      "Choose one of the following options:"
+    ],
+    [
+      ").",
+      "Question:",
+      "Choose one of the following options:"
+    ],
+    [
+      ".",
+      "Question :",
+      "Choose one of the following options:"
+    ]
+  ],
+  "go_emotions": [
+    "task description ahead,Task description: Given the sentence, find out the emotion. ",
+    [
+      "1.",
+      "2.",
+      "Is it positive, negative or"
+    ],
+    [
+      "?",
+      ".",
+      "anger,"
+    ],
+    [
+      "?",
+      ".",
+      "Is it anger,"
+    ],
+    [
+      ".",
+      "!",
+      "Sadness:"
+    ],
+    [
+      "!",
+      ".",
+      "Sadness:"
+    ],
+    [
+      ": neutral.",
+      "Question:",
+      "Answer:"
+    ],
+    [
+      "? Example:",
+      ".",
+      "example:"
+    ],
+    [
+      "Example:",
+      "Example :Gratitude.",
+      "Example:"
+    ],
+    [
+      "1.",
+      "2.",
+      "e.g.:"
+    ],
+    [
+      "1.",
+      "2.",
+      "E.g.:"
+    ]
+  ],
+  "meld": [
+    "task description ahead,Task description: Given the sentence, find out the emotion or the type of emotion.",
+    [
+      "",
+      "Question:",
+      "The sentence is"
+    ],
+    [
+      "",
+      "Question:",
+      "The answer is"
+    ],
+    [
+      "1.",
+      "2.",
+      "Is it negative, positive or"
+    ],
+    [
+      "1.",
+      "2.",
+      "Is it positive, negative or"
+    ],
+    [
+      "2.",
+      "3.",
+      "Is it positive, negative or"
+    ],
+    [
+      "Example : neutral:",
+      "Example:",
+      "Example:"
+    ],
+    [
+      ".",
+      "Question:",
+      "Emotion:"
+    ],
+    [
+      "1.",
+      "2.",
+      "Is it positive, negative, or"
+    ],
+    [
+      "1.",
+      "2.",
+      "Postive: negative or"
+    ],
+    [
+      "1.",
+      "2.",
+      "3. Is the sentence positive or"
+    ]
+  ],
+  "reccon": [
+    "task description ahead,Task description: Given the context and utterance, find out the emotion or what causes the emotion. ",
+    [
+      "What is the meaning of this sentence?",
+      ".",
+      "Is it positive, negative or"
+    ],
+    [
+      "What do you think?",
+      ".",
+      "Is it positive, negative or"
+    ],
+    [
+      "1.",
+      "2.",
+      "Is it positive, negative or"
+    ],
+    [
+      "1.",
+      "2.",
+      "Is it negative, positive or"
+    ],
+    [
+      "1.",
+      "2.",
+      "Is the emotion positive, negative or"
+    ],
+    [
+      "B: What is the meaning of happiness?",
+      "A:",
+      "A:"
+    ],
+    [
+      "?",
+      ".",
+      "Is it positive, negative, or"
+    ],
+    [
+      "?",
+      ".",
+      "Is it positive, negative or"
+    ],
+    [
+      "?",
+      ".",
+      "Is it negative, positive, or"
+    ],
+    [
+      ".",
+      "What makes you happy?",
+      "B:"
+    ]
+  ],
+  "kgdial": [
+    "task description ahead,Task description: Given the external knowlegde, answer the question.",
+    [
+      "address is:",
+      ".",
+      "of the garage:"
+    ],
+    [
+      "address is:",
+      ".",
+      "of the garage?:"
+    ],
+    [
+      "restaurant:",
+      ".:",
+      "of the hotel?:"
+    ],
+    [
+      ". :where is the nearest shopping center?:",
+      ".:",
+      "town?:"
+    ],
+    [
+      "the",
+      ".:",
+      "i m 7 miles away from their house.:"
+    ],
+    [
+      "the",
+      ".:",
+      "i m 7 miles away from them.:"
+    ],
+    [
+      ". :where is it?:",
+      ".:",
+      "?:"
+    ],
+    [
+      "i m looking for:",
+      ":",
+      "_in_the_distance:"
+    ]
+  ],
+  "woi": [
+    "task description ahead,Task description: given the context and grounding, search the web or predict the next utterance.",
+    [
+      "I like movies.",
+      "Wizard:",
+      "Apprentice:"
+    ],
+    [
+      ".",
+      "again Wizard:",
+      "Apprentice:"
+    ],
+    [
+      "",
+      "Wizard and",
+      "Apprentice:"
+    ],
+    [
+      ".",
+      "! Wizard:",
+      "Apprentice:"
+    ],
+    [
+      ".",
+      "Wizard:",
+      "Apprentice:"
+    ],
+    [
+      ".",
+      "Wizard:",
+      "Apprentice:"
+    ],
+    [
+      ".",
+      "Wizard:",
+      "Apprentice"
+    ],
+    [
+      ".",
+      "Wizard persona :",
+      "Apprentice:"
+    ],
+    [
+      "Wizard:",
+      ". Wizard:",
+      "Apprentice:"
+    ],
+    [
+      ".",
+      "!",
+      "Apprentice:"
+    ]
+  ],
+  "commonsense_dialog": [
+    "task description ahead,Task description: given the character background and context, predict the next utterance.",
+    [
+      "Speaker2 and",
+      "1.",
+      "2."
+    ],
+    [
+      "Speaker2 and",
+      ".",
+      "?"
+    ],
+    [
+      "1.:",
+      "2.:",
+      "4.:"
+    ],
+    [
+      "2.:",
+      "3.:",
+      "4.:"
+    ],
+    [
+      "2.",
+      "3.:",
+      "4.:"
+    ],
+    [
+      "Both speaker2 and",
+      "1.",
+      "2."
+    ],
+    [
+      "Speaker2 and",
+      "1.",
+      "2."
+    ],
+    [
+      "Speaker2 and",
+      ".",
+      "."
+    ],
+    [
+      "Speaker2 and",
+      ":",
+      ".:"
+    ],
+    [
+      "speaker2 and",
+      ".:",
+      ".:"
+    ]
+  ],
+  "xlsum": [
+    "task description ahead,Task description: Summarize the passage.",
+    [
+      "Description:",
+      "1.",
+      "Summary:"
+    ],
+    [
+      "Description:",
+      "2.",
+      "Summary:"
+    ],
+    [
+      "Description:",
+      "Directions:",
+      "Summary:"
+    ],
+    [
+      "Description:",
+      "Notes:",
+      "Summary:"
+    ],
+    [
+      "1. Summary:",
+      "2.",
+      "3. Synopsis:"
+    ],
+    [
+      "The results of the consultation have been revealed.",
+      "",
+      "The"
+    ],
+    [
+      ".",
+      "",
+      "The"
+    ],
+    [
+      "Description:",
+      "",
+      "Description:"
+    ],
+    [
+      "Description:",
+      "1.",
+      "Description:"
+    ],
+    [
+      ". Summary:",
+      ".:",
+      "Summary:"
+    ]
+  ],
+  "web_nlg": [
+    "task description ahead,Task description: Given the domain and triplets, generate the sentence.",
+    [
+      "I have the following",
+      ".",
+      "The"
+    ],
+    [
+      "You have the following",
+      ".",
+      "The"
+    ],
+    [
+      "You have the",
+      ".",
+      "The"
+    ],
+    [
+      "::",
+      ".",
+      "The triple:"
+    ],
+    [
+      "?",
+      ".",
+      "Domain:"
+    ],
+    [
+      "State",
+      ".",
+      "The city of"
+    ],
+    [
+      ".",
+      ".",
+      "The city of"
+    ],
+    [
+      ".",
+      ".",
+      "The company"
+    ],
+    [
+      ". Triple:",
+      ".",
+      "Triple:"
+    ],
+    [
+      ".:",
+      "orbit period 14260000.:",
+      ".:"
+    ]
+  ],
+  "xwikis": [
+    "no prompt",
+    [
+      ". Summary:",
+      "1.",
+      "Description:"
+    ],
+    [
+      ". Description::",
+      ", Ltd (PSC).",
+      "Summary:"
+    ],
+    [
+      ". Summary:",
+      "Conclusion:",
+      "Synopsis:"
+    ],
+    [
+      ". Summary:",
+      "Description:",
+      "Synopsis:"
+    ],
+    [
+      ". Summary:",
+      "Note:",
+      "Description:"
+    ],
+    [
+      "Summary:",
+      "Summary:",
+      "Summary:"
+    ],
+    [
+      "Summary:",
+      "Summary :",
+      "Summary:"
+    ],
+    [
+      ". Summary:",
+      "Summary:",
+      "Summary:"
+    ],
+    [
+      "Assignment",
+      "Assignment title:",
+      "a>"
+    ],
+    [
+      ". 1.:",
+      "2.:",
+      "a href>:"
+    ]
+  ],
+  "wiki_lingua": [
+    "task description ahead,Task description: Summarize the passage.",
+    [
+      "How to Introduce Yourself:",
+      "What To Do When Meeting A Patient For The First Time"
+    ],
+    [
+      "1.:",
+      "2. 3.:"
+    ],
+    [
+      "How to Protect Your Trash Can?:",
+      "What To Do HOW TO PREVENT:"
+    ],
+    [
+      "1:",
+      "2 3:"
+    ],
+    [
+      "Here's how to do it:",
+      "Follow the same steps as above:."
+    ],
+    [
+      "Method:",
+      "Method Method:"
+    ],
+    [
+      "Method 1:",
+      "Method 2 Method 3:"
+    ],
+    [
+      "Tips:",
+      "Tips Tip:"
+    ],
+    [
+      "Tips:",
+      "Tips Tips:"
+    ]
+  ],
+  "dart": [
+    "task description,Task description: Given the triplets, generate the sentence.",
+    [
+      ":",
+      "and more!",
+      "Located in"
+    ],
+    [
+      ":",
+      ".",
+      "Episode 4:"
+    ]
+  ],
+  "e2e_nlg": [
+    "no prompt",
+    [
+      ",",
+      "",
+      "The restaurant"
+    ],
+    [
+      ",",
+      "",
+      "The"
+    ],
+    [
+      "Restaurant",
+      ",",
+      "The restaurant"
+    ],
+    [
+      ",",
+      ".",
+      "The"
+    ],
+    [
+      ". Example:",
+      ", kids Friendly: no",
+      "example:"
+    ],
+    [
+      ",",
+      ".",
+      "The restaurant"
+    ],
+    [
+      ",",
+      ".",
+      "The Mill:"
+    ],
+    [
+      ",",
+      ".",
+      "The"
+    ],
+    [
+      "Example:",
+      ",",
+      "Example:"
+    ],
+    [
+      ",",
+      ".",
+      "Name:"
+    ]
+  ],
+  "common_gen": [
+    "task description,Task description: Given the triplets, generate the sentence.",
+    "Given concepts type 1",
+    "Put together",
+    "choice in concept centric sentence generation",
+    "topic to sentence",
+    [
+      "on",
+      ".",
+      "Example sentences with the word:"
+    ],
+    [
+      "and:",
+      ".",
+      "Example sentences with the word:"
+    ],
+    [
+      "at",
+      ".",
+      "Example sentences with the word:"
+    ],
+    [
+      "and",
+      ".",
+      "Example sentences with the word:"
+    ],
+    [
+      "to",
+      ".",
+      "Example sentences with the word:"
+    ],
+    [
+      "and",
+      ".",
+      "Example sentences with the word:"
+    ],
+    [
+      "leather",
+      ".",
+      "Example sentences with the word:"
+    ],
+    [
+      "a",
+      ".",
+      "Example sentences with the word:"
+    ],
+    [
+      "featuring mini",
+      ".",
+      "This is"
+    ],
+    [
+      "a",
+      ".",
+      "Example sentences with:"
+    ]
+  ],
+  "ketod": [
+    "task description ahead,Task description: Given the context, generate the next utterance or find the user intent or user state.",
+    [
+      "In",
+      "this",
+      "Thank you."
+    ],
+    [
+      "In",
+      "this",
+      "What do you think?"
+    ],
+    [
+      "In",
+      "this",
+      "Thanks."
+    ],
+    [
+      "In",
+      "this",
+      "user:"
+    ],
+    [
+      "In",
+      "this",
+      "Thanks.:"
+    ],
+    [
+      "User",
+      "system: In",
+      "user_state"
+    ],
+    [
+      "User",
+      "user:",
+      "system:"
+    ],
+    [
+      "user: How do I get out of here?",
+      ".:",
+      "system: Yes.:"
+    ],
+    [
+      "in the following",
+      ".",
+      "system:"
+    ],
+    [
+      "In",
+      "following",
+      "system::"
+    ]
+  ],
+  "fusedchat": [
+    "task description ahead,Task description: Given the domain and triplets, generate the sentence.",
+    [
+      "System:",
+      "system.:"
+    ],
+    [
+      "1:",
+      "2 3:"
+    ],
+    [
+      "System:",
+      "user system:"
+    ],
+    [
+      "system:",
+      "? System"
+    ],
+    [
+      "user:",
+      "? system"
+    ],
+    [
+      "System:",
+      ": System"
+    ],
+    [
+      "system:",
+      "system: Yes, I can. system"
+    ],
+    [
+      "system:",
+      "system: Thank you. system"
+    ],
+    [
+      "user:",
+      "system user:"
+    ],
+    [
+      "System:",
+      ": system"
+    ]
+  ]
+}

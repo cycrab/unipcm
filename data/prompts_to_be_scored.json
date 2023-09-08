@@ -1,0 +1,1380 @@
+{
+  "answer": {
+    ";In reply to the question :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";his reponse :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";My reponse :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Her answer :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Best Answer :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "; Response :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Your answer :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";my reponse is :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "; Answer : It is": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The Response :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Can you reply ?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The answer is:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Your Response :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Quick Response :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "The Answer : ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Apprentice reply :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";I will respond with": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";How do you respond ?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Quick Response :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";What is his reponse ?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Apprentice Response :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";How did you respond to the question? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";What is your reponse to the question?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Thanks for your reply !": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Wizard will respond with": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";How do you respond to it?,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";In reply to your question,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The correct answer is that": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question: ;The correct answer is": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question and Answer : ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";What is your reponse ? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";How do people respond to it?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question: ;The correct answer is: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Can you answer this question?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    }
+  },
+  "choice": {
+    "; Answer :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The Answer :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "so;Correct Answer :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Q:;A:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";You can choose :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";You may choose :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The correct choice is:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The correct answer is :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "So;Choose the correct choice :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The correct answer is": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Choose the correct choice :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Why did you choose the word": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";in the first place Answer :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Which is the best choice ?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";What is the best choice ?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    " Choose the best choice : ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The answer to this question is :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "You may also choose : ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Thank you!;The correct answer is:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Answer A: I would choose?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Q:;Answer A: I will choose": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";You can choose from these options:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Choose the correct answer :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Answer:;The correct choice will be": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    " Choose from the above choices. ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    " Choose From the given choices.  ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question: ;Which word would you choose for the question? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Which choice would you choose ?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The correct answer to this question is:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Which choice would you choose :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Please choose one of the choices. ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question: ;The answer to this question is: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Which word do you choose to describe ? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Please choose a word from the list above:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Please choose one of the choices mentioned:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Answer:;The correct answer to this question is: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";You can choose from any of these choices.": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question:;The answer to this question is": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Choose the choice that best fits your situation:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    }
+  },
+  "emotion": {
+    "the emotion is:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";I have this feeling of": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Thank you very much!;I have the feeling of": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";I'm feeling pretty": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";I'm feeling very": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";I'm feeling a little": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Thank you so much!;I have this feeling of": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";I hope everyone feels the": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    " I hope everyone feels the same of": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";it feels very": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "; it feels like": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";it feels like a": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";I agree with your sentiments of": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Thank you for sharing your sentiments of": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    }
+  },
+  "generated": {
+    ";An example of the generated sentences: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Can you generate more sentences like this?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Can you generate more sentences like that?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Key words:;Generate an example sentence: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "What are the keywords for this sentence?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "The sentence you can generate is: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Can you express the meaning of this sentence?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Key words:;This will generate the following sentence:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";What keywords do you use in your sentences?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Tags:;Generate the following sentence:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Tags:;Can you generate more sentences like this? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Tags:;; Generate sentences using single quotes": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Tags:;This will generate the following sentence: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "What keywords do you use in the sentence? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Can you generate a sentence with these words? Answer:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question: Can you generate a sentence with these words? Answer:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Can you generate a sentence with these words?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "What keywords do you use in a sentence? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "What is the meaning of these expressions ? Can you come up with a sentence? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Tags:;How can you generate a sentence with these words?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Keywords:;How can you generate a sentence with these words?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "How can you generate a sentence with these words?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "This will generate the following sentence: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "The above words can be used to generate a sentence: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "What keywords do you use to generate the sentence? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Can You Generate A Sentence With These Words? Answer:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Example: Generate the following sentence": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The above expression can be used to generate the sentence:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Answer: Generate a sentence with these words! ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Keywords:;What keywords do you use to generate the sentence?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "What keywords do you use in your sentence? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";How would you express yourself in a sentence?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Can you express how these words are connected to each other?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Tags:;How would you express yourself in this sentence? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Please express your thoughts in the form of a sentence: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "What is the meaning of this expression ? Can you come up with another one?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Can you generate a sentence with those words? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Can you give me a list of all the expressions that can be made from these words?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Can you express how these words are connected to each other? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Can you give me a list of all the expressions that can be made from those words?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Can you express yourself using the words in a sentence?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "How do you express yourself in those three words? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Can you give me a sentence for these expressions? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Can you think of any other expressions that could be made from them?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Can you think of any other expressions that could be made from them? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Can you generate a sentence with these words? Example sentences with,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Can you express yourself using only one or more of the words listed above?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Can you think of any other expressions that can be made from them? What": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Can you generate more sentences with the same letters? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    }
+  },
+  "intent": {
+    "Ask the;The user's intention is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The user's purpose is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Ask the;Answer: The user's purpose is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Ask the;The user intent is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Ask a;The user's purpose is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The user's intention is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";What user intent do you think fits the sentence above?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";It is the user's intention to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The user's intention was to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from the;The user's purpose is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from the;The user's intention is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";This user's purpose is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Ask the;The user purpose is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Based on user's intention to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question of the;The user intention is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Ask the;The user intention is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from the;The user's intention was to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Based on the user's purpose of ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Ask the;The user intent is easy to find: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Based on this user's purpose in the": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;The user's purpose is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The user intention is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";based on user intention to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";This is a user intention to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The user purpose : To": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Intent from the;The user intent is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The user intent is to ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from the; The user intention is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The user intent is: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";What is the user intention ? To": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;What is the user intention ? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "; The user purpose is to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;Answered by user purpose : To": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from; This is a user intention to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Default user purpose : I want to": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "according to the user purpose : ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "What is the user purpose ? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    }
+  },
+  "response": {
+    "; Response :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Quick Response :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "to your; Response :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Whats your reponse ?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    " Response :, can you help me?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "you were;What was your reponse ?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";What is your reponse ?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "How did you respond ? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    " What is your reponse to this? and": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Can you please respond ? Please": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "That's my reponse:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "How did you respond to that? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "How did you respond to my question? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "If so, what is your reponse ? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "What's your reponse to that? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Can you respond to my question? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "How did you respond to this question? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ",;Thank you for taking the time to reply. ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";What's your reponse to this question?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Thank you so much for taking the time to reply ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Thank you for your reply. ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Thank you for your reply. I would like to hear it.": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Thank you for taking the time to respond ! ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "How did you respond to the question? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "What is your reponse ? Can you give me some hint? ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Thank you so much for your reply. I can't wait to hear it.": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Thanks for taking the time to reply. ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    }
+  },
+  "state": {
+    "Question from;Answered with user info :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;Answered by user info :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "request from; user info :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;Answered by user state :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;Answered by user information :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from the;Answered with user info :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;Answered in user info :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from; user info :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from; Answered with user information :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;Answered user info :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from; Answered with the following user information :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;Answered with user information :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from; Answered by user state :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;Answered by user's state :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from a;Answered by user status :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from the;Answered with user information :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;Answered by: user state ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from; Answered user information :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;Answered in user's state :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    " User status :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Answered in the user's state :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from the; The user information includes:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;Answered user information :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from the;The user information :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from the;The user's state :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;Answered question by user state :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;This user's state :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from a;A user's state of the": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The user's state :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "based on user status :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Message from;Thank you for your help user info :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question from;Answered in this user's state :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    }
+  },
+  "summary": {
+    "; In summary ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "; In summary :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "What do you think about this;In summary ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "; To sum up ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "To sum up , I think that would": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";to sum up :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";, with the main idea being:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ":; The main idea of this story is that": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "This is the main idea : ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";with the main idea :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "The main idea of this article: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    }
+  },
+  "key information": {
+    ";For more information :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";In the following format :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";To get more information ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question:;In a structure ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Query:;Change the query into a structured language: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";In a structured language :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";How do I change this sentence into structured language?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";For more information please search: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";To get this information ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";In the following structure :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";In a structured language ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";The structure is as follows:": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";In structured language :": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";In the following format , you can": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question:;In the following format ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";In a more structured language ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";In the following structure ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Example:;In the following format ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";To display this information ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question:;How do I change the question into structured language?": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";In the structured language ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";In the following structure ,you can say: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Using the structured language ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Example:;In the following structure ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "The format is as follows: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";For more information , please contact us: ": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question:;In structured language, you can": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    "Question:;Using structured language ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    },
+    ";Using the following structured language ,": {
+      "Task-specificity": 2,
+      "Coherency": 2,
+      "Fluency": 2
+    }
+  }
+}
